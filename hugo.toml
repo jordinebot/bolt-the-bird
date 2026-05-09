@@ -8,6 +8,7 @@ title = 'Bolt the Bird'
 
 [params]
   logo = "/images/logo.webp"
+  logoWidth = "100px"
   accentColor = "#FB1105"
 
 [taxonomies]
