@@ -7,6 +7,10 @@ hugo_stats.json
 # Node / Pagefind
 /node_modules/
 
+# Local-only dev wiring (Hugo Module replacement to local theme checkout).
+# CI runs in production env and ignores this file by design.
+/config/development/
+
 # OS
 .DS_Store
 Thumbs.db
