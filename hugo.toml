@@ -7,8 +7,7 @@ title = 'Bolt the Bird'
     path = "github.com/jordinebot/hugo-manaforge"
 
 [params]
-  logo = "/images/logo.webp"
-  logoWidth = "100px"
+  logo = "/images/logo-horizontal.webp"
   accentColor = "#FB1105"
 
 [taxonomies]
