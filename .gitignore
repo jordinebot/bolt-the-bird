@@ -4,6 +4,9 @@
 .hugo_build.lock
 hugo_stats.json
 
+# Node / Pagefind
+/node_modules/
+
 # OS
 .DS_Store
 Thumbs.db

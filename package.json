@@ -1,0 +1,13 @@
+{
+  "name": "bolt-the-bird",
+  "private": true,
+  "description": "Bolt the Bird — Magic: The Gathering blog. Pagefind indexes the rendered HTML after Hugo builds.",
+  "scripts": {
+    "build": "hugo --minify --gc && pagefind --site public",
+    "serve": "hugo server",
+    "index": "pagefind --site public"
+  },
+  "devDependencies": {
+    "pagefind": "^1.4.0"
+  }
+}
