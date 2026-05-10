@@ -44,6 +44,14 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      - name: Cache Hugo getresource (Scryfall API responses)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/hugo_cache
+          key: ${{ runner.os }}-hugo-getresource-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-getresource-
+
       - name: Build
         env:
           HUGO_ENVIRONMENT: production
