@@ -23,7 +23,9 @@ A les 10:00, molt puntual, començava el meu torneig. La gestió es feia a trav�
 La meva baralla era una versió amb la base de manà lleugerament millorada de la [Budget Dino Whack](https://www.mtggoldfish.com/articles/budget-magic-100-dino-whack-modern) de SaffronOlive. Vaig escollir-la principalment per tres motius:
 
 1. És una baralla que pots construir amb un pressuport molt ajustat
+
 2. Tot i no ser una baralla gaire competitiva, té la possibilitat d'agafar el rival per sorpresa i robar alguna victòria.
+
 3. No té espai per a jugar interacció. Això, que d'entrada sona negatiu, ho vaig veure com un avantatge. No hi ha res més frustrant, quan jugues contra baralles que no coneixes, que tenir interacció a la mà però no saber exactament quines son les peces clau de la baralla del rival que hauries de contrarestar o destruir.
 
 Comença el torneig! El meu principal objectiu és aprendre, passar-m'ho bé, intentar no cometre errors en el meu joc i, si pot ser, robar alguna partida per intentar no quedar últim.
