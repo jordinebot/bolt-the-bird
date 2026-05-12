@@ -1,6 +1,6 @@
 baseURL = 'https://www.bolt-the-bird.com/'
-locale = 'en-us'
-title = 'Bolt the bird!'
+defaultContentLanguage = "en"
+title = "Bolt the bird!"
 
 [module]
   [[module.imports]]
@@ -8,25 +8,14 @@ title = 'Bolt the bird!'
   [[module.imports]]
     path = "github.com/jordinebot/hugo-mtg-shortcodes"
 
+# Settings shared across all languages.
 [params]
-  description = "Bolts, birds, and other MTG-themed nonsense."
-
-  [params.footer]
-    tagline = "Bolts, birds, and other MTG-themed nonsense."
+  accentColor = "#FB1105"
 
 [taxonomies]
   tag = "tags"
 
-[[menus.main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 10
-
-[[menus.main]]
-  name = "Tags"
-  url = "/tags/"
-  weight = 20
-
+# Footer icon links — shared across languages.
 [[menus.footer]]
   name = "GitHub"
   url = "https://github.com/jordinebot"
@@ -40,3 +29,51 @@ title = 'Bolt the bird!'
   weight = 20
   [menus.footer.params]
     icon = "rss"
+
+# ---------------------------------------------------------------------------
+# Languages
+#
+# Posts translate via the file-suffix convention:
+#   content/posts/foo.md      → English (default)
+#   content/posts/foo.ca.md   → Catalan translation
+# ---------------------------------------------------------------------------
+
+[languages]
+
+  [languages.en]
+    label = "English"
+    locale = "en-us"
+    weight = 1
+
+    [languages.en.params]
+      description = "Bolts, birds, and other MTG-themed nonsense."
+      [languages.en.params.footer]
+        tagline = "Bolts, birds, and other MTG-themed nonsense."
+
+    [[languages.en.menus.main]]
+      name = "Posts"
+      url  = "/posts/"
+      weight = 10
+    [[languages.en.menus.main]]
+      name = "Tags"
+      url  = "/tags/"
+      weight = 20
+
+  [languages.ca]
+    label = "Català"
+    locale = "ca-es"
+    weight = 2
+
+    [languages.ca.params]
+      description = "Llamps, ocells i altres ximpleries de temàtica MTG."
+      [languages.ca.params.footer]
+        tagline = "Llamps, ocells i altres ximpleries de temàtica MTG."
+
+    [[languages.ca.menus.main]]
+      name = "Entrades"
+      url  = "/ca/posts/"
+      weight = 10
+    [[languages.ca.menus.main]]
+      name = "Etiquetes"
+      url  = "/ca/tags/"
+      weight = 20
