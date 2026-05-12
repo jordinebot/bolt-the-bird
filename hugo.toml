@@ -1,6 +1,6 @@
 baseURL = 'https://www.bolt-the-bird.com/'
 locale = 'en-us'
-title = 'Bolt the Bird'
+title = 'Bolt the bird!'
 
 [module]
   [[module.imports]]

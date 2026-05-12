@@ -1,5 +1,5 @@
 ---
-title: "Bolt the Bird"
+title: "Bolt the bird!"
 ---
 
-Welcome to _Bolt the Bird_! My personal blog about Magic: The Gathering.
+Welcome to _Bolt the bird!_ My personal blog about Magic: The Gathering.
