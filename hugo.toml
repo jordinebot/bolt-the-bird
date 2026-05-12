@@ -9,11 +9,10 @@ title = 'Bolt the bird!'
     path = "github.com/jordinebot/hugo-mtg-shortcodes"
 
 [params]
-  description = "Brews, bolts, and bird-themed nonsense from the Modern format."
-  accentColor = "#FB1105"
+  description = "Bolts, birds, and other MTG-themed nonsense."
 
   [params.footer]
-    tagline = "Brews, bolts, and bird-themed nonsense from the Modern format."
+    tagline = "Bolts, birds, and other MTG-themed nonsense."
 
 [taxonomies]
   tag = "tags"
