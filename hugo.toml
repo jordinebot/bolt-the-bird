@@ -15,20 +15,9 @@ title = "Bolt the bird!"
 [taxonomies]
   tag = "tags"
 
-# Footer icon links — shared across languages.
-[[menus.footer]]
-  name = "GitHub"
-  url = "https://github.com/jordinebot"
-  weight = 10
-  [menus.footer.params]
-    icon = "github"
-
-[[menus.footer]]
-  name = "RSS"
-  url = "/index.xml"
-  weight = 20
-  [menus.footer.params]
-    icon = "rss"
+# Footer links live PER LANGUAGE (see [[languages.<lang>.menus.footer]]).
+# With [languages] configured, top-level [[menus.footer]] blocks don't
+# attach to any language and silently fail to render.
 
 # ---------------------------------------------------------------------------
 # Languages
@@ -59,15 +48,28 @@ title = "Bolt the bird!"
       url  = "/tags/"
       weight = 20
 
+    [[languages.en.menus.footer]]
+      name = "GitHub"
+      url  = "https://github.com/jordinebot"
+      weight = 10
+      [languages.en.menus.footer.params]
+        icon = "github"
+    [[languages.en.menus.footer]]
+      name = "RSS"
+      url  = "/index.xml"
+      weight = 20
+      [languages.en.menus.footer.params]
+        icon = "rss"
+
   [languages.ca]
     label = "Català"
     locale = "ca-es"
     weight = 2
 
     [languages.ca.params]
-      description = "Llamps, ocells i altres ximpleries de temàtica MTG."
+      description = "Llamps, ocells i altres ximpleries sobre MTG."
       [languages.ca.params.footer]
-        tagline = "Llamps, ocells i altres ximpleries de temàtica MTG."
+        tagline = "Llamps, ocells i altres ximpleries sobre MTG."
 
     [[languages.ca.menus.main]]
       name = "Entrades"
@@ -77,3 +79,16 @@ title = "Bolt the bird!"
       name = "Etiquetes"
       url  = "/ca/tags/"
       weight = 20
+
+    [[languages.ca.menus.footer]]
+      name = "GitHub"
+      url  = "https://github.com/jordinebot"
+      weight = 10
+      [languages.ca.menus.footer.params]
+        icon = "github"
+    [[languages.ca.menus.footer]]
+      name = "RSS"
+      url  = "/ca/index.xml"
+      weight = 20
+      [languages.ca.menus.footer.params]
+        icon = "rss"
