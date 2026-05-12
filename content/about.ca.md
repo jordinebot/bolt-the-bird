@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Quant a"
 date: 2026-05-12T10:33:14+02:00
 ---
 

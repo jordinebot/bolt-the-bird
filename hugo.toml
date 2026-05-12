@@ -10,7 +10,7 @@ title = "Bolt the bird!"
 
 # Settings shared across all languages.
 [params]
-  accentColor = "#FB1105"
+  # accentColor = "#FB1105"
 
 [taxonomies]
   tag = "tags"
@@ -47,6 +47,10 @@ title = "Bolt the bird!"
       name = "Tags"
       url  = "/tags/"
       weight = 20
+    [[languages.en.menus.main]]
+      name = "About"
+      url  = "/about/"
+      weight = 30
 
     [[languages.en.menus.footer]]
       name = "GitHub"
@@ -79,6 +83,10 @@ title = "Bolt the bird!"
       name = "Etiquetes"
       url  = "/ca/tags/"
       weight = 20
+    [[languages.ca.menus.main]]
+      name = "Quant a"
+      url  = "/ca/about/"
+      weight = 30
 
     [[languages.ca.menus.footer]]
       name = "GitHub"
