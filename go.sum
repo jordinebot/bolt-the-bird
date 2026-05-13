@@ -8,5 +8,7 @@ github.com/jordinebot/hugo-leyline v0.0.0-20260512110721-4c5c6f13db72 h1:IJfaDQP
 github.com/jordinebot/hugo-leyline v0.0.0-20260512110721-4c5c6f13db72/go.mod h1:754EZ/E9O9ERAT5eXwVMIboSydZLKc+rb64XSv6QYcg=
 github.com/jordinebot/hugo-leyline v0.0.0-20260512113735-e0c067de8444 h1:d1EKWPB2dg8cPT+A5jHblAxlraCZqEKDmq/B1r+Z3TU=
 github.com/jordinebot/hugo-leyline v0.0.0-20260512113735-e0c067de8444/go.mod h1:754EZ/E9O9ERAT5eXwVMIboSydZLKc+rb64XSv6QYcg=
+github.com/jordinebot/hugo-leyline v0.0.0-20260513070934-229f4056672b h1:bu0kxCLqoIz5SqcXDBINz75bFeeFh1HIFpXIYdIfkVM=
+github.com/jordinebot/hugo-leyline v0.0.0-20260513070934-229f4056672b/go.mod h1:754EZ/E9O9ERAT5eXwVMIboSydZLKc+rb64XSv6QYcg=
 github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260511202804-f09a4231e4d6 h1:ssG0SMkTdhypxUW9tNvy1vHE46pPlVGrhZ/gasd1BHg=
 github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260511202804-f09a4231e4d6/go.mod h1:S7/H4mcsv3kTDqC/uooGv0mvct9pkP/ItA9gyPIhPls=
