@@ -1,7 +1,6 @@
 ---
 title: "Torno a l'Arena"
 date: 2026-05-16T16:06:27+02:00
-draft: true
 description: ""
 featured: true
 tags: [arena]

@@ -1,7 +1,6 @@
 ---
 title: "Back to Mtg Arena"
 date: 2026-05-16T16:06:27+02:00
-draft: true
 featured: true
 description: ""
 tags: [arena]
