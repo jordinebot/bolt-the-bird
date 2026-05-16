@@ -1,0 +1,1 @@
+Això és tot el que he escrit sobre MTG, amb el més nou a dalt de tot!
