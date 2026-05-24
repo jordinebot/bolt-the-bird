@@ -7,14 +7,31 @@ content:
     label: Blog Posts
     type: collection
     path: content/posts
-    filename: "{primary}.md"
+
+    # Generates:
+    # my-post.ca.md
+    # my-post.en.md
+    filename: "{primary}.{fields.language}.md"
+
     view:
-      fields: [title, date, draft]
+      fields: [title, language, date, draft]
       primary: title
       sort: date
       order: desc
 
     fields:
+      - name: language
+        label: Language
+        type: select
+        required: true
+        options:
+          values:
+            - label: Català
+              value: ca
+
+            - label: English
+              value: en
+
       - name: title
         label: Title
         type: string
@@ -39,28 +56,10 @@ content:
         type: string
         list: true
 
-      - name: body
-        label: Content
-        type: rich-text
-
-  - name: pages
-    label: Pages
-    type: collection
-    path: content
-    subfolders: false
-    exclude:
-      - posts
-
-    fields:
-      - name: title
-        label: Title
+      # Useful for Hugo multilingual linking
+      - name: translationKey
+        label: Translation Key
         type: string
-        required: true
-
-      - name: draft
-        label: Draft
-        type: boolean
-        default: false
 
       - name: body
         label: Content
