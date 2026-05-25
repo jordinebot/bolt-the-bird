@@ -1,8 +1,6 @@
 ---
 title: "Primers passos a Secrets of Strixhaven Draft"
 date: 2026-05-25T15:22:17+02:00
-draft: true
-description: ""
 featured: true
 tags: [arena, limited, draft]
 image: "/images/sos-draft.webp"
