@@ -6,6 +6,7 @@ featured: true
 tags: [arena]
 image: "/images/mtg-arena.jpg"
 ---
+
 Ja deu fer ben bé un any que vaig desinstal·lar l'[MTGArena](https://magic.wizards.com/en/mtgarena) de l'iPad, una mica fart d'Standard BO1, de jugar tota l'estona contra les mateixes baralles i de rivals que et deixen penjat quan la partida se'ls torça... No ho he trobat a faltar, la veritat! M'agrada molt més jugar en persona i amb cartronets.
 
 De totes maneres, en els últims mesos estic bastant enganxat al Magic i tinc ganes de millorar com a jugador i, sobretot, com a constructor de baralles. Pels anys que hi he dedicat, soc bastant dolent, no us enganyaré! I crec que MTGArena i [MTGO](https://www.mtgo.com) són les millors opcions disponibles per a fer-ho.
@@ -13,6 +14,7 @@ De totes maneres, en els últims mesos estic bastant enganxat al Magic i tinc ga
 A més a més, tinc un ordinador nou i tinc ganes de provar com és l'experiència de joc amb una màquina més capaç, amb millor pantalla, amb ratolí! i amb l'ajuda de les aplicacions que ofereixen informació sobreposada al joc, com [Untapped.gg](https://mtga.untapped.gg/companion), [17Lands](https://www.17lands.com/) o [Draftsim](https://draftsim.com/arenatutor/).
 
 ## Quin és el pla?
+
 He llegit moltes vegades que la millor manera de ser més bon jugador de Magic és jugar [Limited](https://mtg.fandom.com/wiki/Limited) i, especialment, [Draft](https://mtg.fandom.com/wiki/Booster_Draft). I també he llegit que, a més a més, és el format més divertit... així que suposo que val la pena provar-ho, no?
 
 Dec haver jugat 2 o 3 drafts en el passat, a l'Arena, i l'experiència no va ser gaire reeixida... ni tan sols recordo quina o quines expansions vaig jugar... però sí que recordo que a prou feines vaig guanyar alguna partida i que, de fet, no va ser gaire divertit...

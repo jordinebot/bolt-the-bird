@@ -10,7 +10,15 @@ github.com/jordinebot/hugo-leyline v0.0.0-20260512113735-e0c067de8444 h1:d1EKWPB
 github.com/jordinebot/hugo-leyline v0.0.0-20260512113735-e0c067de8444/go.mod h1:754EZ/E9O9ERAT5eXwVMIboSydZLKc+rb64XSv6QYcg=
 github.com/jordinebot/hugo-leyline v0.0.0-20260513070934-229f4056672b h1:bu0kxCLqoIz5SqcXDBINz75bFeeFh1HIFpXIYdIfkVM=
 github.com/jordinebot/hugo-leyline v0.0.0-20260513070934-229f4056672b/go.mod h1:754EZ/E9O9ERAT5eXwVMIboSydZLKc+rb64XSv6QYcg=
+github.com/jordinebot/hugo-leyline v0.0.0-20260525153351-1e5828559ae7 h1:3s19M/KLP2zwtnjH8VRKvwZSlhJ7kfbuv94AmuGI3fU=
+github.com/jordinebot/hugo-leyline v0.0.0-20260525153351-1e5828559ae7/go.mod h1:754EZ/E9O9ERAT5eXwVMIboSydZLKc+rb64XSv6QYcg=
+github.com/jordinebot/hugo-leyline v0.0.0-20260525160932-53c45418aea0 h1:xl6z6cNiluQSf47/45Sa2Ipo+bXZx7W2xbp5nCEHKKE=
+github.com/jordinebot/hugo-leyline v0.0.0-20260525160932-53c45418aea0/go.mod h1:754EZ/E9O9ERAT5eXwVMIboSydZLKc+rb64XSv6QYcg=
 github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260511202804-f09a4231e4d6 h1:ssG0SMkTdhypxUW9tNvy1vHE46pPlVGrhZ/gasd1BHg=
 github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260511202804-f09a4231e4d6/go.mod h1:S7/H4mcsv3kTDqC/uooGv0mvct9pkP/ItA9gyPIhPls=
 github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260512164626-247231f8dc25 h1:CGw5gW35chKPnRezvgtLk4Z+mKpTndztW4ptfJCE5+0=
 github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260512164626-247231f8dc25/go.mod h1:S7/H4mcsv3kTDqC/uooGv0mvct9pkP/ItA9gyPIhPls=
+github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260525160419-fb56ad40ba0a h1:E89vqs5g+qg9zI7zl9yf8LK/G2LVpeZrr9AGG/iuTX8=
+github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260525160419-fb56ad40ba0a/go.mod h1:S7/H4mcsv3kTDqC/uooGv0mvct9pkP/ItA9gyPIhPls=
+github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260525160548-8c1f4208e9a0 h1:ca2yAgtNe9A96y35DQGfQOHIMR/aU17vLDnQRjzwhJs=
+github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260525160548-8c1f4208e9a0/go.mod h1:S7/H4mcsv3kTDqC/uooGv0mvct9pkP/ItA9gyPIhPls=
