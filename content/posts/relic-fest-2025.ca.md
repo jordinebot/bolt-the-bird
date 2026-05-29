@@ -1,7 +1,7 @@
 ---
 title: "Relic Fest 2025: El meu primer torneig de Modern"
 date: 2025-11-23T12:57:41+01:00
-tags: [relicfest, tornejos, modern]
+tags: [relicfest, torneig, modern]
 image: "/images/playmat_relicfest_2025_50.webp"
 featured: true
 ---
