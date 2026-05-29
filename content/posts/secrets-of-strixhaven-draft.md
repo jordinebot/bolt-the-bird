@@ -2,7 +2,7 @@
 title: "First steps drafting Secrets of Strixhaven"
 date: 2026-05-25T15:22:17+02:00
 featured: true
-tags: [arena, limited, draft]
+tags: [arena, limited, draft, SOS]
 image: "/images/sos-draft.webp"
 ---
 
