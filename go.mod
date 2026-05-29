@@ -4,5 +4,5 @@ go 1.26.3
 
 require (
 	github.com/jordinebot/hugo-leyline v0.0.0-20260529155353-32ab3c1d4971 // indirect
-	github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260529153643-5e7ff5eef99c // indirect
+	github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260529155604-710ff447acea // indirect
 )
