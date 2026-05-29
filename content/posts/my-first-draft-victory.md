@@ -8,7 +8,7 @@ image: "/images/win-against-mythic.webp"
 
 I accidentally started a Strixhaven Premier Draft, thinking it was a _Secrets of_ Strixhaven one, and I realized it when the rare in the first pack was {{< cardname "Sedgemoor Witch" >}}. I had already thought it was strange that the draft queue was taking much longer than usual to fill... My first reaction was, “Damn, I’ve thrown away 1500 gems,” thinking that the experience I had built up in the previous 4 SOS drafts would be useless. But I kept going, trusting that [Draftsmith](https://mtga.untapped.gg/draftsmith) would help me. What else was I going to do!?
 
-{{< draft index="4" set="STX" colors="{W}{B}" date="2026-05-28" winrate="87.5" result="7-1" seventeenlands="c244983e4315486b9622a02b0e92e816" >}}
+{{< draft index="4" set="STX" colors="{W}{B}" winrate="87.5" result="7-1" seventeenlands="c244983e4315486b9622a02b0e92e816" >}}
 
 Curiously, the first packs I saw pulled me back toward black, and the deck ended up being Orzhov again, just like in 2 of the previous 3 drafts I had played. I suppose not knowing the STX archetypes had something to do with it, pushing me toward colors I felt more comfortable with, because at p1p4 (Pack 1 Pick 4) I picked a {{< cardname "Lash of Malice" >}} over a {{< cardname "Shock|STA" >}}.
 

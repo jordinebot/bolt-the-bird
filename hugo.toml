@@ -71,7 +71,7 @@ title = "Bolt the bird!"
     weight = 2
 
     [languages.ca.params]
-      description = "Llamps, ocells i altres ximpleries sobre MTG."
+      description = "Llamps, ocells i altres ximpleries."
       [languages.ca.params.footer]
         tagline = "Llamps, ocells i altres ximpleries sobre MTG."
 
