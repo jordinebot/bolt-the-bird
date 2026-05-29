@@ -9,7 +9,7 @@ featured: true
 
 Vam arribar a Labège, a les afores de Toulouse, el dijous cap a les quatre de la tarda i, un cop instal·lats a l'hotel (a la zona de recepció ja hi havia gent jugant a Magic), vam fer una volta per l'espai [Diagora](https://diagora-congres.com/diagora-congress-center/) per veure l'ambient. L'Agora, que és l'espai reservat per al Relic Fest, està dividida en dues àrees. El _hall_ d'uns 500m² on hi havia el bar i, al fons, la zona d'artistes; i la sala principal: un espai quadrat molt gran amb un _stand_ de l'organització al mig on un munt de persones s'aplegaven als quatre costats, remenant binders, playmats, valorant cartes i negociant canvis, o simplement admirant algunes de les cartes més poderoses del joc.
 
-![relic-fest-thursday-collage-1](https://gist.github.com/user-attachments/assets/0d761332-d15c-4de5-8a74-c86029083c8f)
+{{< gallery match="relic25-*" >}}
 
 A la zona d'artistes hi havia una bona cua per accedir a la paradeta de la Rebecca Guay, però com que no teniem res més a fer i ja haviem comprat la playmat oficial, vam decidir posar-nos a la cua, i així divendres jo em podria centrar en el torneig que havia vingut a jugar: el Modern Main Event. La Rebecca s'ho agafava amb calma, signant tranquil·lament i parlant i fent-se fotos amb les persones que li demanaven. La signatura costava 5€, o 10€, si la volies amb ombra, amb dos colors. Cada persona podia demanar un màxim de 20 signatures. Fent cuatre números de seguida t'adones que signar cartes i playmats és un bon negoci per als artistes...
 

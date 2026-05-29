@@ -9,7 +9,7 @@ featured: true
 
 We arrived in Labège, on the outskirts of Toulouse, on Thursday at around 4pm and, once we had settled into the hotel (there were already people playing Magic in the reception area), we took a walk around [Diagora](https://diagora-congres.com/diagora-congress-center/) to soak in the atmosphere. The Agora, which is the space reserved for Relic Fest, is divided into two areas: the roughly 500 m² hall, where the bar was and, at the back, the artists' area; and the main room, a huge square space with an organizer booth in the middle where crowds gathered on all four sides, flipping through binders and playmats, evaluating cards and negotiating trades, or simply admiring some of the most powerful cards in the game.
 
-![relic-fest-thursday-collage-1](https://gist.github.com/user-attachments/assets/0d761332-d15c-4de5-8a74-c86029083c8f)
+{{< gallery match="relic25-*" >}}
 
 There was quite a long line in the artists' area to get to Rebecca Guay's booth, but since we had nothing else to do and had already bought the official playmat, we decided to join the queue so that on Friday I could focus on the tournament I had come to play: the Modern Main Event. Rebecca took things calmly, signing at an easy pace and chatting and taking photos with the people who asked. A signature cost 5€, or 10€ if you wanted it shadowed in two colors. Each person could ask for a maximum of 20 signatures. If you do the math, you quickly realize that signing cards and playmats is pretty good business for artists...
 
