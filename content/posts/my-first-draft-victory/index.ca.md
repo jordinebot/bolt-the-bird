@@ -3,7 +3,6 @@ title: "La meva primera victòria en un Draft!"
 date: 2026-05-28T20:30:02+02:00
 featured: true
 tags: [arena, limited, draft, STX]
-image: "/images/win-against-mythic.webp"
 ---
 
 He començat, per error, un Premier Draft d'Strixhaven (pensant-me que era de _Secrets of_ Strixhaven) i me n'he adonat quan al primer sobre la carta rara era {{< cardname "Sedgemoor Witch" >}}. Ja m'havia semblat estrany que trigués força més del normal a omplir-se la taula de draft... La meva primera reacció ha sigut: "–Merda, he llençat 1500 gemmes", pensant que l'experiència que havia acumulat en els 4 drafts anteriors de SOS no em serviria per a res. Però he tirat endavant, confiant que el [Draftsmith](https://mtga.untapped.gg/draftsmith) m'ajudaria, què havia de fer sinó!?
@@ -18,6 +17,6 @@ Sigui com sigui, potser perquè hi havia poca gent jugant aquest draft (cada veg
 
 La última partida, a més a més, l'he jugat contra un rival que tenia rang mític #1753 i també l'he guanyat. He estat molt content i m'he divertit!
 
-![Reward](/images/draft-rewards.webp)
+![Reward](draft-rewards.webp)
 
 Al final, he recuperat les gemmes que costa el draft i encara he tingut un benefici net de 700 gemmes i 6 sobres de STX!

@@ -3,7 +3,6 @@ title: "Primers passos a Secrets of Strixhaven Draft"
 date: 2026-05-25T15:22:17+02:00
 featured: true
 tags: [arena, limited, draft, SOS]
-image: "/images/sos-draft.webp"
 ---
 
 En els darrers 10 dies he jugat 3 drafts de [Secrets of Strixhaven](https://scryfall.com/sets/sos) (SOS) amb l'ajuda del [_Draftsmith_ de Untapped.gg](https://mtga.untapped.gg/companion). L'experiència ha sigut molt més positiva del que recordava dels drafts que havia fet, esporàdicament, en el passat. Aquest cop sabia que Boros, Orzhov i Golgari (o potser hauria de dir [Lorehold](https://mtg.fandom.com/wiki/Lorehold), [Silverquill](https://mtg.fandom.com/wiki/Silverquill) i [Witherbloom](https://mtg.fandom.com/wiki/Witherbloom)) son les baralles guanyadores i m'havia mirat una mica la [_tier list_](https://mtga.untapped.gg/limited/draft/secrets-of-strixhaven/pick-order). De totes maneres cal dir que les indicacions que afegeix el Draftsmith son crucials: no només per triar les cartes sinó per decidir quines son les 40 que formaran part de la baralla. Crec que el que encara em costa més és, en primer lloc, mantenir una mirada oberta a canviar de colors després de les primeres tries i, sobretot, crear la baralla. En els propers drafts que jugui, desactivaré el _Draftsmith_ a l'hora de crear la baralla i només l'activaré en acabat per veure si el que he fet s'allunya molt de la recomanació.

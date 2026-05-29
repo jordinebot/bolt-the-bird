@@ -3,7 +3,6 @@ title: "First steps drafting Secrets of Strixhaven"
 date: 2026-05-25T15:22:17+02:00
 featured: true
 tags: [arena, limited, draft, SOS]
-image: "/images/sos-draft.webp"
 ---
 
 Over the last 10 days I’ve played 3 [Secrets of Strixhaven](https://scryfall.com/sets/sos) (SOS) drafts using [Untapped.gg’s _Draftsmith_](https://mtga.untapped.gg/companion). The experience has been much more positive than I remembered from the drafts I had played sporadically in the past. This time I knew that Boros, Orzhov, and Golgari (or maybe I should say [Lorehold](https://mtg.fandom.com/wiki/Lorehold), [Silverquill](https://mtg.fandom.com/wiki/Silverquill), and [Witherbloom](https://mtg.fandom.com/wiki/Witherbloom)) are the winning decks, and I had looked over the [_tier list_](https://mtga.untapped.gg/limited/draft/secrets-of-strixhaven/pick-order) a little. Still, I have to say the guidance Draftsmith adds is crucial: not just for picking cards, but also for deciding which 40 cards will make it into the deck. I think what I still struggle with most is, first, staying open to changing colors after the first few picks and, above all, building the deck. In the next drafts I play, I’ll turn _Draftsmith_ off while building the deck and only turn it back on afterwards to see whether what I built is very far from the recommendation.
