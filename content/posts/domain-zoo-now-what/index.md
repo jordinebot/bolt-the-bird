@@ -21,7 +21,7 @@ The problem is that on [May 18th](https://magic.wizards.com/en/news/announcement
 
 As a result, Domain Zoo has dropped from roughly 8% of the meta to below 2%, signaling that the deck is no longer considered the solid option it once was. A lot can still happen between now and the end of October: three new sets will be released and introduce more cards to the format ([Marvel Super Heroes](https://scryfall.com/sets/msh), [The Hobbit](https://scryfall.com/sets/hob) and [Reality Fracture](https://scryfall.com/sets/fra)), and there could be further changes in the bans list that would shake things up even more.
 
-### So: now what?
+### So, now what?
 
 I've seen versions of Domain Zoo running {{< cardname "Kroxa, Titan of Death's Hunger" >}} to minimize the changes, and others pivoting toward more _midrange_ builds with {{< cardname "Psychic Frog" >}}, {{< cardname "Quantum Riddle" >}} and/or {{< cardname "Orcish Bowmasters" >}}. Some players have even funneled Boros Energy leftovers (by far the Modern list that was hit the hardest by the Phlage ban) into Domain Zoo with great success!
 
