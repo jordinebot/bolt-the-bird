@@ -35,7 +35,7 @@ title = "Bolt the bird!"
     weight = 1
 
     [languages.en.params]
-      description = "Bolts, birds, and nonsense."
+      description = "Bolts, birds, and other nonsense."
       [languages.en.params.footer]
         tagline = "Bolts, birds, and other MTG-themed nonsense."
 
