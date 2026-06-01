@@ -1,7 +1,6 @@
 ---
 title: "Estreno blog!"
 date: 2026-05-12T18:32:17+02:00
-featured: true
 tags: [blog]
 ---
 
