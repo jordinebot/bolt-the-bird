@@ -15,7 +15,7 @@ Amb l'arribada de {{< cardname "Leyline of the Guildpact" >}} a [MKM](https://sc
 
 {{< combo "Leyline of the Guildpact" "Scion of Draco" >}}
 
-El problema és que el passat [18 de maig](https://magic.wizards.com/en/news/announcements/banned-and-restricted-may-18-2026), WotC va anunciar nous _banejos_ que afectaven Modern de la següent manera: {{< cardname "Phlage, Titan of Fire's Fury" >}} i {{< cardname "Lotus Field" >}} passen a estar _banejades_, mentre que {{< cardname "Violent Outburst" >}} i {{< cardname "Umezawa's Jitte" >}} tornen a ser legals. Com us podeu imaginar, Domain Zoo jugava 4 còpies de Phlage, que juntament amb {{< cardname "Doorkeeper Thrull" >}} i {{< cardname "Arena of Glory" >}} funcionaven molt bé.
+El problema és que el passat [18 de maig](https://magic.wizards.com/en/news/announcements/banned-and-restricted-may-18-2026), WotC va anunciar nous _banejos_ que afectaven Modern de la següent manera: {{< cardname "Phlage, Titan of Fire's Fury" >}} i {{< cardname "Lotus Field" >}} passen a estar _banejades_, mentre que {{< cardname "Violent Outburst" >}} i {{< cardname "Umezawa's Jitte" >}} passen a ser legals. Com us podeu imaginar, Domain Zoo jugava 4 còpies de Phlage, que juntament amb {{< cardname "Doorkeeper Thrull" >}} i {{< cardname "Arena of Glory" >}} funcionaven molt bé.
 
 {{< card "Phlage, Titan of Fire's Fury" >}}
 
