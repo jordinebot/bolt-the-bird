@@ -7,7 +7,7 @@ tags: [modern]
 
 L'any passat m'ho vaig passar molt bé al [torneig de Modern](/ca/posts/relic-fest-2025) del [Relic Fest](https://www.relictcgtour.com/) de manera que he decidit tornar-hi aquest any. Vaig pensar que valdria la pena anar-hi amb una baralla més competitiva, per tenir l'opció de guanyar alguna ronda més que l'any passat (que en vaig guanyar només una de 8) i continuar creixent en el format.
 
-En els últims mesos he destinat bona part del meu pressupost per a MTG a preparar una baralla meta, en particular: Domain Zoo. En essència, Domain Zoo és una baralla _Aggro_ amb una base de manà que intenta tenir els 5 tipus de terres bàsiques ([domain](https://mtg.fandom.com/wiki/Domain)) tan aviat com sigui possible i juga criatures molt eficients (alt poder i baix cost) que s'aprofiten d'aquesta sinergia amb les terres.
+En els últims mesos he destinat bona part del meu pressupost per a MTG a preparar una baralla meta, en particular: Domain Zoo. En essència, Domain Zoo és una baralla _aggro_ amb una base de manà que intenta tenir els 5 tipus de terres bàsiques ([domain](https://mtg.fandom.com/wiki/Domain)) tan aviat com sigui possible i juga criatures molt eficients (alt poder i baix cost) que s'aprofiten d'aquesta sinergia amb les terres.
 
 {{< combo "Wild Nacatl" "Ragavan, Nimble Pilferrer" "Nishoba Brawler" "Territorial Kavu" >}}
 

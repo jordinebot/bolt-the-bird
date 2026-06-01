@@ -7,7 +7,7 @@ tags: [modern]
 
 Last year I had a great time at the [Modern tournament](/posts/relic-fest-2025) of [Relic Fest](https://www.relictcgtour.com/), so I've decided to go again this year. I figured it would be worth showing up with a more competitive deck and having a shot at winning more rounds than last year (I won just one out of 8) and to keep growing in the format.
 
-Over the past few months I've put a good chunk of my MTG budget toward building a meta deck, specifically: Domain Zoo. At its core, Domain Zoo is an _Aggro_ deck with a mana base that tries to have all 5 basic land types ([domain](https://mtg.fandom.com/wiki/Domain)) in play as early as possible, and plays very efficient creatures (high power, low cost) that take advantage of that synergy.
+Over the past few months I've put a good chunk of my MTG budget toward building a meta deck, specifically: Domain Zoo. At its core, Domain Zoo is an _aggro_ deck with a mana base that tries to have all 5 basic land types ([domain](https://mtg.fandom.com/wiki/Domain)) in play as early as possible, and plays very efficient creatures (high power, low cost) that take advantage of that synergy.
 
 {{< combo "Wild Nacatl" "Ragavan, Nimble Pilferrer" "Nishoba Brawler" "Territorial Kavu" >}}
 
