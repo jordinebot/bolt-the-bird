@@ -1,9 +1,8 @@
 ---
 title: "About"
 date: 2026-05-12T10:33:14+02:00
+image: "/images/nou-blog_bolt-the-bird.webp"
 ---
-
-![Bolt the bird!](/images/nou-blog_bolt-the-bird.webp)
 
 I started playing [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic%3A_The_Gathering) around 1994, when [Revised](https://scryfall.com/sets/rev) was highly popular and [Fallen Empires](https://scryfall.com/sets/fem) had been recently released. My first deck, that I bought to a guy at the venue, next to our LGS, we used to go every Friday and Saturday afternoon to play and change cards; was monoblack. I remember it had {{< cardname "Erg Raiders|3ed" >}}, {{< cardname "Drudge Skeletons|3ed" >}} and {{< cardname "Howl from Beyond|3ed" >}}. The best cards were a {{< cardname "Demonic Tutor|3ed" >}} and {{< cardname "Demonic Hordes|3ed" >}}, that I still keep. I'd say I played regularly up until 1996, somewhere between [Homelands](https://scryfall.com/sets/hml) and [Alliances](https://scryfall.com/sets/all).
 

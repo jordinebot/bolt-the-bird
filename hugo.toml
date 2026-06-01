@@ -48,9 +48,13 @@ title = "Bolt the bird!"
       url  = "/tags/"
       weight = 20
     [[languages.en.menus.main]]
+      name = "Arena"
+      url  = "/arena/"
+      weight = 30
+    [[languages.en.menus.main]]
       name = "About"
       url  = "/about/"
-      weight = 30
+      weight = 40
 
     [[languages.en.menus.footer]]
       name = "GitHub"
@@ -84,9 +88,13 @@ title = "Bolt the bird!"
       url  = "/ca/tags/"
       weight = 20
     [[languages.ca.menus.main]]
+      name = "Arena"
+      url  = "/ca/arena/"
+      weight = 30
+    [[languages.ca.menus.main]]
       name = "Quant a"
       url  = "/ca/about/"
-      weight = 30
+      weight = 40
 
     [[languages.ca.menus.footer]]
       name = "GitHub"
