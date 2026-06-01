@@ -1,5 +1,4 @@
 ---
-title: "MTG Arena"
 image: "/images/mtg-arena.jpg"
 ---
 
