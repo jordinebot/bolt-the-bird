@@ -21,7 +21,7 @@ El problema és que el passat [18 de maig](https://magic.wizards.com/en/news/ann
 
 Com a conseqüència, Domain Zoo ha passat d'ocupar aproximadament un 8% del meta a caure per sota del 2%, que indica que la baralla no és vista com una opció tan sòlida com ho era abans. D'aquí a finals d'octubre encara poden passar moltes coses perquè fins llavors es publicaran 3 noves expansions que introduiran més cartes al format ([Marvel Super Heroes](https://scryfall.com/sets/msh), [The Hobbit](https://scryfall.com/sets/hob) i [Reality Fracture](https://scryfall.com/sets/fra)) i també poden haver-hi canvis a la llista de _banejos_ que produeixen encara un major rebombori.
 
-### Així doncs: ara què?
+## Així doncs: ara què?
 
 He vist versions de Domain Zoo jugant {{< cardname "Kroxa, Titan of Death's Hunger" >}} intentant minimitzar els canvis, d'altres que viren cap a opcions més _midrange_ amb {{< cardname "Psychic Frog" >}}, {{< cardname "Quantum Riddle" >}} i/o {{< cardname "Orcish Bowmasters" >}}. Fins i tot hi ha qui ha portat les sobres de Boros Energy (amb diferència la baralla Modern més afectada pel _ban_ de Phlage) cap a Domain Zoo amb força èxit!
 
