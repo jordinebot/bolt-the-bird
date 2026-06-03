@@ -9,7 +9,7 @@ En els darrers 10 dies he jugat 3 drafts de [Secrets of Strixhaven](https://scry
 
 Anem a analitzar amb una mica més de detall els 3 drafts:
 
-{{< draft index="1" set="SOS" colors="{W}{B}" winrate="40" result="2-3" seventeenlands="3eea6d72600948eab9cf91dc09c2088e" >}}
+{{< draft index="1" set="SOS" colors="{W}{B}" winrate="40" result="2-3" gems="600" seventeenlands="3eea6d72600948eab9cf91dc09c2088e" >}}
 
 Suposo que tinc força sort en el draft perquè aconsegueixo muntar una baralla blanca i negra. Silverquill és un dels arquetips de SOS. De l'estratègia d'aquest arquetip en diuen _Repartee Aggro_. _Repartee_ és una mecànica que consisteix en què "passen coses" quan jugues instants i sorceries sobre criatures. L'estratègia és clara: jugar algunes criatures petites, inflar-les i atacar!
 
@@ -17,13 +17,13 @@ Suposo que tinc força sort en el draft perquè aconsegueixo muntar una baralla 
 
 Guanyo la primera partida contra Simic/Quandrix amb relativa facilitat. La segona s'allarga molt (16 torns!) i això juga a favor del rival amb Golgari/Whiterbloom que és una estratègia de guanyar vides i crear moltes criatures petites. A la tercera em sorprèn un rival amb una baralla de 4 colors que rampeja, aconsegueix 4 terres bàsiques diferents al tercer torn i té respostes per a tot! A la quarta partida em torna a tocar un rival que juga quatre colors però m'acabo imposant en una partida més o menys igualada. La cinquena partida és un mirror match en què el rival juga primer i em passa per damunt en 5 torns. Així que tercera derrota i cap a casa!
 
-{{< draft index="2" set="SOS" colors="{B}{G}" winrate="50" result="3-3" seventeenlands="571382333848407d9d0929f0ab61ce06" >}}
+{{< draft index="2" set="SOS" colors="{B}{G}" winrate="50" result="3-3" gems="1200" seventeenlands="571382333848407d9d0929f0ab61ce06" >}}
 
 Aquest cop el draft em porta cap a Whiterbloom, on l'estratègia recomanada s'anomena _Lifegain Swarm_: és a dir, guanyar vides creant moltes criatures petites. De totes maneres, crec que algunes de les cartes verdes que trio, com {{< cardname "Emil, Vastlands Roamer" >}} o {{< cardname "Additive Evolution" >}} son més pròpies de la baralla Quandrix... De totes maneres, sense entrar en detalls, aconsegueixo 3 còpies de {{< cardname "Bogwater Lumaret" >}} que és una peça clau de l'estratègia i unes quantes peces de _removal_ de manera que la baralla acaba resultant ser força funcional i aconsegueixo un 50% de victòries, que no està malament!
 
 {{< combo "Graple with Death" "Lluwen, Exchange Student" "Bogwater Lumaret" >}}
 
-{{< draft index="3" set="SOS" colors="{W}{B}" winrate="57" result="4-3" seventeenlands="cf6f42ac51e84353aceefba2ab892a0b" >}}
+{{< draft index="3" set="SOS" colors="{W}{B}" winrate="57" result="4-3" gems="1400" seventeenlands="cf6f42ac51e84353aceefba2ab892a0b" >}}
 
 En aquest draft se'm presenten bones opcions en blanc, negre i vermell... i això em genera inquietud. En Limited sempre tinc por que si divergeixo a més de dos colors no tindré prou cartes per fer una baralla decent si l'opció de 3 colors no acaba resultant i m'he de quedar amb dos. Finalment però, amb l'ajuda de _Draftsmith_ acabo construint una altra baralla Orzhov/Silverquill millor que la que vaig fer en el primer draft, amb 4 còpies de {{< cardname "Digsite Inventory" >}}.
 
