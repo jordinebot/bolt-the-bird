@@ -4,7 +4,13 @@ image: "/images/mtg-arena.jpg"
 
 In this page I'm tracking my Set Mastery and Seasons progress on MTG Arena.
 
-{{< mastery set="SOS" level="13" pass="false" >}}
+## Set Mastery
+
+{{< mastery ongoing="true" set="SOS" title="Secrets of Strixhaven" level="15" pass="false" >}}
+
+## Seasons
+
+{{< season month="June 2026" ongoing="true" spending="51,99€" limited-start="Bronze 2" gems-start="9835" gems-earned="1000" tokens-start="4" tokens-earned="0" tokens-bought="4" tokens-spent="0" >}}
 
 {{< season month="May 2026" spending="52,49€" limited-start="Bronze 4" limited-end="Silver 1" gems-start="85" gems-earned="6250" gems-bought="6500" gems-spent="3000" tokens-start="3" tokens-earned="0" tokens-bought="4" tokens-spent="3" >}}
 

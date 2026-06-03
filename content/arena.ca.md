@@ -4,7 +4,13 @@ image: "/images/mtg-arena.jpg"
 
 En aquesta pàgina faig un seguiment del meu progrés dels _Set Mastery_ i les Temporades a MTG Arena.
 
-{{< mastery set="SOS" level="13" pass="false" >}}
+## Set Mastery
+
+{{< mastery ongoing="true" set="SOS" title="Secrets of Strixhaven" level="15" pass="false" >}}
+
+## Temporades
+
+{{< season month="Juny 2026" ongoing="true" spending="51,99€" limited-start="Bronze 2" gems-start="9835" gems-earned="1000" tokens-start="4" tokens-earned="0" tokens-bought="4" tokens-spent="0" >}}
 
 {{< season month="Maig 2026" spending="52,49€" limited-start="Bronze 4" limited-end="Silver 1" gems-start="85" gems-earned="6250" gems-bought="6500" gems-spent="3000" tokens-start="3" tokens-earned="0" tokens-bought="4" tokens-spent="3" >}}
 
