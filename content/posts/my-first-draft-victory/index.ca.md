@@ -19,4 +19,4 @@ La última partida, a més a més, l'he jugat contra un rival que tenia rang mí
 
 ![Reward](draft-rewards.webp)
 
-Al final, he recuperat les gemmes que costa el draft i encara he tingut un benefici net de 700 gemmes i 6 sobres de STX!
+Al final, he recuperat les gemmes que costa el draft i encara he tingut un benefici net de {{< gems 700 >}} i 6 sobres de STX!

@@ -19,4 +19,4 @@ On top of that, I played the final match against an opponent ranked Mythic #1753
 
 ![Reward](draft-rewards.webp)
 
-In the end, I got back the gems the draft cost and still came out 700 gems ahead, plus 6 STX packs!
+In the end, I got back the gems the draft cost and still came out {{< gems 700 >}} ahead, plus 6 STX packs!
