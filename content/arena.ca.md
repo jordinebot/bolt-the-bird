@@ -10,7 +10,9 @@ En aquesta pàgina faig un seguiment del meu progrés dels _Set Mastery_ i les T
 
 ## Temporades
 
-{{< season month="Juny 2026" ongoing="true" spending="51,99€" limited-start="Bronze 2" gems-start="9835" gems-earned="1000" tokens-start="4" tokens-earned="0" tokens-bought="4" tokens-spent="0" >}}
+{{< season month="Juny 2026" ongoing="true" spending="51,99€" limited-start="Bronze 2" gems-start="9835" gems-earned="1000" gems-spent="1350" tokens-start="4" tokens-earned="0" tokens-bought="5" tokens-spent="0" >}}
+
+Aquest mes he comprat el _Play Bundle_ de MSH (Marvel Super Heroes) que conté {{< draft-token 4 >}} i {{< sealed-token 2 >}} i també he bescanviat {{< gems 1350 >}} per {{< draft-token 1 >}}, amb la qual cosa m'estalvio {{< gems 150 >}} en un Draft.
 
 {{< season month="Maig 2026" spending="52,49€" limited-start="Bronze 4" limited-end="Silver 1" gems-start="85" gems-earned="6250" gems-bought="6500" gems-spent="3000" tokens-start="3" tokens-earned="0" tokens-bought="4" tokens-spent="3" >}}
 
