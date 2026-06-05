@@ -10,7 +10,7 @@ title = "Bolt the bird!"
 
 # Settings shared across all languages.
 [params]
-  # accentColor = "#FB1105"
+  accentColor = "#4f46e5"
 
 [taxonomies]
   tag = "tags"
@@ -58,7 +58,7 @@ title = "Bolt the bird!"
 
     [[languages.en.menus.footer]]
       name = "GitHub"
-      url  = "https://github.com/jordinebot"
+      url  = "https://github.com/jordinebot/bolt-the-bird"
       weight = 10
       [languages.en.menus.footer.params]
         icon = "github"
@@ -98,7 +98,7 @@ title = "Bolt the bird!"
 
     [[languages.ca.menus.footer]]
       name = "GitHub"
-      url  = "https://github.com/jordinebot"
+      url  = "https://github.com/jordinebot/bolt-the-bird"
       weight = 10
       [languages.ca.menus.footer.params]
         icon = "github"
