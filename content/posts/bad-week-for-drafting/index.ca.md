@@ -7,7 +7,7 @@ tags: [arena, limited, draft]
 
 Quan em vaig plantejar [tornar a l'Arena](/ca/posts/back-to-mtg-arena) per jugar _Limited_, vaig llegir un [post a Reddit](https://www.reddit.com/r/MagicArena/comments/18ovjgi/a_f2p_beginner_draft_guide/) (molt recomanable) on l'autor comenta que si jugues drafts durant la primera setmana de la temporada (les temporades duren un mes natural, normalment) és més probable que et toquin rivals més experimentats i, per tant, les opcions de guanyar es redueixen.
 
-Veient com m'ha anat la setmana, segurament sigui veritat. També he après que, durant la temporada, non només hi ha drafts de l'expansió actual, si no que se'n fan d'expansions anteriors que només estan disponibles uns quants dies. Aquest mes, per exemple, es pot jugar [Avatar, The Last Airbender (TLA)](https://scryfall.com/sets/tla) del 2 al 8; [Final Fantasy (FIN)](https://scryfall.com/sets/fin) del 16 al 22; i _Sealed_ [Tarkir: Dragonstorm (TDM)](https://scryfall.com/sets/tdm) del 9 al 15.
+Veient com m'ha anat la setmana, segurament sigui veritat. També he après que, durant la temporada, no només hi ha drafts de l'expansió actual, si no que se'n fan d'expansions anteriors que només estan disponibles uns quants dies. Aquest mes, per exemple, es pot jugar [Avatar, The Last Airbender (TLA)](https://scryfall.com/sets/tla) del 2 al 8; [Final Fantasy (FIN)](https://scryfall.com/sets/fin) del 16 al 22; i _Sealed_ [Tarkir: Dragonstorm (TDM)](https://scryfall.com/sets/tdm) del 9 al 15.
 
 Com que fa gràcia provar altres expansions i havia sentit a dir que Avatar era un draft molt divertit, ho vaig voler intentar...
 
