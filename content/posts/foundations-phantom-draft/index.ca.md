@@ -17,7 +17,7 @@ De seguida he vist que el draft em portava principalment cap al blau monocolor, 
 
 La veritat és que l'estratègia ha funcionat la mar de bé i tot i que he jugat algunes partides molt igualades, al final he acabat el draft invicte!
 
-Ha sigut especialment emocionant i igualada la cinquena partida, en que tots dos jugàvem baralles similars, anàvem molt justos de vida (5-5), i tots dos teníem interacció a la mà.
+Ha sigut especialment emocionant i igualada la cinquena partida, en que tots dos jugàvem baralles similars, anàvem molt justos de vida, i tots dos teníem interacció a la mà.
 
 ![Board state](board-state.webp)
 

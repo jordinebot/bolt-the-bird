@@ -17,7 +17,7 @@ I quickly realized that the draft was pushing me mostly towards mono-blue, altho
 
 The strategy worked wonderfully, and although I played a few very close games, I eventually finished the draft undefeated!
 
-The fifth match was especially exciting and closely contested. We were both playing similar decks, both at a precarious life total (5-5), and both holding interaction in hand.
+The fifth match was especially exciting and closely contested. We were both playing similar decks, both at a precarious life total, and both holding interaction in hand.
 
 ![Board state](board-state.webp)
 
