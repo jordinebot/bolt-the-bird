@@ -1,5 +1,5 @@
 ---
-title: "A bad week for Drafting"
+title: "A bad week for drafting"
 date: 2026-06-05T18:56:57+02:00
 featured: true
 tags: [arena, limited, draft]
