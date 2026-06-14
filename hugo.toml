@@ -11,6 +11,7 @@ title = "Bolt the bird!"
 # Settings shared across all languages.
 [params]
   accentColor = "#4f46e5"
+  googleTagID = "G-Q2VCWFH77S"
 
 [taxonomies]
   tag = "tags"
