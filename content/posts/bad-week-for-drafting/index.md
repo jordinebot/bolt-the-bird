@@ -9,7 +9,7 @@ coverAiModified: true
 aiTranslated: true
 ---
 
-When I considered [going back to Arena](/en/posts/back-to-mtg-arena) to play _Limited_, I read a [post on Reddit](https://www.reddit.com/r/MagicArena/comments/18ovjgi/a_f2p_beginner_draft_guide/) (highly recommended) where the author mentions that if you play drafts during the first week of the season (seasons last one calendar month, usually) you're more likely to face more experienced opponents and, therefore, your chances of winning are reduced.
+When I considered [going back to Arena](/posts/back-to-mtg-arena/) to play _Limited_, I read a [post on Reddit](https://www.reddit.com/r/MagicArena/comments/18ovjgi/a_f2p_beginner_draft_guide/) (highly recommended) where the author mentions that if you play drafts during the first week of the season (seasons last one calendar month, usually) you're more likely to face more experienced opponents and, therefore, your chances of winning are reduced.
 
 Seeing how my week went, that's probably true. I've also learned that, during the season, there aren't only drafts from the current expansion, but also drafts from previous expansions that are only available for a few days. This month, for example, you can play [Avatar, The Last Airbender (TLA)](https://scryfall.com/sets/tla) from the 2nd to the 8th; [Final Fantasy (FIN)](https://scryfall.com/sets/fin) from the 16th to the 22nd; and _Sealed_ [Tarkir: Dragonstorm (TDM)](https://scryfall.com/sets/tdm) from the 9th to the 15th.
 

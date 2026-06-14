@@ -1,5 +1,6 @@
 baseURL = 'https://www.bolt-the-bird.com/'
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 title = "Bolt the bird!"
 
 [module]
@@ -24,8 +25,8 @@ title = "Bolt the bird!"
 # Languages
 #
 # Posts translate via the file-suffix convention:
-#   content/posts/foo.md      → English (default)
-#   content/posts/foo.ca.md   → Catalan translation
+#   content/posts/foo/index.md    → English (default)
+#   content/posts/foo/index.ca.md → Catalan translation
 # ---------------------------------------------------------------------------
 
 [languages]
