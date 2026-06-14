@@ -37,9 +37,9 @@ title = "Bolt the bird!"
     weight = 1
 
     [languages.en.params]
-      description = "Bolts, birds, and other nonsense."
+      description = "Magic: The Gathering draft logs, Arena runs, deck notes, and tournament reports."
       [languages.en.params.footer]
-        tagline = "Bolts, birds, and other MTG-themed nonsense."
+        tagline = "Drafts, MTG Arena runs, Limited adventures, and the occasional Lightning Bolt aimed at a bird."
 
     [[languages.en.menus.main]]
       name = "Posts"
@@ -59,15 +59,21 @@ title = "Bolt the bird!"
       weight = 40
 
     [[languages.en.menus.footer]]
+      name = "Email"
+      url  = "mailto:always@bolt-the-bird.com"
+      weight = 10
+      [languages.en.menus.footer.params]
+        icon = "mail"
+    [[languages.en.menus.footer]]
       name = "GitHub"
       url  = "https://github.com/jordinebot/bolt-the-bird"
-      weight = 10
+      weight = 20
       [languages.en.menus.footer.params]
         icon = "github"
     [[languages.en.menus.footer]]
       name = "RSS"
       url  = "/index.xml"
-      weight = 20
+      weight = 30
       [languages.en.menus.footer.params]
         icon = "rss"
 
@@ -77,9 +83,9 @@ title = "Bolt the bird!"
     weight = 2
 
     [languages.ca.params]
-      description = "Llamps, ocells i altres ximpleries."
+      description = "Drafts de Magic: The Gathering, partides a Arena, notes de baralles i cròniques de tornejos."
       [languages.ca.params.footer]
-        tagline = "Llamps, ocells i altres ximpleries sobre MTG."
+        tagline = "Drafts, aventures a MTG Arena, històries de Limited i de tant en tant un llamp al cap d'un ocell."
 
     [[languages.ca.menus.main]]
       name = "Entrades"
@@ -99,14 +105,20 @@ title = "Bolt the bird!"
       weight = 40
 
     [[languages.ca.menus.footer]]
+      name = "Email"
+      url  = "mailto:always@bolt-the-bird.com"
+      weight = 10
+      [languages.ca.menus.footer.params]
+        icon = "mail"
+    [[languages.ca.menus.footer]]
       name = "GitHub"
       url  = "https://github.com/jordinebot/bolt-the-bird"
-      weight = 10
+      weight = 20
       [languages.ca.menus.footer.params]
         icon = "github"
     [[languages.ca.menus.footer]]
       name = "RSS"
       url  = "/ca/index.xml"
-      weight = 20
+      weight = 30
       [languages.ca.menus.footer.params]
         icon = "rss"

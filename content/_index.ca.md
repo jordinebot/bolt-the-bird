@@ -1,5 +1,4 @@
 ---
 title: "Bolt the bird!"
+description: "Drafts de Magic: The Gathering, partides a Arena, notes de baralles i cròniques de tornejos."
 ---
-
-Benvinguts al meu blog personal sobre Magic: The Gathering.

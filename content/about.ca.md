@@ -13,3 +13,8 @@ Anys més tard (suposo que cap al 2010), es va organitzar un torneig a la meva z
 Llavors, el 2021, els meus nebots van aparèixer en un dinar familiar amb cartes de Magic, una cosa va portar a l'altra, i des d'aleshores que jugo gairebé cada setmana amb els amics. Cada any organitzem lligues de Pauper i de Kitchen-table (aka Budget Vintage), ens estem endinsant en [Australian Highlander](https://7ph.com.au/) i, en general, ens ho passem molt bé. Fins i tot tenim una web app per portar els rànquings, estadístiques de baralles i jugadors, i altres coses així.
 
 Darrerament, he començat a jugar Modern i fins i tot he disputat el meu primer torneig en molts anys! (I aquest cop no vaig quedar últim!)
+
+---
+
+**Contacte**  
+always@bolt-the-bird.com

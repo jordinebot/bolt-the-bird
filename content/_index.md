@@ -1,5 +1,4 @@
 ---
 title: "Bolt the bird!"
+description: "Magic: The Gathering draft logs, Arena runs, deck notes, and tournament reports."
 ---
-
-Welcome to my personal blog about Magic: The Gathering.

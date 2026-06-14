@@ -13,3 +13,8 @@ Years later (I guess around 2010), there was a tournament in my area and (I don'
 Then, in 2021, my nephews appeared into a family lunch with some Magic cards, one thing lead to the other, and I've been playing almost weekly with some friends since then. We run yearly Pauper and Kitchen-table (aka Budget Vintage) leagues, we are getting into [Australian Highlander](https://7ph.com.au/) and, all in all, we have a lot of fun. We even have a web app to keep track of the leaderboards, deck and player stats, and whatnot.
 
 Recently, I got into Modern and I even played my first tournament in many years! (And this time I wasn't ranked last!)
+
+---
+
+**Contact**  
+always@bolt-the-bird.com
