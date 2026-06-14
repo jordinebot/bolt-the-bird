@@ -3,6 +3,9 @@ title: "Una mala setmana pel Draft"
 date: 2026-06-05T18:56:57+02:00
 featured: true
 tags: [arena, limited, draft]
+credit: [Fahmi Fauzi]
+creditLink: [https://www.artstation.com/artwork/qJV1zz]
+coverAiModified: true
 ---
 
 Quan em vaig plantejar [tornar a l'Arena](/ca/posts/back-to-mtg-arena) per jugar _Limited_, vaig llegir un [post a Reddit](https://www.reddit.com/r/MagicArena/comments/18ovjgi/a_f2p_beginner_draft_guide/) (molt recomanable) on l'autor comenta que si jugues drafts durant la primera setmana de la temporada (les temporades duren un mes natural, normalment) és més probable que et toquin rivals més experimentats i, per tant, les opcions de guanyar es redueixen.

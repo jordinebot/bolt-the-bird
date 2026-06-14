@@ -4,6 +4,9 @@ date: 2026-05-16T16:06:27+02:00
 description: ""
 featured: true
 tags: [arena]
+credit: [Magali Villeneuve]
+creditLink: [https://www.inprnt.com/gallery/magvilleneuve/serra-the-benevolent/]
+coverAiModified: true
 ---
 
 Ja deu fer ben bé un any que vaig desinstal·lar l'[MTGArena](https://magic.wizards.com/en/mtgarena) de l'iPad, una mica fart d'Standard BO1, de jugar tota l'estona contra les mateixes baralles i de rivals que et deixen penjat quan la partida se'ls torça... No ho he trobat a faltar, la veritat! M'agrada molt més jugar en persona i amb cartronets.

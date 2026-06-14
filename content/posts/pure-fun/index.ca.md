@@ -3,6 +3,13 @@ title: "Diversió en estat pur (6-3 amb Jeskai a SOS)"
 date: 2026-06-12T18:01:56+02:00
 featured: true
 tags: [arena, limited, draft, SOS]
+credit: [Néstor Ossandón Leal, Justin Gerard]
+creditLink:
+  [
+    https://www.artstation.com/artwork/2BNNvA,
+    https://www.artstation.com/justingerardillustration/albums/14864455,
+  ]
+coverAiModified: true
 ---
 
 Començo a estar cada cop més d'acord amb aquella afirmació que jugar _Limited_ és la manera més divertida de jugar Magic. Acabo de fer un altre draft de SOS, el primer d'aquesta setmana i setè en total, i he disfrutat com un camell!

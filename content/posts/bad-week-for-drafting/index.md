@@ -3,6 +3,10 @@ title: "A bad week for drafting"
 date: 2026-06-05T18:56:57+02:00
 featured: true
 tags: [arena, limited, draft]
+credit: [Fahmi Fauzi]
+creditLink: [https://www.artstation.com/artwork/qJV1zz]
+coverAiModified: true
+aiTranslated: true
 ---
 
 When I considered [going back to Arena](/en/posts/back-to-mtg-arena) to play _Limited_, I read a [post on Reddit](https://www.reddit.com/r/MagicArena/comments/18ovjgi/a_f2p_beginner_draft_guide/) (highly recommended) where the author mentions that if you play drafts during the first week of the season (seasons last one calendar month, usually) you're more likely to face more experienced opponents and, therefore, your chances of winning are reduced.

@@ -4,6 +4,10 @@ date: 2026-05-16T16:06:27+02:00
 featured: true
 description: ""
 tags: [arena]
+credit: [Magali Villeneuve]
+creditLink: [https://www.inprnt.com/gallery/magvilleneuve/serra-the-benevolent/]
+coverAiModified: true
+aiTranslated: true
 ---
 
 It’s probably been about a year since I uninstalled [MTGArena](https://magic.wizards.com/en/mtgarena) from my iPad. Kind of fed up with Standard BO1, constantly playing against the same decks, and opponents who just rope you when things don't go their way... I haven’t missed it, to be honest! I rather play in person with actual cards.

@@ -3,6 +3,10 @@ title: "Domain Zoo: Now what?"
 date: 2026-06-01T17:19:34+02:00
 featured: true
 tags: [modern]
+credit: [Lucas Graciano]
+creditLink: [https://www.instagram.com/p/DXwi4KCig4N/]
+coverAiModified: true
+aiTranslated: true
 ---
 
 Last year I had a great time at the [Modern tournament](/posts/relic-fest-2025) of [Relic Fest](https://www.relictcgtour.com/), so I've decided to go again this year. I figured it would be worth showing up with a more competitive deck and having a shot at winning more rounds than last year (I won just one out of 8) and to keep growing in the format.

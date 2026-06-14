@@ -2,6 +2,8 @@
 title: "Brand new blog!"
 date: 2026-05-12T18:32:17+02:00
 tags: [blog]
+coverAiGenerated: true
+aiTranslated: true
 ---
 
 Ever since I went to Relic Fest last year and started thiking about writing a tournament report, the thought of starting a blog to talk about Magic has been bouncing around in my head. The problem is that, over the past few years, whenever I've felt like creating a blog I've ended up sucked into a rabbit hole of picking up a platform, a theme, hosting, etc., and inevitably left everything half-done with the post still unwritten... So this time I did it the other way around: I started with the content. I wrote the tournament report, published it as a private GitHub gist, and shared it only with the friends I figured would want to read it.

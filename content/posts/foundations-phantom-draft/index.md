@@ -3,6 +3,10 @@ title: "An unexpected 7–0 in a Phantom Draft"
 date: 2026-06-11T20:14:15+02:00
 featured: true
 tags: [arena, limited, phantom, draft, FDN]
+credit: [Pindurski]
+creditLink: [https://www.artstation.com/pindurski]
+coverAiModified: true
+aiTranslated: true
 ---
 
 To celebrate the [International Day of Play](https://www.un.org/en/observances/international-day-of-play), from June 10th to June 12th Arena is hosting what they call a Phantom Draft. It's a draft with no entry fee (a regular Premier Draft costs {{< gems 1500 >}}), but the cards you pick are not added to your collection and there are no meaningful prizes either: you can earn an alternate art style for a card, with the reward depending on your number of wins.

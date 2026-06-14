@@ -2,6 +2,7 @@
 title: "Estreno blog!"
 date: 2026-05-12T18:32:17+02:00
 tags: [blog]
+coverAiGenerated: true
 ---
 
 Des que l'any passat vaig anar al Relic Fest i em vaig plantejar escriure la meva crònica del torneig, em va passar pel cap la idea de crear un blog per parlar sobre Magic. El problema és que, en els últims anys, sempre que he volgut crear un blog m'he vist inmers en una espiral de triar plataforma, _theme_, hosting, etc. i he acabat deixant-ho tot a mitges i el post per escriure... Així que aquest cop ho vaig fer diferent: vaig començar pel contingut; vaig escriure la crònica del torneig, la vaig publicar en un _gist_ privat a GitHub i el vaig compartir només amb els amics que vaig pensar que tindrien interès en llegir-lo.

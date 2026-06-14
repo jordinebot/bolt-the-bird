@@ -3,6 +3,9 @@ title: "Domain Zoo: I ara què?"
 date: 2026-06-01T17:19:34+02:00
 featured: true
 tags: [modern]
+credit: [Lucas Graciano]
+creditLink: [https://www.instagram.com/p/DXwi4KCig4N/]
+coverAiModified: true
 ---
 
 L'any passat m'ho vaig passar molt bé al [torneig de Modern](/ca/posts/relic-fest-2025) del [Relic Fest](https://www.relictcgtour.com/) de manera que he decidit tornar-hi aquest any. Vaig pensar que valdria la pena anar-hi amb una baralla més competitiva, per tenir l'opció de guanyar alguna ronda més que l'any passat (que en vaig guanyar només una de 8) i continuar creixent en el format.

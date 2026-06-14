@@ -3,6 +3,14 @@ title: "Pure Fun (6–3 with Jeskai in SOS)"
 date: 2026-06-12T18:01:56+02:00
 featured: true
 tags: [arena, limited, draft, SOS]
+credit: [Néstor Ossandón Leal, Justin Gerard]
+creditLink:
+  [
+    https://www.artstation.com/artwork/2BNNvA,
+    https://www.artstation.com/justingerardillustration/albums/14864455,
+  ]
+coverAiModified: true
+aiTranslated: true
 ---
 
 I'm finding myself agreeing more and more with the idea that _Limited_ is the most fun way to play Magic. I just finished another SOS draft—my first one this week and my seventh overall—and I had an absolute blast!

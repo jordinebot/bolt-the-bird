@@ -3,6 +3,9 @@ title: "Un 7-0 inesperat en un draft fantasma"
 date: 2026-06-11T20:14:15+02:00
 featured: true
 tags: [arena, limited, phantom, draft, FDN]
+credit: [Pindurski]
+creditLink: [https://www.artstation.com/pindurski]
+coverAiModified: true
 ---
 
 Per celebrar el [dia internacional del joc](https://www.un.org/en/observances/international-day-of-play), del 10 al 12 de juny es pot jugar a l'Arena el que anomenen un draft fanstasma (Phantom draft). És un draft que no té cost d'entrada (un Premier Draft normal costa {{< gems 1500 >}}), però les cartes que tries per jugar no s'afegeixen a la teva col·lecció i tampoc hi ha premis rellevants: tens l'opció de guanyar un art alternatiu per una carta, diferent en funció del número de victòries.
