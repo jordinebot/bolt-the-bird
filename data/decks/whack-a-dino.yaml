@@ -1,0 +1,55 @@
+title: Gruul Bushwhacker
+format: Historic
+source_url:
+mainboard:
+  creatures:
+    - qty: 4
+      name: Ancient Imperiosaur
+    - qty: 4
+      name: Burning-Tree Emissary
+    - qty: 4
+      name: Goblin Bushwhacker
+    - qty: 4
+      name: Memnite
+    - qty: 4
+      name: Ornithopter
+    - qty: 4
+      name: Reckless Bushwhacker
+    - qty: 3
+      name: Voldaren Epicure
+  sorceries:
+    - qty: 4
+      name: Chatterstorm
+    - qty: 4
+      name: Gleeful Demolition
+    - qty: 4
+      name: Kuldotha Rebirth
+  artifacts:
+    - qty: 4
+      name: Chromatic Star
+  lands:
+    - qty: 4
+      name: Copperline Gorge
+    - qty: 4
+      name: Cragcrown Pathway
+    - qty: 2
+      name: Karplusan Forest
+    - qty: 2
+      name: Mountain
+    - qty: 2
+      name: Stomping Ground
+    - qty: 3
+      name: Wooded Foothills
+sideboard:
+  - qty: 1
+    name: Gaea's Blessing
+  - qty: 4
+    name: Haywire Mite
+  - qty: 3
+    name: Pithing Needle
+  - qty: 3
+    name: Tormod's Crypt
+  - qty: 1
+    name: Void Mirror
+  - qty: 3
+    name: Weather the Storm

@@ -29,6 +29,8 @@ My deck was a version of SaffronOlive's [Budget Dino Whack](https://www.mtggoldf
 
 3. It has no room to play interaction. That may sound negative at first, but I saw it as an advantage. There is nothing more frustrating, when you are playing against decks you do not know, than having interaction in hand but not knowing exactly which key pieces from your opponent's deck you should counter or destroy.
 
+{{< deck id="whack-a-dino" >}}
+
 The tournament begins! My main goal is to learn, have fun, try not to make mistakes in my play, and, if possible, steal a few games so I do not finish last.
 
 {{< match round="1" player1="Jordi" deck1="Budget Dino Whack" deck1Url="https://www.mtggoldfish.com/articles/budget-magic-100-dino-whack-modern" player2="Valentin" deck2="4-Color Omnath Control" deck2Url="https://mtgdecks.net/Modern/omnath-control" result="1-2" >}}

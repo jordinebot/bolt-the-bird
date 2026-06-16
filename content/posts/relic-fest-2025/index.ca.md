@@ -28,6 +28,8 @@ La meva baralla era una versió amb la base de manà lleugerament millorada de l
 
 3. No té espai per a jugar interacció. Això, que d'entrada sona negatiu, ho vaig veure com un avantatge. No hi ha res més frustrant, quan jugues contra baralles que no coneixes, que tenir interacció a la mà però no saber exactament quines son les peces clau de la baralla del rival que hauries de contrarestar o destruir.
 
+{{< deck id="whack-a-dino" >}}
+
 Comença el torneig! El meu principal objectiu és aprendre, passar-m'ho bé, intentar no cometre errors en el meu joc i, si pot ser, robar alguna partida per intentar no quedar últim.
 
 {{< match round="1" player1="Jordi" deck1="Budget Dino Whack" deck1Url="https://www.mtggoldfish.com/articles/budget-magic-100-dino-whack-modern" player2="Valentin" deck2="4-Color Omnath Control" deck2Url="https://mtgdecks.net/Modern/omnath-control" result="1-2" >}}
