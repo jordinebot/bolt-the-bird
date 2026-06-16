@@ -1,7 +1,7 @@
 baseURL = 'https://www.bolt-the-bird.com/'
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-title = "Bolt the bird!"
+title = "Bolt the Bird!"
 
 [module]
   [[module.imports]]
