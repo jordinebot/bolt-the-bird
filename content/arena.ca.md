@@ -6,11 +6,11 @@ En aquesta pàgina faig un seguiment del meu progrés dels _Set Mastery_ i les T
 
 ## Set Mastery
 
-{{< mastery ongoing="true" set="SOS" title="Secrets of Strixhaven" level="23" pass="false" >}}
+{{< mastery ongoing="true" set="SOS" title="Secrets of Strixhaven" level="30" pass="false" >}}
 
 ## Temporades
 
-{{< season month="Juny 2026" ongoing="true" spending="51,99€" limited-start="Bronze 2" gems-start="9835" gems-earned="3320" gems-spent="1350" tokens-start="4" tokens-earned="0" tokens-bought="5" tokens-spent="2" >}}
+{{< season month="Juny 2026" ongoing="true" spending="51,99€" limited-start="Bronze 2" gems-start="9835" gems-earned="5170" gems-spent="1350" tokens-start="4" tokens-earned="0" tokens-bought="5" tokens-spent="3" >}}
 
 Aquest mes he comprat el _Play Bundle_ de MSH (Marvel Super Heroes) que conté {{< draft-token 4 >}} i {{< sealed-token 2 >}} i també he bescanviat {{< gems 1350 >}} per {{< draft-token 1 >}}, amb la qual cosa m'estalvio {{< gems 150 >}} en un Draft.
 

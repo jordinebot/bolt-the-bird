@@ -6,11 +6,11 @@ In this page I'm tracking my Set Mastery and Seasons progress on MTG Arena.
 
 ## Set Mastery
 
-{{< mastery ongoing="true" set="SOS" title="Secrets of Strixhaven" level="23" pass="false" >}}
+{{< mastery ongoing="true" set="SOS" title="Secrets of Strixhaven" level="30" pass="false" >}}
 
 ## Seasons
 
-{{< season month="June 2026" ongoing="true" spending="51,99€" limited-start="Bronze 2" gems-start="9835" gems-earned="3320" gems-spent="1350" tokens-start="4" tokens-earned="0" tokens-bought="5" tokens-spent="2" >}}
+{{< season month="June 2026" ongoing="true" spending="51,99€" limited-start="Bronze 2" gems-start="9835" gems-earned="5170" gems-spent="1350" tokens-start="4" tokens-earned="0" tokens-bought="5" tokens-spent="3" >}}
 
 This month I bought the MSH (Marvel Super Heroes) _Play Bundle_ that contains {{< draft-token 4 >}} and {{< sealed-token 2 >}}, and I've also exchanged {{< gems 1350 >}} for a {{< draft-token 1 >}}, saving {{< gems 150 >}} for a Draft.
 
