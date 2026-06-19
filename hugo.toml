@@ -39,7 +39,11 @@ title = "Bolt the Bird!"
     [languages.en.params]
       description = "Magic: The Gathering draft logs, Arena runs, deck notes, and tournament reports."
       [languages.en.params.footer]
-        tagline = "Drafts, MTG Arena runs, Limited adventures, and the occasional Lightning Bolt aimed at a bird."
+        # Optional legal copy rendered by Leyline in the global footer.
+        [languages.en.params.footer.fanContentDisclaimer]
+          text = "Bolt the Bird! is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC."
+          policyText = "Fan Content Policy"
+          policyURL = "https://company.wizards.com/en/legal/fancontentpolicy"
 
     [[languages.en.menus.main]]
       name = "Posts"
@@ -85,7 +89,11 @@ title = "Bolt the Bird!"
     [languages.ca.params]
       description = "Drafts de Magic: The Gathering, partides a Arena, notes de baralles i cròniques de tornejos."
       [languages.ca.params.footer]
-        tagline = "Drafts, aventures a MTG Arena, històries de Limited i de tant en tant un llamp al cap d'un ocell."
+        # Còpia legal opcional renderitzada per Leyline al footer global.
+        [languages.ca.params.footer.fanContentDisclaimer]
+          text = "Bolt the Bird és contingut no oficial creat per fans i permès segons la Fan Content Policy. No està aprovat ni avalat per Wizards. Part dels materials utilitzats són propietat de Wizards of the Coast. © Wizards of the Coast LLC."
+          policyText = "Fan Content Policy"
+          policyURL = "https://company.wizards.com/en/legal/fancontentpolicy"
 
     [[languages.ca.menus.main]]
       name = "Entrades"
