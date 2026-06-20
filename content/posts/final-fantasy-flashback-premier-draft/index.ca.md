@@ -21,13 +21,13 @@ En el primer Draft, amb Draftsmith activat vaig muntar una baralla {{< mana "{W}
 
 Vaig començar el primer Draft molt bé, amb un parcial de 3-0 contra dues baralles {{< mana "{W}{U}" >}} Azorius d'artefactes i una {{< mana "{B}{R}">}} Rakdos de {{< cardname "Wizard|TFIN" >}} tokens tot i robar primer a les tres partides.
 
-Malauradament la meva baralla era molt vulnerable als _boardwipes_ (cartes que destrueixen totes les criatures) i ens dues ocasions, partides que pintaven molt bé se'm van escapar de les mans per culpa {{< cardname "Fire Magic" >}} i {{< cardname "Ultima" >}}.
+Malauradament la meva baralla era molt vulnerable als _boardwipes_ (cartes que destrueixen totes les criatures) i ens dues ocasions, partides que pintaven molt bé se'm van escapar de les mans per culpa de {{< cardname "Fire Magic" >}} i {{< cardname "Ultima" >}}.
 
 Al final, un 4-3 i una primera experiència prou positiva amb Final Fantasy.
 
 {{< draft index="2" set="FIN" colors="{B}{R}" winrate="25" result="1-3" seventeenlands="04f8ea30040641c8914d67935ca4a732" >}}
 
-El segon Draft va ser un despropòsit. No vaig activar el Draftsmith que et recomana les millors tries, simplement tenia l'overlay de valoració de les cartes. Segurament fou una barreja de malasort i, principalment, desconeixement de les cartes, però la meva baralla {{< mana "{B}{R}" >}} no va funcionar gens bé. Vaig anar totes les partides a remolc, intentant defensar i eliminar les majors amenaces dels oponents sense tenir cap oportunitat de guanyar.
+El segon Draft va ser un despropòsit. No vaig activar el Draftsmith que et recomana les millors tries, simplement tenia l'overlay de valoració de les cartes. Segurament fou una barreja de malasort i, principalment, desconeixement de les cartes, però la meva baralla {{< mana "{B}{R}" >}} Rakdos no va funcionar gens bé. Vaig anar totes les partides a remolc, intentant defensar i eliminar les majors amenaces dels oponents sense tenir cap oportunitat de guanyar.
 
 {{< combo "Queen Brahne" "Black Waltz No. 3" "Zodiark, Umbral God">}}
 

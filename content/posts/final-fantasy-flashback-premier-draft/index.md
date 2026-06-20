@@ -29,7 +29,7 @@ In the end, I finished 4–3 and came away with a fairly positive first impressi
 
 The second Draft was a complete disaster.
 
-I didn't enable Draftsmith's pick recommendations and only used the card-rating overlay. It was probably a combination of bad luck and, more importantly, unfamiliarity with the set, but my {{< mana "{B}{R}" >}} deck simply didn't work. In every match I found myself on the back foot, trying to defend and remove my opponents' biggest threats without ever having a realistic path to victory.
+I didn't enable Draftsmith's pick recommendations and only used the card-rating overlay. It was probably a combination of bad luck and, more importantly, unfamiliarity with the set, but my {{< mana "{B}{R}" >}} Rakdos deck simply didn't work. In every match I found myself on the back foot, trying to defend and remove my opponents' biggest threats without ever having a realistic path to victory.
 
 {{< combo "Queen Brahne" "Black Waltz No. 3" "Zodiark, Umbral God">}}
 
