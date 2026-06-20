@@ -1,5 +1,6 @@
 ---
 title: "June 2026"
+subtitle: "Season"
 image: "/images/mtg-arena.jpg"
 arenaType: "season"
 ---
