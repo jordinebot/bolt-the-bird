@@ -21,7 +21,7 @@ En el primer Draft, amb Draftsmith activat vaig muntar una baralla {{< mana "{W}
 
 Vaig començar el primer Draft molt bé, amb un parcial de 3-0 contra dues baralles {{< mana "{W}{U}" >}} Azorius d'artefactes i una {{< mana "{B}{R}">}} Rakdos de {{< cardname "Wizard|TFIN" >}} tokens tot i robar primer a les tres partides.
 
-Malauradament la meva baralla era molt baralla era molt vulnerable als _boardwipes_ (cartes que destrueixen totes les criatures) i ens dues ocasions, partides que pintaven molt bé se'm van escapar de les mans per culpa {{< cardname "Fire Magic" >}} i {{< cardname "Ultima" >}}.
+Malauradament la meva baralla era molt vulnerable als _boardwipes_ (cartes que destrueixen totes les criatures) i ens dues ocasions, partides que pintaven molt bé se'm van escapar de les mans per culpa {{< cardname "Fire Magic" >}} i {{< cardname "Ultima" >}}.
 
 Al final, un 4-3 i una primera experiència prou positiva amb Final Fantasy.
 
