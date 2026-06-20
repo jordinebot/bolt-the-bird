@@ -1,4 +1,5 @@
 ---
+date: 2026-04-21
 title: "Secrets of Strixhaven"
 subtitle: "Set Mastery"
 arenaType: "mastery"
