@@ -6,7 +6,6 @@ tags: [arena, limited, draft, FIN]
 credit: [Magali Villeneuve]
 creditLink: [https://www.instagram.com/p/DJpdVJRtm5O/?hl=en]
 coverAiModified: true
-aiTranslated: true
 ---
 
 Aquesta setmana hi havia Flashback Draft de [Final Fantasy](https://scryfall.com/sets/fin) (FIN) a l'Arena, i com que havia llegit que FIN és una de les millors expansions per jugar Draft dels darrers anys, vaig voler-ho provar.
