@@ -14,7 +14,7 @@ Doing the math, the extra benefit would be: {{< draft-token 1 >}}, {{< gems 600 
 
 ## Seasons
 
-{{< season month="June 2026" spending="51,99€" limited-start="Bronze 2" limited-end="Gold 3" gems-start="9835" gems-earned="6250" gems-spent="2830" tokens-start="4" tokens-earned="0" tokens-bought="5" tokens-spent="4" >}}
+{{< season month="June 2026" spending="51,99€" limited-start="Bronze 2" limited-end="Gold 3" gems-start="9835" gems-earned="6250" gems-spent="2830" tokens-start="4" tokens-earned="1" tokens-bought="4" tokens-spent="4" >}}
 
 This month I bought the MSH (Marvel Super Heroes) _Play Bundle_ that contains {{< draft-token 4 >}} and {{< sealed-token 2 >}}, and I've also exchanged {{< gems 1350 >}} for a {{< draft-token 1 >}}, saving {{< gems 150 >}} for a Draft.
 

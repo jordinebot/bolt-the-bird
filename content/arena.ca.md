@@ -14,7 +14,7 @@ Fent els números, el benefici extra suposaria: {{< draft-token 1>}}, {{< gems 6
 
 ## Temporades
 
-{{< season month="Juny 2026" spending="51,99€" limited-start="Bronze 2" limited-end="Gold 3" gems-start="9835" gems-earned="6250" gems-spent="2830" tokens-start="4" tokens-earned="0" tokens-bought="5" tokens-spent="4" >}}
+{{< season month="Juny 2026" spending="51,99€" limited-start="Bronze 2" limited-end="Gold 3" gems-start="9835" gems-earned="6250" gems-spent="2830" tokens-start="4" tokens-earned="1" tokens-bought="4" tokens-spent="4" >}}
 
 Aquest mes he comprat el _Play Bundle_ de MSH (Marvel Super Heroes) que conté {{< draft-token 4 >}} i {{< sealed-token 2 >}} i també he bescanviat {{< gems 1350 >}} per {{< draft-token 1 >}}, amb la qual cosa m'estalvio {{< gems 150 >}} en un Draft.
 
