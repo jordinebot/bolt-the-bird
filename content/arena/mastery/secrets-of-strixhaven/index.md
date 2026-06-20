@@ -1,6 +1,5 @@
 ---
-title: "Secrets of Strixhaven Set Mastery"
-date: 2026-06-17
+title: "Secrets of Strixhaven"
 image: "/images/mtg-arena.jpg"
 arenaType: "mastery"
 ---

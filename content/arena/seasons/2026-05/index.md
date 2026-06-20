@@ -1,6 +1,5 @@
 ---
-title: "May 2026 Season"
-date: 2026-05-01
+title: "May 2026"
 image: "/images/mtg-arena.jpg"
 arenaType: "season"
 ---

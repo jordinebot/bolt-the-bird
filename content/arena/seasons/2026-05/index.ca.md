@@ -1,6 +1,5 @@
 ---
-title: "Temporada de maig de 2026"
-date: 2026-05-01
+title: "Maig de 2026"
 image: "/images/mtg-arena.jpg"
 arenaType: "season"
 ---

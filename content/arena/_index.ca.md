@@ -11,5 +11,3 @@ listGroupLabels:
   mastery: "Set Mastery"
   season: "Temporades"
 ---
-
-En aquesta secció faig un seguiment del meu progrés dels _Set Mastery_ i les temporades a MTG Arena.

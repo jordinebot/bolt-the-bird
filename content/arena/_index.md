@@ -11,5 +11,3 @@ listGroupLabels:
   mastery: "Set Mastery"
   season: "Seasons"
 ---
-
-In this section I'm tracking my Set Mastery and Seasons progress on MTG Arena.
