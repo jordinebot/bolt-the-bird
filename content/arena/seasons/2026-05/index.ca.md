@@ -2,7 +2,6 @@
 date: 2026-05-01
 title: "Maig de 2026"
 subtitle: "Temporada"
-image: "/images/mtg-arena.jpg"
 arenaType: "season"
 ---
 
