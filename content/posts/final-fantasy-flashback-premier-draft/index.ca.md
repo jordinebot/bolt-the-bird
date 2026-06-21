@@ -8,7 +8,7 @@ creditLink: [https://www.instagram.com/p/DJpdVJRtm5O/?hl=en]
 coverAiModified: true
 ---
 
-Aquesta setmana hi havia Flashback Draft de [Final Fantasy](https://scryfall.com/sets/fin) (FIN) a l'Arena, i com que havia llegit que FIN és una de les millors expansions per jugar Draft dels darrers anys, vaig voler-ho provar.
+Aquesta setmana hi havia Flashback Draft de {{< set-name "FIN" "Final Fantasy" >}} a l'Arena, i com que havia llegit que FIN és una de les millors expansions per jugar Draft dels darrers anys, vaig voler-ho provar.
 
 Segons la [guia](https://draftsim.com/mtg-fin-draft-guide/), les millors combinacions de colors són {{< mana "{U}{R}" >}} Izzet _Big Spells_ i {{< mana "{B}{G}" >}} Golgari _Graveyard_ (Midrange).
 

@@ -11,7 +11,7 @@ aiTranslated: true
 
 To celebrate the [International Day of Play](https://www.un.org/en/observances/international-day-of-play), from June 10th to June 12th Arena is hosting what they call a Phantom Draft. It's a draft with no entry fee (a regular Premier Draft costs {{< gems 1500 >}}), but the cards you pick are not added to your collection and there are no meaningful prizes either: you can earn an alternate art style for a card, with the reward depending on your number of wins.
 
-It's not a particularly exciting event, but at the end of the day it's an opportunity to draft a different set. In this case, [Foundations](https://scryfall.com/sets/fdn) (FDN), so I decided to give it a try, with much more success than I expected!
+It's not a particularly exciting event, but at the end of the day it's an opportunity to draft a different set. In this case, {{< set-name "FDN" "Foundations" >}}, so I decided to give it a try, with much more success than I expected!
 
 {{< draft index="1" set="FDN" colors="UB" result="7-0" winrate="100" >}}
 

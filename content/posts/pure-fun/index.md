@@ -39,4 +39,4 @@ I finished the draft at 6–3 feeling very satisfied, with the sense that I had 
 
 {{< combo "Goblin Glasswright" "Colorstorm Stallion" "Sanar, Unfinished Genius" "Together As One" >}}
 
-Next week I'll finally get to draft [Final Fantasy](https://scryfall.com/sets/fin) (FIN), which many people are calling one of the best _Limited_ formats of the last few years... I'll let you know how it goes!
+Next week I'll finally get to draft {{< set-name "FIN" "Final Fantasy" >}}, which many people are calling one of the best _Limited_ formats of the last few years... I'll let you know how it goes!

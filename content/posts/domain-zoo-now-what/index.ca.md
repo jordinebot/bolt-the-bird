@@ -14,7 +14,7 @@ En els últims mesos he destinat bona part del meu pressupost per a MTG a prepar
 
 {{< combo "Wild Nacatl" "Ragavan, Nimble Pilferrer" "Nishoba Brawler" "Territorial Kavu" >}}
 
-Amb l'arribada de {{< cardname "Leyline of the Guildpact" >}} a [MKM](https://scryfall.com/sets/mkm), amb una bona mà, Domain Zoo disposa dels 5 tipus bàsics des del primer torn i el combo amb {{< cardname "Scion of Draco" >}}, una 4/4 voladora que jugues per {{< mana "2" >}} i que dóna vigilància, _hexproof_, _lifelink_, _first strike_ i _trample_ a totes les teves criatures; havia situat Domain Zoo entre les baralles més poderoses del format.
+Amb l'arribada de {{< cardname "Leyline of the Guildpact" >}} a {{< set-name "MKM" "Murders at Karlov Manor" >}}, amb una bona mà, Domain Zoo disposa dels 5 tipus bàsics des del primer torn i el combo amb {{< cardname "Scion of Draco" >}}, una 4/4 voladora que jugues per {{< mana "2" >}} i que dóna vigilància, _hexproof_, _lifelink_, _first strike_ i _trample_ a totes les teves criatures; havia situat Domain Zoo entre les baralles més poderoses del format.
 
 {{< combo "Leyline of the Guildpact" "Scion of Draco" >}}
 
@@ -22,7 +22,7 @@ El problema és que el passat [18 de maig](https://magic.wizards.com/en/news/ann
 
 {{< card "Phlage, Titan of Fire's Fury" >}}
 
-Com a conseqüència, Domain Zoo ha passat d'ocupar aproximadament un 8% del meta a caure per sota del 2%, que indica que la baralla no és vista com una opció tan sòlida com ho era abans. D'aquí a finals d'octubre encara poden passar moltes coses perquè fins llavors es publicaran 3 noves expansions que introduiran més cartes al format ([Marvel Super Heroes](https://scryfall.com/sets/msh), [The Hobbit](https://scryfall.com/sets/hob) i [Reality Fracture](https://scryfall.com/sets/fra)) i també poden haver-hi canvis a la llista de _banejos_ que produeixen encara un major rebombori.
+Com a conseqüència, Domain Zoo ha passat d'ocupar aproximadament un 8% del meta a caure per sota del 2%, que indica que la baralla no és vista com una opció tan sòlida com ho era abans. D'aquí a finals d'octubre encara poden passar moltes coses perquè fins llavors es publicaran 3 noves expansions que introduiran més cartes al format ({{< set-name "MSH" "Marvel Super Heroes" >}}, {{< set-name "HOB" "The Hobbit" >}} i {{< set-name "FRA" "Reality Fracture" >}}) i també poden haver-hi canvis a la llista de _banejos_ que produeixen encara un major rebombori.
 
 ## Així doncs: ara què?
 

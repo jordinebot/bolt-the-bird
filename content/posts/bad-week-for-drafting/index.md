@@ -11,7 +11,7 @@ aiTranslated: true
 
 When I considered [going back to Arena](/posts/back-to-mtg-arena/) to play _Limited_, I read a [post on Reddit](https://www.reddit.com/r/MagicArena/comments/18ovjgi/a_f2p_beginner_draft_guide/) (highly recommended) where the author mentions that if you play drafts during the first week of the season (seasons last one calendar month, usually) you're more likely to face more experienced opponents and, therefore, your chances of winning are reduced.
 
-Seeing how my week went, that's probably true. I've also learned that, during the season, there aren't only drafts from the current expansion, but also drafts from previous expansions that are only available for a few days. This month, for example, you can play [Avatar, The Last Airbender (TLA)](https://scryfall.com/sets/tla) from the 2nd to the 8th; [Final Fantasy (FIN)](https://scryfall.com/sets/fin) from the 16th to the 22nd; and _Sealed_ [Tarkir: Dragonstorm (TDM)](https://scryfall.com/sets/tdm) from the 9th to the 15th.
+Seeing how my week went, that's probably true. I've also learned that, during the season, there aren't only drafts from the current expansion, but also drafts from previous expansions that are only available for a few days. This month, for example, you can play {{< set-name "TLA" "Avatar, The Last Airbender" >}} from the 2nd to the 8th; {{< set-name "FIN" "Final Fantasy" >}} from the 16th to the 22nd; and _Sealed_ {{< set-name "TDM" "Tarkir: Dragonstorm" >}} from the 9th to the 15th.
 
 Since it's fun to try other expansions and I'd heard that Avatar was a very fun draft, I wanted to give it a shot...
 
@@ -27,7 +27,7 @@ In the end, I went 3-3, earning {{< gems 1000 >}} for a Draft I paid with {{< co
 
 {{< draft index="5" set="SOS" colors="URG" result="2-3" winrate="40" 17lands="b30030f69c69458bb20dc5e519f0c30c" >}}
 
-Yesterday I played [Secrets of Strixhaven](https://scryfall.com/sets/sos) in a draft that was utter chaos. I picked good cards, but every pick led me to a different color. I ended up with a hodgepodge of 5-color cards on top of many multicolor ones. In general, I enjoy 3 and 4-color decks in _Constructed_, but in _Limited_ they overwhelm me!
+Yesterday I played {{< set-name "SOS" "Secrets of Strixhaven" >}} in a draft that was utter chaos. I picked good cards, but every pick led me to a different color. I ended up with a hodgepodge of 5-color cards on top of many multicolor ones. In general, I enjoy 3 and 4-color decks in _Constructed_, but in _Limited_ they overwhelm me!
 
 ![Pool](draft-5-pool.webp)
 

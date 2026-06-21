@@ -15,7 +15,7 @@ Over the past few months I've put a good chunk of my MTG budget toward building 
 
 {{< combo "Wild Nacatl" "Ragavan, Nimble Pilferrer" "Nishoba Brawler" "Territorial Kavu" >}}
 
-With the arrival of {{< cardname "Leyline of the Guildpact" >}} in [MKM](https://scryfall.com/sets/mkm), a good opening hand gives Domain Zoo all 5 basic land types on turn one. Pair that with {{< cardname "Scion of Draco" >}}, a 4/4 flyer you cast for {{< mana "2" >}} that grants vigilance, hexproof, lifelink, first strike, and trample to all your creatures, and Domain Zoo had firmly established itself among the most powerful decks in the format.
+With the arrival of {{< cardname "Leyline of the Guildpact" >}} in {{< set-name "MKM" "Murders at Karlov Manor" >}}, a good opening hand gives Domain Zoo all 5 basic land types on turn one. Pair that with {{< cardname "Scion of Draco" >}}, a 4/4 flyer you cast for {{< mana "2" >}} that grants vigilance, hexproof, lifelink, first strike, and trample to all your creatures, and Domain Zoo had firmly established itself among the most powerful decks in the format.
 
 {{< combo "Leyline of the Guildpact" "Scion of Draco" >}}
 
@@ -23,7 +23,7 @@ The problem is that on [May 18th](https://magic.wizards.com/en/news/announcement
 
 {{< card "Phlage, Titan of Fire's Fury" >}}
 
-As a result, Domain Zoo has dropped from roughly 8% of the meta to below 2%, signaling that the deck is no longer considered the solid option it once was. A lot can still happen between now and the end of October: three new sets will be released and introduce more cards to the format ([Marvel Super Heroes](https://scryfall.com/sets/msh), [The Hobbit](https://scryfall.com/sets/hob) and [Reality Fracture](https://scryfall.com/sets/fra)), and there could be further changes in the bans list that would shake things up even more.
+As a result, Domain Zoo has dropped from roughly 8% of the meta to below 2%, signaling that the deck is no longer considered the solid option it once was. A lot can still happen between now and the end of October: three new sets will be released and introduce more cards to the format ({{< set-name "MSH" "Marvel Super Heroes" >}}, {{< set-name "HOB" "The Hobbit" >}} and {{< set-name "FRA" "Reality Fracture" >}}), and there could be further changes in the bans list that would shake things up even more.
 
 ## So: now what?
 

@@ -10,7 +10,7 @@ coverAiModified: true
 
 Per celebrar el [dia internacional del joc](https://www.un.org/en/observances/international-day-of-play), del 10 al 12 de juny es pot jugar a l'Arena el que anomenen un draft fanstasma (Phantom draft). És un draft que no té cost d'entrada (un Premier Draft normal costa {{< gems 1500 >}}), però les cartes que tries per jugar no s'afegeixen a la teva col·lecció i tampoc hi ha premis rellevants: tens l'opció de guanyar un art alternatiu per una carta, diferent en funció del número de victòries.
 
-No és una opció gaire engrescadora, però al cap i a la fi és una oportunitat per _draftejar_ una expansió diferent. En aquest cas [Foundations](https://scryfall.com/sets/fdn) (FDN), així que ho he provat, amb molt més èxit de l'esperat!
+No és una opció gaire engrescadora, però al cap i a la fi és una oportunitat per _draftejar_ una expansió diferent. En aquest cas {{< set-name "FDN" "Foundations" >}}, així que ho he provat, amb molt més èxit de l'esperat!
 
 {{< draft index="1" set="FDN" colors="UB" result="7-0" winrate="100" >}}
 

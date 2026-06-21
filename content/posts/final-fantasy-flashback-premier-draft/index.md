@@ -9,7 +9,7 @@ coverAiModified: true
 aiTranslated: true
 ---
 
-This week, a Flashback Draft of [Final Fantasy](https://scryfall.com/sets/fin) (FIN) was available on Arena, and since I'd read that FIN is one of the best Draft formats of recent years, I decided to give it a try.
+This week, a Flashback Draft of {{< set-name "FIN" "Final Fantasy" >}} was available on Arena, and since I'd read that FIN is one of the best Draft formats of recent years, I decided to give it a try.
 
 According to the [Draftsim guide](https://draftsim.com/mtg-fin-draft-guide/), the strongest color pairs are {{< mana "{U}{R}" >}} Izzet _Big Spells_ and {{< mana "{B}{G}" >}} Golgari _Graveyard_ (Midrange).
 

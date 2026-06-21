@@ -34,4 +34,4 @@ En les darreres tres partides, de les quals només n'he guanyat una, he tornat a
 
 {{< combo "Goblin Glasswright" "Colorstorm Stallion" "Sanar, Unfinished Genius" "Together As One" >}}
 
-La setmana que podré fer el Draft de [Final Fantasy](https://scryfall.com/sets/fin) (FIN) que, segons diuen, és un dels millors sets de _Limited_ dels darrers anys... ja us ho explicaré!
+La setmana que podré fer el Draft de {{< set-name "FIN" "Final Fantasy" >}} que, segons diuen, és un dels millors sets de _Limited_ dels darrers anys... ja us ho explicaré!
