@@ -5,7 +5,7 @@ featured: true
 tags: [arena, limited, draft, STX]
 ---
 
-He començat, per error, un Premier Draft d'Strixhaven (pensant-me que era de _Secrets of_ Strixhaven) i me n'he adonat quan al primer sobre la carta rara era {{< cardname "Sedgemoor Witch" >}}. Ja m'havia semblat estrany que trigués força més del normal a omplir-se la taula de draft... La meva primera reacció ha sigut: "–Merda, he llençat 1500 gemmes", pensant que l'experiència que havia acumulat en els 4 drafts anteriors de SOS no em serviria per a res. Però he tirat endavant, confiant que el [Draftsmith](https://mtga.untapped.gg/draftsmith) m'ajudaria, què havia de fer sinó!?
+He començat, per error, un Premier Draft d'{{< set-name "STX" "Strixhaven" >}} (pensant-me que era de _Secrets of_ Strixhaven) i me n'he adonat quan al primer sobre la carta rara era {{< cardname "Sedgemoor Witch" >}}. Ja m'havia semblat estrany que trigués força més del normal a omplir-se la taula de draft... La meva primera reacció ha sigut: "–Merda, he llençat 1500 gemmes", pensant que l'experiència que havia acumulat en els 4 drafts anteriors de SOS no em serviria per a res. Però he tirat endavant, confiant que el [Draftsmith](https://mtga.untapped.gg/draftsmith) m'ajudaria, què havia de fer sinó!?
 
 {{< draft index="1" set="STX" colors="{W}{B}" winrate="87" result="7-1" seventeenlands="c244983e4315486b9622a02b0e92e816" >}}
 
