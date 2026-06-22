@@ -1,11 +1,10 @@
 ---
 title: "Universes Beyond: We Say Thee Yay!"
 date: 2026-06-22T08:34:06+02:00
-draft: true
-description: ""
 featured: true
 tags: [universes beyond, opinion]
 credit: [Mateus Manhanini]
+aiTranslated: true
 ---
 
 When Wizards of the Coast [announced](https://magic.wizards.com/en/news/announcements/magics-voyages-universes-beyond-2021-02-25) **Universes Beyond** in early 2021, the initiative that would bring characters and worlds from other franchises into Magic: The Gathering, reactions were swift. Some players welcomed the opportunity to see their favorite universes represented on Magic cards. Others, however, expressed concern about the potential impact on the game's identity.
