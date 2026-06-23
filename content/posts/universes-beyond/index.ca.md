@@ -48,7 +48,7 @@ Probablement, la resposta a aquesta pregunta determina bona part de la posició 
 
 ### Personalment...
 
-D'entrada, la meva reacció va ser de rebuig davant la idea de portar personatges d'altres franquícies a Magic. Considerava que, per fer-hi _cameos_, ja existien els [Secret Lair](secretlair.wizards.com/us/en) i que això era més que suficient. Però després, com suposo que ens ha passat a molts jugadors, quan la franquícia en qüestió és una que t'agrada (com, en el meu cas, _El Senyor dels Anells_ o _El Hòbbit_) la idea ja no sembla tan terrible.
+D'entrada, la meva reacció va ser de rebuig davant la idea de portar personatges d'altres franquícies a Magic. Considerava que, per fer-hi _cameos_, ja existien els [Secret Lair](https://secretlair.wizards.com/eu) i que això era més que suficient. Però després, com suposo que ens ha passat a molts jugadors, quan la franquícia en qüestió és una que t'agrada (com, en el meu cas, _El Senyor dels Anells_ o _El Hòbbit_) la idea ja no sembla tan terrible.
 
 A la pràctica, per exemple, feia temps que tenia ganes de muntar una baralla de ninjes, i l'expansió de {{< set-name "TMT" "Teenage Mutant Ninja Turtles" >}} m'ha permès fer-ne una amb la qual m'ho passo molt bé. L'excés de criatures llegendàries, inevitable en moltes expansions d'Universes Beyond, l'he mitigat jugant-les en un format _singleton_ com [Australian Highlander](https://7ph.com.au/about/).
 

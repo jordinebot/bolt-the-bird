@@ -49,7 +49,7 @@ The answer to that question likely determines how each player feels about Univer
 
 ### Personally...
 
-My initial reaction was one of rejection. I did not like the idea of bringing characters from other franchises into Magic. As far as I was concerned, if Wizards wanted to do a few crossover appearances, [Secret Lair](secretlair.wizards.com/us/en) already existed and was more than enough.
+My initial reaction was one of rejection. I did not like the idea of bringing characters from other franchises into Magic. As far as I was concerned, if Wizards wanted to do a few crossover appearances, [Secret Lair](https://secretlair.wizards.com/us/en) already existed and was more than enough.
 
 But then, as has probably happened to many players, things look different when the franchise in question is one you actually enjoy. In my case, that meant _The Lord of the Rings_ and _The Hobbit_.
 
