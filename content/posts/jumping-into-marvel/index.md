@@ -3,6 +3,7 @@ title: "Jumping into the World of Marvel"
 date: 2026-06-24T11:38:14+02:00
 featured: true
 tags: [arena, jump in, MSH, MSC, marvel]
+aiTranslated: true
 ---
 
 Even though I've never read a Marvel comic in my life, I'm pretty excited about {{< set-name "MSH" "Marvel Super Heroes" >}}. Since [returning to Arena]({{< relref "/posts/back-to-mtg-arena/" >}}), this is the first set I've been around for from day one, so I'm planning to play quite a few MSH Drafts during the [July season]({{< relref "/arena/seasons/2026-07/" >}}).
