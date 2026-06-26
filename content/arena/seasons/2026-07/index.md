@@ -1,5 +1,5 @@
 ---
-date: 2026-06-24
+date: 2026-07-01
 title: "July 2026"
 subtitle: "Season"
 arenaType: "season"
