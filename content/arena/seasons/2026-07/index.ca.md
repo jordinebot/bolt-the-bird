@@ -1,5 +1,5 @@
 ---
-date: 2026-07-01
+date: 2026-06-24
 title: "Juliol de 2026"
 subtitle: "Temporada"
 arenaType: "season"
