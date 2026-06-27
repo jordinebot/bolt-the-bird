@@ -1,0 +1,86 @@
+title: Draft 1 Deck
+format: Limited
+source_url: https://www.17lands.com/deck/dd0251699d5444099da9bab880b0858e/1
+mainboard:
+  creatures:
+    - qty: 1
+      name: Stature, Size Shifter
+    - qty: 1
+      name: Agent of Atlas
+    - qty: 1
+      name: Brave Brawler
+    - qty: 1
+      name: Tony Stark
+    - qty: 1
+      name: Hero in Training
+    - qty: 1
+      name: King T'Challa
+    - qty: 1
+      name: Red Guardian, Super-Soldier
+    - qty: 2
+      name: S.H.I.E.L.D. Deployment Drone
+    - qty: 1
+      name: Attuma, Atlantean Warlord
+    - qty: 1
+      name: Okoye, Dora Milaje Leader
+    - qty: 1
+      name: Spider-Woman, Secret Agent
+    - qty: 1
+      name: Captain Mar-Vell, Space-Born
+    - qty: 1
+      name: Falcon, Winged Wonder
+  instants:
+    - qty: 2
+      name: Helicarrier Strike
+    - qty: 1
+      name: We Say Thee Nay!
+  sorceries:
+    - qty: 1
+      name: Trickster's Stratagem
+    - qty: 1
+      name: Borough Backup
+  enchantments:
+    - qty: 2
+      name: Political Triumph
+    - qty: 2
+      name: Web Up
+  lands:
+    - qty: 8
+      name: Plains
+    - qty: 8
+      name: Island
+    - qty: 1
+      name: Avengers Hangar
+sideboard:
+  - qty: 1
+    name: Agents of S.H.I.E.L.D.
+  - qty: 1
+    name: Captain Mar-Vell, Space-Born
+  - qty: 1
+    name: Nick Fury, Agent of S.H.I.E.L.D.
+  - qty: 2
+    name: Aerial Doombot
+  - qty: 1
+    name: A.I.M. Scientists
+  - qty: 1
+    name: Atlantean Cavalry
+  - qty: 1
+    name: Giant-Sized Flying Ant
+  - qty: 1
+    name: I Am Iron Man
+  - qty: 1
+    name: Shuri, Wakandan Inventor
+  - qty: 1
+    name: Roxxon Brutes
+  - qty: 1
+    name: Rapid Rescue
+  - qty: 1
+    name: Reptil, Dinomorpher
+  - qty: 1
+    name: Speedball, New Warrior
+  - qty: 1
+    name: Spider-Woman, Secret Agent
+  - qty: 1
+    name: Ultron Drone
+  - qty: 1
+    name: Asgardian Citadel
