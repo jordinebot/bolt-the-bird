@@ -36,7 +36,3 @@ Maybe I wasn't aggressive enough in the second and third matches, allowing decks
 {{< cardname "King T'Challa" >}} was the only card in my deck that consistently felt capable of swinging a game in my favour.
 
 Oh well... every Draft is a learning experience. But I think I'll wait until the [July season]({{< relref "/arena/seasons/2026-07/" >}}) begins and the ranked ladder resets before jumping back into another one.
-
-```
-
-```
