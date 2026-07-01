@@ -11,6 +11,8 @@ title = "Bolt the Bird!"
 
 # Settings shared across all languages.
 [params]
+  blogTitle = "Bolt the Bird!"
+  pageTitle = "Bolt the Bird! | A personal blog about Magic: The Gathering"
   accentColor = "#4f46e5"
   googleTagID = "G-Q2VCWFH77S"
 
