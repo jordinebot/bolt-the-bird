@@ -13,8 +13,24 @@ title = "Bolt the Bird!"
 [params]
   blogTitle = "Bolt the Bird!"
   pageTitle = "Bolt the Bird! | A personal blog about Magic: The Gathering"
-  accentColor = "#4f46e5"
+  accentColor = "#E32113"
+  accentHoverColor = "#A61411"
   googleTagID = "G-Q2VCWFH77S"
+
+  [params.brand]
+    name = "Bolt the Bird!"
+    logo = "images/cover.webp"
+    logoAlt = "Bolt the Bird! logo"
+    logoWidth = 2016
+    logoHeight = 1134
+    useLogoInHeader = false
+    useLogoInHero = true
+
+  [params.home]
+    heroTaglineKey = "home_hero_tagline"
+    heroCtaKey = "home_read_latest"
+    postCount = 6
+    latestCount = 10
 
 [taxonomies]
   tag = "tags"
