@@ -1,7 +1,6 @@
 ---
 title: "Magic, millennials i l’economia dels adults que encara juguen"
 date: 2026-07-29T00:00:00+02:00
-draft: true
 featured: true
 description: "L’èxit de Magic: The Gathering, el negoci de Hasbro i el debat sobre nostàlgia, habitatge i la suposada infantilització dels adults."
 summary: "El Wall Street Journal presenta Magic com el gran motor de Hasbro. Fortune hi veu el reflex d’una generació amb l’edat adulta econòmicament ajornada. Però jugar de gran és realment una forma d’infantilització?"

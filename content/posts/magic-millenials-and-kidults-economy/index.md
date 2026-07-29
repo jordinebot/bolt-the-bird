@@ -1,7 +1,6 @@
 ---
 title: "Magic, Millennials, and the Economy of Adults Who Still Play"
 date: 2026-07-29T00:00:00+02:00
-draft: true
 featured: true
 description: "The success of Magic: The Gathering, Hasbro’s business, and the debate over nostalgia, housing, and the supposed infantilization of adults."
 summary: "The Wall Street Journal presents Magic as Hasbro’s main growth engine. Fortune sees it as a reflection of a generation whose economic adulthood has been delayed. But is playing as an adult really a form of infantilization?"
