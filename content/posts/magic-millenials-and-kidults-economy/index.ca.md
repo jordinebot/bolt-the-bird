@@ -5,6 +5,7 @@ featured: true
 description: "L’èxit de Magic: The Gathering, el negoci de Hasbro i el debat sobre nostàlgia, habitatge i la suposada infantilització dels adults."
 summary: "El Wall Street Journal presenta Magic com el gran motor de Hasbro. Fortune hi veu el reflex d’una generació amb l’edat adulta econòmicament ajornada. Però jugar de gran és realment una forma d’infantilització?"
 tags: []
+coverAiGenerated: true
 ---
 
 A finals de juliol del 2026, dos articles publicats amb només un dia de diferència van presentar dues lectures molt diferents del mateix fenomen.

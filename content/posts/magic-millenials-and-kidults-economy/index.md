@@ -5,6 +5,8 @@ featured: true
 description: "The success of Magic: The Gathering, Hasbro’s business, and the debate over nostalgia, housing, and the supposed infantilization of adults."
 summary: "The Wall Street Journal presents Magic as Hasbro’s main growth engine. Fortune sees it as a reflection of a generation whose economic adulthood has been delayed. But is playing as an adult really a form of infantilization?"
 tags: []
+coverAiGenerated: true
+aiTranslated: true
 ---
 
 In late July 2026, two articles published just one day apart offered two very different readings of the same phenomenon.
