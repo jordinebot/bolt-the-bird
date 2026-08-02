@@ -8,7 +8,7 @@ tags: []
 coverAiGenerated: true
 ---
 
-A finals de juliol del 2026, dos articles publicats amb només un dia de diferència van presentar dues lectures molt diferents del mateix fenomen.
+A finals de juliol, dos articles publicats amb només un dia de diferència van presentar dues lectures molt diferents del mateix fenomen.
 
 El primer, publicat per _The Wall Street Journal_ amb el títol [_The Future of the Toy Industry Isn’t Toys. It’s Magic_](https://www.wsj.com/business/retail/hasbro-magic-the-gathering-card-game-c4538f5b), analitza l’èxit de **Magic: The Gathering** des del punt de vista empresarial. Magic ha passat de ser una afició relativament minoritària, associada a botigues especialitzades i clubs de joc, a convertir-se en la marca més important de Hasbro.
 
@@ -22,9 +22,9 @@ Les xifres que presenta el _Wall Street Journal_ són difícils d’ignorar.
 
 Magic va generar aproximadament **1.720 milions de dòlars durant el 2025**, el millor resultat de la seva història i un increment del 59% respecte de l’any anterior. Els [resultats anuals publicats per Hasbro](https://investor.hasbro.com/news-releases/news-release-details/hasbro-reports-fourth-quarter-and-full-year-2025-financial) atribueixen aquest creixement als sets d’Universes Beyond, al catàleg de productes anteriors i a Secret Lair.
 
-El segment de Wizards of the Coast i videojocs va augmentar els ingressos un 45% durant aquell any i va arribar a un benefici operatiu de més de mil milions de dòlars, amb un marge del 46%. En altres paraules, Magic no és només la marca de Hasbro que més creix: és també una part extraordinàriament rendible de l’empresa.
+El segment de videojocs de Wizards of the Coast (principalment [MTG Arena](https://magic.wizards.com/en/mtgarena) i [MTGO](https://www.mtgo.com/home)) va augmentar els ingressos un 45% durant aquell any i va arribar a un benefici operatiu de més de mil milions de dòlars, amb un marge del 46%. En altres paraules, Magic no és només la marca de Hasbro que més creix: és també una part extraordinàriament rendible de l’empresa.
 
-El creixement, a més, no sembla haver-se aturat. Durant el segon trimestre del 2026, Magic va superar per primera vegada els **500 milions de dòlars d’ingressos trimestrals**. Segons els [resultats financers de Hasbro](https://investor.hasbro.com/news-releases/news-release-details/hasbro-reports-second-quarter-2026-financial-results), va generar 545,3 milions durant el trimestre i més de mil milions durant els primers sis mesos de l’any. Sets com _Marvel Super Heroes_ i _Secrets of Strixhaven_ van contribuir a mantenir l’impuls.
+El creixement, a més, no sembla haver-se aturat. Durant el segon trimestre del 2026, Magic ha superat per primera vegada els **500 milions de dòlars d’ingressos trimestrals**. Segons els [resultats financers de Hasbro](https://investor.hasbro.com/news-releases/news-release-details/hasbro-reports-second-quarter-2026-financial-results), va generar 545,3 milions durant el trimestre i més de mil milions durant els primers sis mesos de l’any. Sets com {{< set-name "MSH" "Marvel Super Heroes" >}} i {{< set-name "SOS" "Secrets of Strixhaven" >}} van contribuir a mantenir l’impuls.
 
 El contrast amb les categories tradicionals de joguines és notable. Segons les dades de Circana citades pel _Wall Street Journal_, entre el 2021 i el 2025:
 

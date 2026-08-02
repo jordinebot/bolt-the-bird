@@ -25,7 +25,7 @@ Magic generated approximately **$1.72 billion in 2025**, the best result in its 
 
 The Wizards of the Coast and Digital Gaming segment increased its revenue by 45% that year and achieved more than $1 billion in operating profit, with a 46% margin. In other words, Magic is not only Hasbro’s fastest-growing brand: it is also an extraordinarily profitable part of the company.
 
-The growth does not appear to have stopped. During the second quarter of 2026, Magic surpassed **$500 million in quarterly revenue** for the first time. According to [Hasbro’s financial results](https://investor.hasbro.com/news-releases/news-release-details/hasbro-reports-second-quarter-2026-financial-results), it generated $545.3 million during the quarter and more than $1 billion in the first six months of the year. Sets such as _Marvel Super Heroes_ and _Secrets of Strixhaven_ helped maintain that momentum.
+The growth does not appear to have stopped. During the second quarter of 2026, Magic surpassed **$500 million in quarterly revenue** for the first time. According to [Hasbro’s financial results](https://investor.hasbro.com/news-releases/news-release-details/hasbro-reports-second-quarter-2026-financial-results), it generated $545.3 million during the quarter and more than $1 billion in the first six months of the year. Sets such as {{< set-name "MSH" "Marvel Super Heroes" >}} and {{< set-name "SOS" "Secrets of Strixhaven" >}} helped maintain that momentum.
 
 The contrast with traditional toy categories is striking. According to Circana data cited by _The Wall Street Journal_, between 2021 and 2025:
 
