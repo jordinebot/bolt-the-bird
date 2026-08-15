@@ -5,4 +5,4 @@ subtitle: "Set Mastery"
 arenaType: "mastery"
 ---
 
-{{< mastery set="MSH" ongoing="true" title="Marvel Super Heroes" level="0" pass="false" >}}
+{{< mastery set="MSH" title="Marvel Super Heroes" level="23" pass="false" >}}
