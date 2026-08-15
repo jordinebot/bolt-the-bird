@@ -1,5 +1,5 @@
 ---
-title: "Having a Blast with Dwarves!"
+title: "Having a Dwarven Good Time!"
 date: 2026-08-15T16:36:48+02:00
 featured: true
 tags: [arena, limited, draft, HOB]
