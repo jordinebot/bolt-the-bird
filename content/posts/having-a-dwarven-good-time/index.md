@@ -33,7 +33,7 @@ The next day I went back for another one and, almost without meaning to, ended u
 
 {{< draft index="2" set="HOB" colors="{R}{W}" winrate="66.7" result="6-3" seventeenlands="b2fb66c100c741ef84736babca748100" >}}
 
-This time there was no splash: straight {{< mana "{R}{W}" >}} Boros, with 8 {{< cardname "Plains" >}}, 8 {{< cardname "Mountain" >}} and {{< cardname "Iron Hills" >}}. The plan was even clearer: fill the deck with dwarves, legends and Equipment, turn on _Storied_, and apply pressure.
+This time there was no splash: straight {{< mana "{R}{W}" >}} Boros, with 8 {{< cardname "Plains|HOB" >}}, 8 {{< cardname "Mountain|HOB" >}} and {{< cardname "Iron Hills" >}}. The plan was even clearer: fill the deck with dwarves, legends and Equipment, turn on _Storied_, and apply pressure.
 
 There were plenty of familiar faces from the first Draft: {{< cardname "Dori, Bearer of Friends" >}}, {{< cardname "Nori, Teller of Tales" >}}, {{< cardname "Dwalin, Weaponmaster" >}}, {{< cardname "Bifur, Melodic Rider" >}} and {{< cardname "Dwarven Shortsword" >}}.
 

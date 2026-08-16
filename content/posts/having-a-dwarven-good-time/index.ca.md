@@ -32,7 +32,7 @@ L'endemà vaig tornar-hi i, gairebé sense proposar-m'ho, vaig acabar fent una v
 
 {{< draft index="2" set="HOB" colors="{R}{W}" winrate="66.7" result="6-3" seventeenlands="b2fb66c100c741ef84736babca748100" >}}
 
-Aquest cop no hi havia splash: {{< mana "{R}{W}" >}} Boros pur, 8 {{< cardname "Plains" >}}, 8 {{< cardname "Mountain" >}} i {{< cardname "Iron Hills" >}}. El pla era encara més evident: omplir la baralla de nans, llegendes i equipaments, activar _Storied_ i pressionar.
+Aquest cop no hi havia splash: {{< mana "{R}{W}" >}} Boros pur, 8 {{< cardname "Plains|HOB" >}}, 8 {{< cardname "Mountain|HOB" >}} i {{< cardname "Iron Hills" >}}. El pla era encara més evident: omplir la baralla de nans, llegendes i equipaments, activar _Storied_ i pressionar.
 
 Hi havia força cares conegudes del primer Draft: {{< cardname "Dori, Bearer of Friends" >}}, {{< cardname "Nori, Teller of Tales" >}}, {{< cardname "Dwalin, Weaponmaster" >}}, {{< cardname "Bifur, Melodic Rider" >}} i {{< cardname "Dwarven Shortsword" >}}.
 
