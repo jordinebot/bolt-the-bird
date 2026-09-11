@@ -1,7 +1,6 @@
 ---
 title: 'Universes Beyond: Del "Nay" al "Yay"'
 date: 2026-06-22T08:34:06+02:00
-featured: true
 tags: [universes beyond, opinió]
 credit: [Mateus Manhanini]
 ---

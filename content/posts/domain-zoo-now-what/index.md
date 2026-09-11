@@ -1,7 +1,6 @@
 ---
 title: "Domain Zoo: Now what?"
 date: 2026-06-01T17:19:34+02:00
-featured: true
 tags: [modern]
 credit: [Lucas Graciano]
 creditLink: [https://www.instagram.com/p/DXwi4KCig4N/]

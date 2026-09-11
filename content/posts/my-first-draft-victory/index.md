@@ -1,7 +1,6 @@
 ---
 title: "My first Draft victory!"
 date: 2026-05-28T20:30:02+02:00
-featured: true
 tags: [arena, limited, draft, STX]
 aiTranslated: true
 ---

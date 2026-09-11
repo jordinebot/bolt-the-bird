@@ -7,6 +7,7 @@ tags:
   - limited
   - draft
   - 17lands
+aiTranslated: true
 coverAiGenerated: true
 ---
 

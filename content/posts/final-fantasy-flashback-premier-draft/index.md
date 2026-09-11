@@ -1,7 +1,6 @@
 ---
 title: "Three Final Fantasy Drafts: The Good, the Bad and the Ugly"
 date: 2026-06-19T18:16:36+02:00
-featured: true
 tags: [arena, limited, draft, FIN]
 credit: [Magali Villeneuve]
 creditLink: [https://www.instagram.com/p/DJpdVJRtm5O/?hl=en]

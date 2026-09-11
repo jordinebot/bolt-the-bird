@@ -1,7 +1,6 @@
 ---
 title: "Diversió en estat pur (6-3 amb Jeskai a SOS)"
 date: 2026-06-12T18:01:56+02:00
-featured: true
 tags: [arena, limited, draft, SOS]
 credit: [Néstor Ossandón Leal, Justin Gerard]
 creditLink:

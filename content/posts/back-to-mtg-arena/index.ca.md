@@ -2,7 +2,6 @@
 title: "Torno a l'Arena"
 date: 2026-05-16T16:06:27+02:00
 description: ""
-featured: true
 tags: [arena]
 credit: [Magali Villeneuve]
 creditLink: [https://www.inprnt.com/gallery/magvilleneuve/serra-the-benevolent/]

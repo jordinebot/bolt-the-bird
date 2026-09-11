@@ -1,7 +1,6 @@
 ---
 title: "A bad week for drafting"
 date: 2026-06-05T18:56:57+02:00
-featured: true
 tags: [arena, limited, draft]
 credit: [Fahmi Fauzi]
 creditLink: [https://www.artstation.com/artwork/qJV1zz]

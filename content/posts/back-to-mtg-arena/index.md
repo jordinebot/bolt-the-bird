@@ -1,7 +1,6 @@
 ---
 title: "Back to MTG Arena"
 date: 2026-05-16T16:06:27+02:00
-featured: true
 description: ""
 tags: [arena]
 credit: [Magali Villeneuve]
