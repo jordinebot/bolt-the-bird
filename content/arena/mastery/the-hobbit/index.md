@@ -5,4 +5,4 @@ subtitle: "Set Mastery"
 arenaType: "mastery"
 ---
 
-{{< mastery ongoing="true" set="HOB" title="The Hobbit" level="24" pass="false" >}}
+{{< mastery set="HOB" title="The Hobbit" level="33" pass="false" >}}
