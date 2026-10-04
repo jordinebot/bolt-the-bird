@@ -1,0 +1,54 @@
+title: Sealed Deck 2
+format: Sealed
+mainboard:
+  creatures:
+    - qty: 1
+      name: Enlightened Confidant
+    - qty: 2
+      name: Semester Foreseer
+    - qty: 1
+      name: Undulating Witness
+    - qty: 1
+      name: Rank Rat
+    - qty: 1
+      name: Lyra, Archangel of Dawn
+    - qty: 1
+      name: Arni, Humble Scribe
+    - qty: 2
+      name: Lyra, Tolarian Archangel
+    - qty: 1
+      name: Proft, Sinister Mastermind
+  instants:
+    - qty: 1
+      name: Extended Absence
+    - qty: 1
+      name: Last Gasp
+    - qty: 1
+      name: Multiply by Zero
+    - qty: 2
+      name: Fatehold Charm
+    - qty: 1
+      name: Vindictive Triumph
+  sorceries:
+    - qty: 1
+      name: Hexhaven Battalion
+    - qty: 1
+      name: Surgical Precision
+    - qty: 3
+      name: Recursive Recruitment
+  planeswalkers:
+    - qty: 1
+      name: Ajani Resolute
+    - qty: 1
+      name: Garruk, Veiled Butcher
+  lands:
+    - qty: 6
+      name: Plains
+    - qty: 3
+      name: Island
+    - qty: 6
+      name: Swamp
+    - qty: 1
+      name: Room of Refuge
+    - qty: 1
+      name: Theorix Annex

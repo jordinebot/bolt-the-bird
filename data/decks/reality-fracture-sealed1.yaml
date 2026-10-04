@@ -1,0 +1,56 @@
+title: FRA Sealed Deck 1
+format: Sealed
+mainboard:
+  creatures:
+    - qty: 1
+      name: Rank Rat
+    - qty: 1
+      name: Carnivorous Cultivator
+    - qty: 1
+      name: Tarmogoyf
+    - qty: 2
+      name: Craftwork Crusher
+    - qty: 2
+      name: Emergency Phytomedic
+    - qty: 1
+      name: Konstrari Improviser
+    - qty: 1
+      name: Woodwork Prodigy
+    - qty: 1
+      name: Mabel, Bitter Recluse
+    - qty: 1
+      name: Massacre Girl, Most Wanted
+    - qty: 1
+      name: Ghalta the Unstoppable
+    - qty: 1
+      name: Marwyn, the Preserver
+    - qty: 1
+      name: Titanbones, Towering Heart
+  instants:
+    - qty: 1
+      name: Last Gasp
+    - qty: 1
+      name: Wrath of the Bloodmane
+    - qty: 1
+      name: Something Worth Saving
+    - qty: 1
+      name: Konstrari Charm
+  sorceries:
+    - qty: 1
+      name: Overwrite the Multiverse
+    - qty: 1
+      name: Silence the Echo
+    - qty: 1
+      name: Awaken the Inferno
+  enchantments:
+    - qty: 1
+      name: Way of the Pyromancer
+    - qty: 1
+      name: Way of the Paradox
+  lands:
+    - qty: 5
+      name: Swamp
+    - qty: 6
+      name: Mountain
+    - qty: 6
+      name: Forest
