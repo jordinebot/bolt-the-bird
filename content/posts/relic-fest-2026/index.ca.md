@@ -3,6 +3,8 @@ title: "Relic Fest 2026: Encara no m'ho crec!"
 date: 2026-11-02
 featured: true
 tags: [relicfest, torneig, modern]
+credit: [Donato Giancola]
+creditLink: [https://donatoarts.com/]
 ---
 
 L'any passat vaig anar al [Relic Fest](https://getpaird.io/relicfest?lang=en) de Toulouse i vaig jugar el meu primer torneig de Modern després de molts anys sense competir a Magic. Hi vaig anar amb una baralla [Budget Dino Whack](https://www.mtggoldfish.com/articles/budget-magic-100-dino-whack-modern), amb unes expectatives força modestes: aprendre, passar-m'ho bé i, amb una mica de sort, guanyar alguna partida.
@@ -46,6 +48,8 @@ Comença ell. Jo faig mulligan a 6 i ell a 5. Tot i l'avantatge inicial de carte
 Utilitzo Lightning Bolt per eliminar algun Emperor of Bones i diversos Leyline Binding per capturar una altre Emperor, Abhorrent Oculus i fins i tot un Archon of Cruelty que aconsegueix reanimar amb {{< cardname "Persist" >}}.
 
 És una partida llarga, amb estira-i-arronses constants, però al final aconsegueixo imposar-me. Primera partida guanyada!
+
+{{< gallery match="relic26-r1*" >}}
 
 #### Partida 2
 
@@ -280,6 +284,8 @@ Per sort, jo tinc una plana bàsica, que em permet continuar jugant Phelia. Util
 I llavors arriba una de les jugades més interessants de tot el torneig.
 
 Ataco amb Phelia i faig _blink_ a Blood Moon. Quan arriba el pas final, es dispara l'habilitat retardada que ha de retornar Blood Moon al camp de batalla. Jo hi responc amb {{< cardname "Consign to Memory|mh3" >}}, contrarestant aquesta habilitat i aconseguint que Blood Moon es quedi exiliada definitivament. En Martino no està convençut que aquesta jugada sigui possible i cridem un jutge.
+
+{{< gallery match="relic26-r7*" >}}
 
 El jutge que ve inicialment li dona la raó a ell. Però jo estic convençut que la jugada funciona: el retorn de Blood Moon és una habilitat disparada que va a la pila i a la qual es pot respondre amb Consign to Memory. Insisteixo i demanem que ho consultin amb el jutge principal.
 
