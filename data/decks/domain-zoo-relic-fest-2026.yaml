@@ -1,0 +1,76 @@
+title: Domain Zoo
+format: Modern
+mainboard:
+  creatures:
+    - qty: 3
+      name: Phelia, Exuberant Shepherd
+    - qty: 4
+      name: Quantum Riddler
+    - qty: 4
+      name: Ragavan, Nimble Pilferer
+    - qty: 4
+      name: Scion of Draco
+    - qty: 4
+      name: Territorial Kavu
+  instants:
+    - qty: 2
+      name: Consign to Memory
+    - qty: 4
+      name: Lightning Bolt
+    - qty: 3
+      name: Stubborn Denial
+  sorceries:
+    - qty: 1
+      name: Prismatic Ending
+  enchantments:
+    - qty: 4
+      name: Leyline of the Guildpact
+    - qty: 4
+      name: Leyline Binding
+  planeswalkers:
+    - qty: 1
+      name: Teferi, Time Raveler
+  lands:
+    - qty: 1
+      name: Arena of Glory
+    - qty: 4
+      name: Arid Mesa
+    - qty: 1
+      name: Blood Crypt
+    - qty: 4
+      name: Flooded Strand
+    - qty: 1
+      name: Indatha Triome
+    - qty: 1
+      name: Lush Portico
+    - qty: 1
+      name: Mountain
+    - qty: 1
+      name: Plains
+    - qty: 2
+      name: Steam Vents
+    - qty: 1
+      name: Temple Garden
+    - qty: 1
+      name: Thundering Falls
+    - qty: 4
+      name: Wooded Foothills
+sideboard:
+  - qty: 2
+    name: Brotherhood's End
+  - qty: 1
+    name: Clarion Conqueror
+  - qty: 2
+    name: Consign to Memory
+  - qty: 2
+    name: Containment Priest
+  - qty: 2
+    name: Mystical Dispute
+  - qty: 2
+    name: Obsidian Charmaw
+  - qty: 1
+    name: Rest in Peace
+  - qty: 1
+    name: Wear/Tear
+  - qty: 2
+    name: Wrath of the Skies
