@@ -294,7 +294,7 @@ Fantastic! I've got rid of one of the cards making the game most difficult. But 
 
 The round's time limit has already passed, and the judge tells us we have only three additional turns to decide the winner. If we can't finish the game, the match will be a draw.
 
-Martino has very few resources. For the last few turns he's had a {{< cardname "Nethergoyf" "Nethergoyf" >}} and a {{< cardname "Fear of Missing Out" "FOMO" >}} on the board, while I've been growing {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} by blinking my own {{< cardname "Rest in Peace" "Rest in Peace" >}}. His creatures have been blocking my attacks, though, and I can't close out the game.
+Martino has very few resources. For the last few turns he's had a {{< cardname "Nethergoyf" "Nethergoyf" >}} and a {{< cardname "Fear of Missing Out" "FOMO" >}} on the board, while I've been growing {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} by blinking my own {{< cardname "Rest in Peace" "Rest in Peace" >}}. His creatures have been chump blocking my attacks, though, and I can't close out the game.
 
 We reach the final turn.
 
