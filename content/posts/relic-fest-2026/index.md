@@ -132,7 +132,7 @@ I attack with everything and use {{< cardname "Phelia, Exuberant Shepherd|MH3" "
 
 The attack is enough to win.
 
-After the match, DreekC asks what I think of my {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} version of Zoo. It feels strange to be asked, since I'm nowhere near an expert in Modern or this deck, but I tell him it's been working well so far and that I've liked {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} more and more for the versatility it brings.
+After the match, DreekC asks what I think of the {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} version of Zoo. It feels strange to be asked, since I'm nowhere near an expert in Modern or this deck, but I tell him it's been working well so far and that I've liked {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} more and more after every game for the versatility it brings.
 
 Three rounds, three wins. Things are getting serious!
 
