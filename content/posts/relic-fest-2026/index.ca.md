@@ -19,11 +19,11 @@ El motiu principal pel qual l'any passat em vaig engrescar a viatjar fins a Toul
 
 ## Diumenge
 
-Aquest cop m'he presentat al torneig amb una baralla [Domain Zoo](https://mtgdecks.net/Modern/domain-aggro). És un arquetip que m'agrada molt (també en jugo una versió a Pauper) i, en general, les baralles de molts colors son les meves preferides.Òbviament és una baralla molt més competitiva que la de l'any passat, que combina criatures molt eficients amb una bona quantitat d'interacció i que pot tenir sortides realment explosives gràcies al combo de {{< cardname "Leyline of the Guildpact|MKM" >}} i {{< cardname "Scion of Draco|MH2" >}}.
+Aquest cop m'he presentat al torneig amb una baralla [Domain Zoo](https://mtgdecks.net/Modern/domain-aggro). És un arquetip que m'agrada molt (també en jugo una versió a Pauper) i, en general, les baralles de molts colors son les meves preferides.Òbviament és una baralla molt més competitiva que la de l'any passat, que combina criatures molt eficients amb una bona quantitat d'interacció i que pot tenir sortides realment explosives gràcies al combo de {{< cardname "Leyline of the Guildpact|MKM" >}} i {{< cardname "Scion of Draco" >}}.
 
-{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer|MH2" "Phelia, Exuberant Shepherd" >}}
+{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer" "Phelia, Exuberant Shepherd" >}}
 
-La idea és força senzilla: un cop tenim Domain podem jugar {{< cardname "Scion of Draco" "Scion" >}} per només {{< mana "2" >}} que dóna a les nostres criatures múltiples habilitats, com _hexproof_, _lifelink_, _vigilance_, _trample_ o _first strike_ (o totes, si tenim {{< cardname "Leyline of the Guildpact|MKM" "Leyline" >}}!). A més, {{< cardname "Territorial Kavu|MH2" >}} es converteix en una criatura 5/5 per només {{< mana "{R}{G}" >}}.
+La idea és força senzilla: un cop tenim Domain podem jugar {{< cardname "Scion of Draco" "Scion" >}} per només {{< mana "2" >}} que dóna a les nostres criatures múltiples habilitats, com _hexproof_, _lifelink_, _vigilance_, _trample_ o _first strike_ (o totes, si tenim {{< cardname "Leyline of the Guildpact|MKM" "Leyline" >}}!). A més, {{< cardname "Territorial Kavu" >}} es converteix en una criatura 5/5 per només {{< mana "{R}{G}" >}}.
 
 Però la baralla també té un pla de joc més interactiu, amb {{< cardname "Lightning Bolt|3ED" >}}, {{< cardname "Leyline Binding|DMU" >}} i criatures com {{< cardname "Phelia, Exuberant Shepherd|MH3" >}}, que permeten respondre a les amenaces del rival mentre anem construint la nostra pròpia taula.
 
@@ -35,7 +35,7 @@ Comença el torneig!
 
 {{< match round="1" player1="Jordi" deck1="Domain Zoo" deck1Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2359" player2="Hstagreadox" deck2="Grixis Reanimator" deck2Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2235" result="2-0" >}}
 
-El meu primer rival juga una versió de Grixis Reanimator, una baralla amb criatures com {{< cardname "Emperor of Bones|MH3" >}}, {{< cardname "Abhorrent Oculus|DSK" >}} i {{< cardname "Archon of Cruelty|MH2" >}}.
+El meu primer rival juga una versió de Grixis Reanimator, una baralla amb criatures com {{< cardname "Emperor of Bones|MH3" >}}, {{< cardname "Abhorrent Oculus|DSK" >}} i {{< cardname "Archon of Cruelty" >}}.
 
 {{< combo "Emperor of Bones" "Abhorrent Oculus" "Archon of Cruelty" "Faithless Looting" "Persist" >}}
 
@@ -55,7 +55,7 @@ Per al sideboard trec les 3 {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >
 
 Aquest cop no he de fer mulligan. Ell comença amb un {{< cardname "Thoughtseize" >}} al primer torn, però jo ja tinc {{< cardname "Leyline of the Guildpact" "Leyline" >}} al camp de batalla.
 
-Intento jugar amb calma, sense precipitar-me. La partida s'allarga uns quants torns, però aquest cop tinc la sensació de controlar la situació pràcticament tota l'estona. Aconsegueixo mantenir les seves amenaces sota control i un {{< cardname "Ragavan, Nimble Pilferer|MH2" >}} connecta dues o tres vegades.
+Intento jugar amb calma, sense precipitar-me. La partida s'allarga uns quants torns, però aquest cop tinc la sensació de controlar la situació pràcticament tota l'estona. Aconsegueixo mantenir les seves amenaces sota control i un {{< cardname "Ragavan, Nimble Pilferer" >}} connecta dues o tres vegades.
 
 Finalment, aconsegueixo la segona victòria. Començar el torneig amb un 2-0 és una sensació fantàstica, especialment tenint en compte com van anar les coses l'any passat!
 
@@ -181,7 +181,7 @@ A partir d'aquí la situació es complica i acabo perdent.
 
 #### Partida 3
 
-Per al sideboard havia afegit el tercer i quart {{< cardname "Consign to Memory" "Consign" >}} i dos {{< cardname "Obsidian Charmaw|MH2" >}}.
+Per al sideboard havia afegit el tercer i quart {{< cardname "Consign to Memory" "Consign" >}} i dos {{< cardname "Obsidian Charmaw" >}}.
 
 En aquesta partida em quedo una mà una mica estranya. No tinc {{< cardname "Leyline of the Guildpact" "Leyline" >}} ni _domain_ garantit al segon torn, però tinc {{< cardname "Obsidian Charmaw" "Charmaw" >}} i 3 terres (_fetch_, muntanya i {{< cardname "Arena of Glory" "Arena" >}}). Decideixo quedar-me-la perquè tinc un pla força concret: si l'Aurore juga les terres no-bàsiques que espero, podré baixar el {{< cardname "Obsidian Charmaw" "Charmaw" >}} al tercer torn i donar-li _haste_ gràcies a {{< cardname "Arena of Glory" "Arena" >}}.
 
