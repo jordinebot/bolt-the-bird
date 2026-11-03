@@ -61,6 +61,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-hugo-getresource-
 
+      - name: Limit Hugo worker concurrency for Scryfall
+        run: echo "HUGO_NUMWORKERMULTIPLIER=1" >> "$GITHUB_ENV"
+
       - name: Build
         env:
           HUGO_ENVIRONMENT: production
