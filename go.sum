@@ -134,3 +134,5 @@ github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260623063212-85e2c4ef4a3e h1:
 github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260623063212-85e2c4ef4a3e/go.mod h1:S7/H4mcsv3kTDqC/uooGv0mvct9pkP/ItA9gyPIhPls=
 github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260815102723-6317a7fd57e8 h1:6KhUox7D4WHxzEOq5ZqYLf0E+OAcUP2VWA/MOFw4FEM=
 github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20260815102723-6317a7fd57e8/go.mod h1:S7/H4mcsv3kTDqC/uooGv0mvct9pkP/ItA9gyPIhPls=
+github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20261103095847-f546d65244c7 h1:Ax9O4xvwtLqW9P99SBl15yanjO9X99IUNuPFVJrK20E=
+github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20261103095847-f546d65244c7/go.mod h1:S7/H4mcsv3kTDqC/uooGv0mvct9pkP/ItA9gyPIhPls=
