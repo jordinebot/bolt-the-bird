@@ -140,7 +140,7 @@ Three rounds, three wins. Things are getting serious!
 
 {{< match round="4" player1="Jordi" deck1="Domain Zoo" deck1Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2359" player2="Thomas Manso" deck2="Esper Blink" deck2Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/3726" result="0-2" >}}
 
-In round four I face Thomas, who is playing Esper Blink, one of Domain Zoo's worst matchups. He's one of those people whose experience is obvious just from the way he shuffles and handles his cards. Naturally, he has also made it to round four with three wins, so this will be a tough one.
+In round four I face Thomas, who is playing Esper Blink, one of Domain Zoo's [worst matchups](https://mtgdecks.net/Modern/winrates). He's one of those people whose experience is obvious just from the way he shuffles and handles his cards. Naturally, he has also made it to round four with three wins, so this will be a tough one.
 
 {{< combo "Thoughtseize" "Teferi, Time Raveler" "Emperor of Bones" >}}
 

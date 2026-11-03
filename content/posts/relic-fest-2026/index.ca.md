@@ -139,7 +139,7 @@ En fi... Tres rondes, tres victòries. La cosa es comença a posar seriosa!
 
 {{< match round="4" player1="Jordi" deck1="Domain Zoo" deck1Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2359" player2="Thomas Manso" deck2="Esper Blink" deck2Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/3726" result="0-2" >}}
 
-A la quarta ronda m'enfronto a en Thomas, que juga Esper Blink (un dels pitjors _matchups_ de Domain Zoo). En Thomas és una d'aquelles persones que només de veure com remena la baralla i manipula les cartes ja t'adones que té molta experiència. Naturalment, ell també arriba a la quarta ronda amb tres victòries, de manera que, per tot plegat, guanyar serà complicat.
+A la quarta ronda m'enfronto a en Thomas, que juga Esper Blink (un dels [pitjors _matchups_](https://mtgdecks.net/Modern/winrates) de Domain Zoo). En Thomas és una d'aquelles persones que només de veure com remena la baralla i manipula les cartes ja t'adones que té molta experiència. Naturalment, ell també arriba a la quarta ronda amb tres victòries, de manera que, per tot plegat, guanyar serà complicat.
 
 {{< combo "Thoughtseize" "Teferi, Time Raveler" "Emperor of Bones" >}}
 
