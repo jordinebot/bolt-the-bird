@@ -295,13 +295,13 @@ El temps límit de la ronda ja fa estona que s'ha acabat i el jutge ens diu que 
 
 En Martino té molt pocs recursos. Durant els últims torns ha tingut un {{< cardname "Nethergoyf" "Nethergoyf" >}} i un {{< cardname "Fear of Missing Out" "FOMO" >}} a la taula, mentre que jo he anat fent créixer {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} aprofitant el _blink_ del meu propi {{< cardname "Rest in Peace" "Rest in Peace" >}}. Les seves criatures, però, han anat bloquejant els atacs i no aconsegueixo tancar la partida.
 
-Arribem a l'últim torn.
-
 El rival només té un {{< cardname "Fear of Missing Out" "FOMO" >}} al camp de batalla i jo tinc una {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} 4/4. Ell està a 6 punts de vida.
 
 Al final del seu torn faig _surveil_ i veig que la primera carta de la biblioteca és un {{< cardname "Lightning Bolt|3ED" "Bolt" >}}.
 
 Dubto una mica. Però finalment decideixo deixar-lo a sobre.
+
+Arribem a l'últim torn.
 
 Robo el {{< cardname "Lightning Bolt|3ED" "Bolt" >}}. Ataco amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i, amb la seva habilitat, exilio el {{< cardname "Fear of Missing Out" "FOMO" >}} del rival.
 

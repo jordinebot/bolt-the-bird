@@ -296,13 +296,13 @@ The round's time limit has already passed, and the judge tells us we have only t
 
 Martino has very few resources. For the last few turns he's had a {{< cardname "Nethergoyf" "Nethergoyf" >}} and a {{< cardname "Fear of Missing Out" "FOMO" >}} on the board, while I've been growing {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} by blinking my own {{< cardname "Rest in Peace" "Rest in Peace" >}}. His creatures have been chump blocking my attacks, though, and I can't close out the game.
 
-We reach the final turn.
-
 My opponent has only a {{< cardname "Fear of Missing Out" "FOMO" >}} on the battlefield, and I have a 4/4 {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. He's at six life.
 
 At the end of his turn I surveil and see a {{< cardname "Lightning Bolt|3ED" "Bolt" >}} on top of my library.
 
 I hesitate for a moment, but decide to leave it there.
+
+We reach the final turn.
 
 I draw {{< cardname "Lightning Bolt|3ED" "Bolt" >}}. I attack with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and use her ability to exile my opponent's {{< cardname "Fear of Missing Out" "FOMO" >}}.
 
