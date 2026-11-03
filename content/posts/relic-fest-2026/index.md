@@ -46,7 +46,7 @@ He goes first. I mulligan to six and he goes to five. Despite the initial card a
 
 I use {{< cardname "Lightning Bolt|3ED" "Bolt" >}} to kill an {{< cardname "Emperor of Bones" "Emperor" >}} and several {{< cardname "Leyline Binding" "Binding" >}} to exile another {{< cardname "Emperor of Bones" "Emperor" >}}, an {{< cardname "Abhorrent Oculus" "Oculus" >}} and even an {{< cardname "Archon of Cruelty" "Archon" >}} that he reanimates with {{< cardname "Persist" >}}.
 
-It's a long game with plenty of back and forth, but I eventually come out on top. First game won!
+It's a long game with plenty of back and forth, but I eventually come out on top. That's the first game!
 
 {{< gallery match="relic26-r1*" cols="1" >}}
 
@@ -112,7 +112,7 @@ Neither of us has {{< cardname "Leyline of the Guildpact" "Leyline" >}} to start
 
 I make some sideboard changes, taking out cards like {{< cardname "Lightning Bolt|3ED" "Bolt" >}}, {{< cardname "Ragavan, Nimble Pilferer" "Ragavan" >}} and {{< cardname "Stubborn Denial" >}} and bringing in {{< cardname "Wear // Tear" >}} and {{< cardname "Mystical Dispute" "Dispute" >}}. One curious detail: my opponent had a sideboard guide that he checked after each game to decide what to bring in and take out. Not a bad idea, especially in a format with as many different archetypes as Modern. I wonder if it was the guide Pleyboy shared a few days ago on the Domain Zoo Discord...
 
-The second game is much more interesting. My opponent is in control for much of it and manages to play {{< cardname "Leyline of the Guildpact" "Leyline" >}} on turn four. He also has a {{< cardname "Scion of Draco" "Scion" >}}, fully equipped as a result.
+The second game is much more interesting. My opponent is in control for much of it and manages to play {{< cardname "Leyline of the Guildpact" "Leyline" >}} on turn four. He also has a {{< cardname "Scion of Draco" "Scion" >}}, which gives his creatures all the abilities it grants.
 
 I have Domain too, but no {{< cardname "Leyline of the Guildpact" "Leyline" >}}. My {{< cardname "Scion of Draco" "Scion" >}} is just a flying 4/4 and can't profitably block his.
 
@@ -132,7 +132,7 @@ I attack with everything and use {{< cardname "Phelia, Exuberant Shepherd|MH3" "
 
 The attack is enough to win.
 
-After the match, DreekC asks what I think of the {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} version of Zoo. It feels strange to be asked, since I'm nowhere near an expert in Modern or this deck, but I tell him it's been working well so far and that I've liked {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} more and more after every game for the versatility it brings.
+After the match, DreekC asks what I think of the {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} version of Zoo. It feels strange to be asked, since I'm nowhere near an expert in Modern or this deck, but I tell him it's been working well so far and that I appreciate {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}'s versatility more with every game.
 
 Three rounds, three wins. Things are getting serious!
 
@@ -250,7 +250,7 @@ Between his own damage and my attacks, I win the first game fairly easily, finis
 
 Before sideboarding, Martino asks if I'm okay with him calling a judge to clarify an interaction he's unsure about. I say of course, and he gets up to speak to the judge. I only bring in one {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}}.
 
-The second game is much closer and more painful. He plays a new Reality Fracture card I knew from Arena drafts: {{< cardname "Dark Matter Manipulator|FRA" >}}, a one-mana 1/2 black creature that mills three cards when it enters the battlefield and gets +2/+0 for every seven cards in its controller's graveyard.
+The second game is much closer and more tense. He plays a new Reality Fracture card I knew from Arena drafts: {{< cardname "Dark Matter Manipulator|FRA" >}}, a one-mana 1/2 black creature that mills three cards when it enters the battlefield and gets +2/+0 for every seven cards in its controller's graveyard.
 
 The creature slowly chips away at me. Thanks to my {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} on the battlefield, it stays a 1/2 throughout the game, and I hesitate several times over whether to spend a {{< cardname "Lightning Bolt|3ED" "Bolt" >}} on such an apparently harmless creature. I try to answer by attacking with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, even though I don't have any especially useful permanents to blink.
 
@@ -314,9 +314,9 @@ Then I cast {{< cardname "Lightning Bolt|3ED" "Bolt" >}}.
 
 It's almost poetic: he won game two with a direct {{< cardname "Lightning Bolt|3ED" "Bolt" >}}, and now I return the favour on the last possible turn of the final game of the tournament!
 
-Martino congratulates me and, very sportingly, tells me he would have conceded at the end because I was clearly winning and a draw wouldn't have helped either of us.
+Martino congratulates me and graciously says he would have conceded at the end because I was clearly winning and a draw wouldn't have helped either of us.
 
-Another guy watching beside us also points out that I could have blinked my {{< cardname "Leyline of the Guildpact" "Leyline" >}} to give it a later timestamp than {{< cardname "Blood Moon" "Blood Moon" >}}, a simpler way to remove its effect. I knew about that interaction, but it never crossed my mind!
+Another spectator also points out that I could have blinked my {{< cardname "Leyline of the Guildpact" "Leyline" >}} to give it a later timestamp than {{< cardname "Blood Moon" "Blood Moon" >}}, a simpler way to remove its effect. I knew about that interaction, but it never crossed my mind!
 
 ## Conclusion
 
@@ -330,7 +330,7 @@ The {{< cardname "Obsidian Charmaw" "Charmaw" >}} in the sideboard also deserves
 
 I learned a lot, too. The loss to Thomas reminded me that I still have plenty of room to improve, especially against experienced opponents. And my {{< cardname "Teferi, Time Raveler" "Teferi" >}} mistake in the last round shows how easy it is to miss an important interaction, even when you seem to have the game under control.
 
-But I also take away a very positive experience from that final round. Correctly identifying the interaction between {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and {{< cardname "Consign to Memory" "Consign" >}} and making my case to the judges, who ultimately agreed with me, makes me feel I'm getting to know the deck's subtleties better.
+But I also take away a very positive experience from that final round. I correctly identified the interaction between {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and {{< cardname "Consign to Memory" "Consign" >}} and made my case to the judges, who ultimately agreed with me. It made me feel that I'm getting to know the deck's subtleties better.
 
 And above all, I'll remember that last {{< cardname "Lightning Bolt|3ED" "Bolt" >}}! I can't think of a much better way to end the tournament: finding exactly the card I needed on the last available turn and earning a win that left me 6-1 and in fourth place overall.
 
