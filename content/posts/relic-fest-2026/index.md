@@ -44,7 +44,7 @@ My first opponent is on Grixis Reanimator, with creatures like {{< cardname "Emp
 
 He goes first. I mulligan to six and he goes to five. Despite the initial card advantage, the game is very close. We both have plenty of answers to each other's threats and spend a long time trading resources.
 
-I use {{< cardname "Lightning Bolt" "Bolt" >}} to kill an {{< cardname "Emperor of Bones" "Emperor" >}} and several {{< cardname "Leyline Binding" "Binding" >}} to exile another {{< cardname "Emperor of Bones" "Emperor" >}}, an {{< cardname "Abhorrent Oculus" "Oculus" >}} and even an {{< cardname "Archon of Cruelty" "Archon" >}} that he reanimates with {{< cardname "Persist" >}}.
+I use {{< cardname "Lightning Bolt|3ED" "Bolt" >}} to kill an {{< cardname "Emperor of Bones" "Emperor" >}} and several {{< cardname "Leyline Binding" "Binding" >}} to exile another {{< cardname "Emperor of Bones" "Emperor" >}}, an {{< cardname "Abhorrent Oculus" "Oculus" >}} and even an {{< cardname "Archon of Cruelty" "Archon" >}} that he reanimates with {{< cardname "Persist" >}}.
 
 It's a long game with plenty of back and forth, but I eventually come out on top. First game won!
 
@@ -52,7 +52,7 @@ It's a long game with plenty of back and forth, but I eventually come out on top
 
 #### Game 2
 
-For sideboarding I take out all three {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and two {{< cardname "Consign to Memory|MH3" >}}. They have some uses in this matchup, but I wasn't very impressed with them in game one. I bring in two {{< cardname "Containment Priest|M21" >}}, one {{< cardname "Rest in Peace|BIG" >}} and two {{< cardname "Mystical Dispute|ELD" >}}. Honestly, I'm not sure it was the right call, but it worked out...
+For sideboarding I take out all three {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and two {{< cardname "Consign to Memory|MH3" >}}. They have some uses in this matchup, but I wasn't very impressed with them in game one. I bring in two {{< cardname "Containment Priest" >}}, one {{< cardname "Rest in Peace|BIG" >}} and two {{< cardname "Mystical Dispute|ELD" >}}. Honestly, I'm not sure it was the right call, but it worked out...
 
 This time I don't need to mulligan. He opens with {{< cardname "Thoughtseize" >}}, but I already have {{< cardname "Leyline of the Guildpact" "Leyline" >}} on the battlefield.
 
@@ -62,7 +62,7 @@ I take the second game, too. Starting the tournament 2-0 feels fantastic, especi
 
 {{< match round="2" player1="Jordi" deck1="Domain Zoo" deck1Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2359" player2="leobenamor" deck2="Goblins (Snoop Combo)" deck2Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/3209" result="2-1" >}}
 
-My second opponent is on Jund Goblins, with the combo of {{< cardname "Conspicuous Snoop|M21" >}}, {{< cardname "Kiki-Jiki, Mirror Breaker|CHK" >}} and {{< cardname "Sling-Gang Lieutenant" >}}. I was surprised to see the deck at the tournament, but I knew it because [LVD](https://youtu.be/iKTOE1s7AOg?si=bjYlOEsIfz2evI0H) played it on Arena last week.
+My second opponent is on Jund Goblins, with the combo of {{< cardname "Conspicuous Snoop" >}}, {{< cardname "Kiki-Jiki, Mirror Breaker|CHK" >}} and {{< cardname "Sling-Gang Lieutenant" >}}. I was surprised to see the deck at the tournament, but I knew it because [LVD](https://youtu.be/iKTOE1s7AOg?si=bjYlOEsIfz2evI0H) played it on Arena last week.
 
 {{< combo "Munitions Expert" "Conspicuous Snoop" "Kiki-Jiki, Mirror Breaker" "Sling-Gang Lieutenant" >}}
 
@@ -98,7 +98,7 @@ Second round won! I'm 2-0 in matches.
 
 Round three is the mirror match against another Domain Zoo deck.
 
-His version has some interesting differences. He plays {{< cardname "Spara's Headquarters|SNC" >}} as his triome, runs just one basic Mountain, and includes {{< cardname "Psychic Frog|MH3" "Frog" >}} and one {{< cardname "Emperor of Bones" "Emperor" >}} (I found out the exact card count later, of course).
+His version has some interesting differences. He plays {{< cardname "Spara's Headquarters|SNC" >}} as his triome, runs just one basic Mountain, and includes {{< cardname "Psychic Frog" "Frog" >}} and one {{< cardname "Emperor of Bones" "Emperor" >}} (I found out the exact card count later, of course).
 
 {{< combo "Scion of Draco" "Emperor of Bones" "Psychic Frog" >}}
 
@@ -110,7 +110,7 @@ Neither of us has {{< cardname "Leyline of the Guildpact" "Leyline" >}} to start
 
 #### Game 2
 
-I make some sideboard changes, taking out cards like {{< cardname "Lightning Bolt" "Bolt" >}}, {{< cardname "Ragavan, Nimble Pilferer" "Ragavan" >}} and {{< cardname "Stubborn Denial" >}} and bringing in {{< cardname "Wear // Tear" >}} and {{< cardname "Mystical Dispute" "Dispute" >}}. One curious detail: my opponent had a sideboard guide that he checked after each game to decide what to bring in and take out. Not a bad idea, especially in a format with as many different archetypes as Modern. I wonder if it was the guide Pleyboy shared a few days ago on the Domain Zoo Discord...
+I make some sideboard changes, taking out cards like {{< cardname "Lightning Bolt|3ED" "Bolt" >}}, {{< cardname "Ragavan, Nimble Pilferer" "Ragavan" >}} and {{< cardname "Stubborn Denial" >}} and bringing in {{< cardname "Wear // Tear" >}} and {{< cardname "Mystical Dispute" "Dispute" >}}. One curious detail: my opponent had a sideboard guide that he checked after each game to decide what to bring in and take out. Not a bad idea, especially in a format with as many different archetypes as Modern. I wonder if it was the guide Pleyboy shared a few days ago on the Domain Zoo Discord...
 
 The second game is much more interesting. My opponent is in control for much of it and manages to play {{< cardname "Leyline of the Guildpact" "Leyline" >}} on turn four. He also has a {{< cardname "Scion of Draco" "Scion" >}}, fully equipped as a result.
 
@@ -148,9 +148,9 @@ I think I mulligan to six. Either way, I keep what looks like an excellent hand:
 
 The problem is that he goes first. On turn one he casts {{< cardname "Thoughtseize|LRW" >}} and takes {{< cardname "Scion of Draco" >}}. On turn two, another {{< cardname "Thoughtseize|LRW" >}} leaves me without {{< cardname "Quantum Riddler" "Riddler" >}} either. Suddenly that promising hand has very little to do.
 
-To make matters worse, he also plays {{< cardname "Teferi, Time Raveler|WAR" >}}, which severely limits my ability to interact on his turn. I have cards like {{< cardname "Lightning Bolt" "Bolt" >}} and {{< cardname "Consign to Memory" "Consign" >}}, but with {{< cardname "Teferi, Time Raveler" "Teferi" >}} on the battlefield I can't use them the way I'd like. In fact, {{< cardname "Teferi, Time Raveler" "Teferi" >}} leads me to make a costly mistake. My opponent has an {{< cardname "Emperor of Bones" "Emperor" >}} with one of my Quantum Riddlers exiled under it. I try to kill the {{< cardname "Emperor of Bones" "Emperor" >}} with {{< cardname "Lightning Bolt" "Bolt" >}} in my main phase, forgetting that he can respond by activating _adapt 2_.
+To make matters worse, he also plays {{< cardname "Teferi, Time Raveler|WAR" >}}, which severely limits my ability to interact on his turn. I have cards like {{< cardname "Lightning Bolt|3ED" "Bolt" >}} and {{< cardname "Consign to Memory" "Consign" >}}, but with {{< cardname "Teferi, Time Raveler" "Teferi" >}} on the battlefield I can't use them the way I'd like. In fact, {{< cardname "Teferi, Time Raveler" "Teferi" >}} leads me to make a costly mistake. My opponent has an {{< cardname "Emperor of Bones" "Emperor" >}} with one of my Quantum Riddlers exiled under it. I try to kill the {{< cardname "Emperor of Bones" "Emperor" >}} with {{< cardname "Lightning Bolt|3ED" "Bolt" >}} in my main phase, forgetting that he can respond by activating _adapt 2_.
 
-Of course, that's exactly what he does. The {{< cardname "Emperor of Bones" "Emperor" >}} becomes a 4/4, survives the {{< cardname "Lightning Bolt" "Bolt" >}}, and my attempt to remove it wastes a card.
+Of course, that's exactly what he does. The {{< cardname "Emperor of Bones" "Emperor" >}} becomes a 4/4, survives the {{< cardname "Lightning Bolt|3ED" "Bolt" >}}, and my attempt to remove it wastes a card.
 
 I try to hang on and find a way to regain the initiative, but there's nothing I can do.
 
@@ -240,7 +240,7 @@ I play the final round against a very nice Italian guy named Martino. He's on a 
 
 We both mulligan: I go to six and he goes to five.
 
-My opponent develops his creatures and I answer with {{< cardname "Lightning Bolt" "Bolt" >}} and {{< cardname "Leyline Binding" "Binding" >}}, keeping his board under control.
+My opponent develops his creatures and I answer with {{< cardname "Lightning Bolt|3ED" "Bolt" >}} and {{< cardname "Leyline Binding" "Binding" >}}, keeping his board under control.
 
 Meanwhile, I chip away at his life total. It also helps that he deals quite a bit of damage to himself with fetchlands, shocklands and a {{< cardname "Thoughtseize" "Thoughtseize" >}}.
 
@@ -252,11 +252,11 @@ Before sideboarding, Martino asks if I'm okay with him calling a judge to clarif
 
 The second game is much closer and more painful. He plays a new Reality Fracture card I knew from Arena drafts: {{< cardname "Dark Matter Manipulator|FRA" >}}, a one-mana 1/2 black creature that mills three cards when it enters the battlefield and gets +2/+0 for every seven cards in its controller's graveyard.
 
-The creature slowly chips away at me. Thanks to my {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} on the battlefield, it stays a 1/2 throughout the game, and I hesitate several times over whether to spend a {{< cardname "Lightning Bolt" "Bolt" >}} on such an apparently harmless creature. I try to answer by attacking with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, even though I don't have any especially useful permanents to blink.
+The creature slowly chips away at me. Thanks to my {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} on the battlefield, it stays a 1/2 throughout the game, and I hesitate several times over whether to spend a {{< cardname "Lightning Bolt|3ED" "Bolt" >}} on such an apparently harmless creature. I try to answer by attacking with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, even though I don't have any especially useful permanents to blink.
 
 The game drags on as we both look for a way to break the stalemate. We remove each other's threats, except for the 1/2. Looking back at my notes of my life total, I see the sequence 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 2... and realize I should have fired the {{< cardname "Lightning Bolt|3ED" "Bolt" >}} I had in hand.
 
-Just when it seems I might still have a chance to win, he finishes me off with a {{< cardname "Lightning Bolt" "Bolt" >}}.
+Just when it seems I might still have a chance to win, he finishes me off with a {{< cardname "Lightning Bolt|3ED" "Bolt" >}}.
 
 It all comes down to game three!
 
@@ -300,19 +300,19 @@ We reach the final turn.
 
 My opponent has only a {{< cardname "Fear of Missing Out" "FOMO" >}} on the battlefield, and I have a 4/4 {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. He's at six life.
 
-At the end of his turn I surveil and see a {{< cardname "Lightning Bolt" "Bolt" >}} on top of my library.
+At the end of his turn I surveil and see a {{< cardname "Lightning Bolt|3ED" "Bolt" >}} on top of my library.
 
 I hesitate for a moment, but decide to leave it there.
 
-I draw {{< cardname "Lightning Bolt" "Bolt" >}}. I attack with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and use her ability to exile my opponent's {{< cardname "Fear of Missing Out" "FOMO" >}}.
+I draw {{< cardname "Lightning Bolt|3ED" "Bolt" >}}. I attack with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and use her ability to exile my opponent's {{< cardname "Fear of Missing Out" "FOMO" >}}.
 
 With no blockers, {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} connects and takes him down to two.
 
-Then I cast {{< cardname "Lightning Bolt" "Bolt" >}}.
+Then I cast {{< cardname "Lightning Bolt|3ED" "Bolt" >}}.
 
 **Win!**
 
-It's almost poetic: he won game two with a direct {{< cardname "Lightning Bolt" "Bolt" >}}, and now I return the favour on the last possible turn of the final game of the tournament!
+It's almost poetic: he won game two with a direct {{< cardname "Lightning Bolt|3ED" "Bolt" >}}, and now I return the favour on the last possible turn of the final game of the tournament!
 
 Martino congratulates me and, very sportingly, tells me he would have conceded at the end because I was clearly winning and a draw wouldn't have helped either of us.
 
@@ -332,6 +332,6 @@ I learned a lot, too. The loss to Thomas reminded me that I still have plenty of
 
 But I also take away a very positive experience from that final round. Correctly identifying the interaction between {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and {{< cardname "Consign to Memory" "Consign" >}} and making my case to the judges, who ultimately agreed with me, makes me feel I'm getting to know the deck's subtleties better.
 
-And above all, I'll remember that last {{< cardname "Lightning Bolt" "Bolt" >}}! I can't think of a much better way to end the tournament: finding exactly the card I needed on the last available turn and earning a win that left me 6-1 and in fourth place overall.
+And above all, I'll remember that last {{< cardname "Lightning Bolt|3ED" "Bolt" >}}! I can't think of a much better way to end the tournament: finding exactly the card I needed on the last available turn and earning a win that left me 6-1 and in fourth place overall.
 
 **From almost last to fourth place in just one year.**

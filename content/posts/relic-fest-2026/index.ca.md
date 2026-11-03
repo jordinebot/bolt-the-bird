@@ -43,7 +43,7 @@ El meu primer rival juga una versió de Grixis Reanimator, una baralla amb criat
 
 Comença ell. Jo faig mulligan a 6 i ell a 5. Tot i l'avantatge inicial de cartes, la partida és molt igualada. Tots dos tenim moltes respostes a les amenaces del rival i ens passem una bona estona intercanviant recursos.
 
-Utilitzo {{< cardname "Lightning Bolt" "Bolt" >}} per eliminar algun {{< cardname "Emperor of Bones" "Emperor" >}} i diversos {{< cardname "Leyline Binding" "Binding" >}} per capturar una altre {{< cardname "Emperor of Bones" "Emperor" >}}, {{< cardname "Abhorrent Oculus" "Oculus" >}} i fins i tot un {{< cardname "Archon of Cruelty" "Archon" >}} que aconsegueix reanimar amb {{< cardname "Persist" >}}.
+Utilitzo {{< cardname "Lightning Bolt|3ED" "Bolt" >}} per eliminar algun {{< cardname "Emperor of Bones" "Emperor" >}} i diversos {{< cardname "Leyline Binding" "Binding" >}} per capturar una altre {{< cardname "Emperor of Bones" "Emperor" >}}, {{< cardname "Abhorrent Oculus" "Oculus" >}} i fins i tot un {{< cardname "Archon of Cruelty" "Archon" >}} que aconsegueix reanimar amb {{< cardname "Persist" >}}.
 
 És una partida llarga, amb estira-i-arronses constants, però al final aconsegueixo imposar-me. Primera partida guanyada!
 
@@ -51,7 +51,7 @@ Utilitzo {{< cardname "Lightning Bolt" "Bolt" >}} per eliminar algun {{< cardnam
 
 #### Partida 2
 
-Per al sideboard trec les 3 {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i dos {{< cardname "Consign to Memory|MH3" >}}, que tot i tenir utilitat en aquest _matchup_ no m'han convençut gaire a la primera partida. Hi afegeixo dos {{< cardname "Containment Priest|M21" >}}, un {{< cardname "Rest in Peace|BIG" >}} i dos {{< cardname "Mystical Dispute|ELD" >}}. Sincerament, no estic segur que fos una bona decisió, però no va anar malament...
+Per al sideboard trec les 3 {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i dos {{< cardname "Consign to Memory|MH3" >}}, que tot i tenir utilitat en aquest _matchup_ no m'han convençut gaire a la primera partida. Hi afegeixo dos {{< cardname "Containment Priest" >}}, un {{< cardname "Rest in Peace|BIG" >}} i dos {{< cardname "Mystical Dispute|ELD" >}}. Sincerament, no estic segur que fos una bona decisió, però no va anar malament...
 
 Aquest cop no he de fer mulligan. Ell comença amb un {{< cardname "Thoughtseize" >}} al primer torn, però jo ja tinc {{< cardname "Leyline of the Guildpact" "Leyline" >}} al camp de batalla.
 
@@ -61,7 +61,7 @@ Finalment, aconsegueixo la segona victòria. Començar el torneig amb un 2-0 és
 
 {{< match round="2" player1="Jordi" deck1="Domain Zoo" deck1Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2359" player2="leobenamor" deck2="Goblins (Snoop Combo)" deck2Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/3209" result="2-1" >}}
 
-El segon rival juga una baralla Jund Goblins, amb el combo de {{< cardname "Conspicuous Snoop|M21" >}}, {{< cardname "Kiki-Jiki, Mirror Breaker|CHK" >}} i {{< cardname "Sling-Gang Lieutenant" >}}. És una baralla que em va sorprendre força trobar-me al torneig però que coneixia perquè [LVD](https://youtu.be/iKTOE1s7AOg?si=bjYlOEsIfz2evI0H) la va jugar la setmana passada a Arena.
+El segon rival juga una baralla Jund Goblins, amb el combo de {{< cardname "Conspicuous Snoop" >}}, {{< cardname "Kiki-Jiki, Mirror Breaker|CHK" >}} i {{< cardname "Sling-Gang Lieutenant" >}}. És una baralla que em va sorprendre força trobar-me al torneig però que coneixia perquè [LVD](https://youtu.be/iKTOE1s7AOg?si=bjYlOEsIfz2evI0H) la va jugar la setmana passada a Arena.
 
 {{< combo "Munitions Expert" "Conspicuous Snoop" "Kiki-Jiki, Mirror Breaker" "Sling-Gang Lieutenant" >}}
 
@@ -97,7 +97,7 @@ Segona ronda guanyada! 2-0 en enfrontaments.
 
 Tercera ronda i em toca jugar el _mirror match_ contra una altra Domain Zoo.
 
-La seva versió té algunes diferències interessants. Juga {{< cardname "Spara's Headquarters|SNC" >}} com a _triome_, una única muntanya com a terra bàsica i incorpora {{< cardname "Psychic Frog|MH3" "Frog" >}} i una còpia de {{< cardname "Emperor of Bones" "Emperor" >}} (el número de cartes l'he sabut posteriorment, és clar).
+La seva versió té algunes diferències interessants. Juga {{< cardname "Spara's Headquarters|SNC" >}} com a _triome_, una única muntanya com a terra bàsica i incorpora {{< cardname "Psychic Frog" "Frog" >}} i una còpia de {{< cardname "Emperor of Bones" "Emperor" >}} (el número de cartes l'he sabut posteriorment, és clar).
 
 {{< combo "Scion of Draco" "Emperor of Bones" "Psychic Frog" >}}
 
@@ -109,7 +109,7 @@ Cap dels dos tenim {{< cardname "Leyline of the Guildpact" "Leyline" >}} al come
 
 #### Partida 2
 
-Per al sideboard faig alguns canvis, traient cartes com {{< cardname "Lightning Bolt" "Bolt" >}}, {{< cardname "Ragavan, Nimble Pilferer" "Ragavan" >}} o {{< cardname "Stubborn Denial" >}} i afegint {{< cardname "Wear // Tear" >}} i {{< cardname "Mystical Dispute" "Dispute" >}}. Un detall curiós: el rival portava una guia de sideboard que consultava al final de cada partida per decidir quines cartes havia de posar i treure. No és mala idea, especialment en un format amb tants arquetips diferents com Modern. Em pregunto si seria la guia que Pleyboy va compartir fa uns dies al Discord de Domain Zoo...
+Per al sideboard faig alguns canvis, traient cartes com {{< cardname "Lightning Bolt|3ED" "Bolt" >}}, {{< cardname "Ragavan, Nimble Pilferer" "Ragavan" >}} o {{< cardname "Stubborn Denial" >}} i afegint {{< cardname "Wear // Tear" >}} i {{< cardname "Mystical Dispute" "Dispute" >}}. Un detall curiós: el rival portava una guia de sideboard que consultava al final de cada partida per decidir quines cartes havia de posar i treure. No és mala idea, especialment en un format amb tants arquetips diferents com Modern. Em pregunto si seria la guia que Pleyboy va compartir fa uns dies al Discord de Domain Zoo...
 
 La segona partida és força més interessant. El rival va dominant bona part de l'enfrontament i aconsegueix posar en joc {{< cardname "Leyline of the Guildpact" "Leyline" >}} al quart torn. També té un {{< cardname "Scion of Draco" "Scion" >}} que per tant està _full equipped_.
 
@@ -147,9 +147,9 @@ Em sembla que faig mulligan a 6. De totes maneres, em quedo una mà que consider
 
 El problema és que comença ell. Al primer torn em juga {{< cardname "Thoughtseize|LRW" "Thoughtseize" >}} i em pren el {{< cardname "Scion of Draco" "Scion" >}}. Al segon torn, un altre {{< cardname "Thoughtseize" "Thoughtseize" >}} i em deixa també sense {{< cardname "Quantum Riddler" "Riddler" >}}. De cop, aquella mà tan prometedora s'ha quedat sense res de gaire interessant per fer.
 
-Per acabar-ho d'adobar, també juga {{< cardname "Teferi, Time Raveler|WAR" >}}, que em limita molt les possibilitats d'interactuar durant el seu torn. Tinc cartes com {{< cardname "Lightning Bolt" "Bolt" >}} o {{< cardname "Consign to Memory" "Consign" >}} a la mà, però amb {{< cardname "Teferi, Time Raveler" "Teferi" >}} a la taula no les puc utilitzar com voldria. De fet, per culpa del {{< cardname "Teferi, Time Raveler" "Teferi" >}} comento un error que em surt car. Ell té un {{< cardname "Emperor of Bones" "Emperor" >}} amb un {{< cardname "Quantum Riddler" "Riddler" >}} meu exiliat. Jo intento matar l'{{< cardname "Emperor of Bones" "Emperor" >}} amb {{< cardname "Lightning Bolt" "Bolt" >}} a la meva fase principal, sense tenir en compte que pot respondre activant _adapt 2_.
+Per acabar-ho d'adobar, també juga {{< cardname "Teferi, Time Raveler|WAR" >}}, que em limita molt les possibilitats d'interactuar durant el seu torn. Tinc cartes com {{< cardname "Lightning Bolt|3ED" "Bolt" >}} o {{< cardname "Consign to Memory" "Consign" >}} a la mà, però amb {{< cardname "Teferi, Time Raveler" "Teferi" >}} a la taula no les puc utilitzar com voldria. De fet, per culpa del {{< cardname "Teferi, Time Raveler" "Teferi" >}} comento un error que em surt car. Ell té un {{< cardname "Emperor of Bones" "Emperor" >}} amb un {{< cardname "Quantum Riddler" "Riddler" >}} meu exiliat. Jo intento matar l'{{< cardname "Emperor of Bones" "Emperor" >}} amb {{< cardname "Lightning Bolt|3ED" "Bolt" >}} a la meva fase principal, sense tenir en compte que pot respondre activant _adapt 2_.
 
-Naturalment, és exactament el que fa. L'{{< cardname "Emperor of Bones" "Emperor" >}} passa a ser una criatura 4/4, sobreviu al {{< cardname "Lightning Bolt" "Bolt" >}} i el meu intent d'eliminar-lo acaba sent un malbaratament de recursos.
+Naturalment, és exactament el que fa. L'{{< cardname "Emperor of Bones" "Emperor" >}} passa a ser una criatura 4/4, sobreviu al {{< cardname "Lightning Bolt|3ED" "Bolt" >}} i el meu intent d'eliminar-lo acaba sent un malbaratament de recursos.
 
 Intento resistir i trobar alguna manera de recuperar la iniciativa, però no hi ha res a fer.
 
@@ -187,9 +187,9 @@ En aquesta partida em quedo una mà una mica estranya. No tinc {{< cardname "Ley
 
 I així és!
 
-L'{{< cardname "Obsidian Charmaw" "Charmaw" >}} entra al camp de batalla i li destrueixo una terra. Sorprenentment la rival no troba {{< cardname "Dismember" "Dismember" >}} ni {{< cardname "Ugin, Eye of the Storms" "Ugin" >}} per a eliminar-lo i això em permet continuar atacant i pressionant.
+El {{< cardname "Obsidian Charmaw" "Charmaw" >}} entra al camp de batalla i li destrueixo una terra. Sorprenentment la rival no troba {{< cardname "Dismember" "Dismember" >}} ni {{< cardname "Ugin, Eye of the Storms" "Ugin" >}} per a eliminar-lo i això em permet continuar atacant i pressionant.
 
-Per arrodonir-ho durant la partida robo dues de les meves {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. Ataco amb elles sempre que puc, utilitzant la seva habilitat per fer _blink_ a l'{{< cardname "Obsidian Charmaw" "Charmaw" >}} i tornar a destruir una altra terra rival. En diverses ocasions sé perfectament que perdré la {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} en combat, però no m'importa: l'efecte del {{< cardname "Obsidian Charmaw" "Charmaw" >}} compensa de sobres el sacrifici.
+Per arrodonir-ho durant la partida robo dues de les meves {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. Ataco amb elles sempre que puc, utilitzant la seva habilitat per fer _blink_ al {{< cardname "Obsidian Charmaw" "Charmaw" >}} i tornar a destruir una altra terra rival. En diverses ocasions sé perfectament que perdré la {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} en combat, però no m'importa: l'efecte del {{< cardname "Obsidian Charmaw" "Charmaw" >}} compensa de sobres el sacrifici.
 
 Al final li acabo destruint tres o quatre terres. Sense manà per desenvolupar el seu pla de joc, l'Aurore no té manera de remuntar i aconsegueixo la victòria.
 
@@ -239,7 +239,7 @@ L'última ronda la jugo contra un xicot italià molt simpàtic anomenat Martino.
 
 Tots dos fem mulligan: jo a 6 i ell a 5.
 
-El meu rival va desplegant criatures i jo vaig responent amb {{< cardname "Lightning Bolt" "Bolt" >}} i {{< cardname "Leyline Binding" "Binding" >}}, aconseguint mantenir la seva taula força controlada.
+El meu rival va desplegant criatures i jo vaig responent amb {{< cardname "Lightning Bolt|3ED" "Bolt" >}} i {{< cardname "Leyline Binding" "Binding" >}}, aconseguint mantenir la seva taula força controlada.
 
 Mentrestant li vaig baixant les vides de mica en mica. També m'ajuda força el fet que ell mateix es fa bastant mal amb _fetchlands_, _shocklands_ i algun {{< cardname "Thoughtseize" "Thoughtseize" >}}.
 
@@ -251,11 +251,11 @@ Abans del sideboarding, en Martino em demana si em sembla bé que cridi un jutge
 
 La segona partida és molt més ajustada i agònica. Ell juga una carta nova de Reality Fracture que jo coneixia pels Drafts a l'Arena: {{< cardname "Dark Matter Manipulator|FRA" >}}, una criatura negra 1/2 d'un sol manà que quan entra al camp de batalla fa _mill_ de tres cartes i guanya +2/+0 per cada set cartes que hi ha al cementiri del seu controlador.
 
-Aquesta criatura em va fent mal de mica en mica, de manera agònica. Gràcies al meu {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} en joc, la criatura es manté 1/2 durant tota la partida i jo dubto en diverses ocasions si val la pena gastar un {{< cardname "Lightning Bolt" "Bolt" >}} en una criatura aparentment tan inofensiva... jo intento respondre atacant amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, tot i que no tinc permanents especialment útils per fer _blink_.
+Aquesta criatura em va fent mal de mica en mica, de manera agònica. Gràcies al meu {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} en joc, la criatura es manté 1/2 durant tota la partida i jo dubto en diverses ocasions si val la pena gastar un {{< cardname "Lightning Bolt|3ED" "Bolt" >}} en una criatura aparentment tan inofensiva... jo intento respondre atacant amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, tot i que no tinc permanents especialment útils per fer _blink_.
 
 La partida avança lentament, amb tots dos intentant trobar la manera de trencar l'equilibri. Ens anem eliminant totes les amenaces l'un a l'altre, excepte l'1/2. Mirant ara a posteriori el bloc de notes amb l'evolució de les meves vides veig una seqüència de 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 2... i m'adono que hauria d'haver disparat el {{< cardname "Lightning Bolt|3ED" "Bolt" >}} que tenia a la mà.
 
-Finalment, quan sembla que encara podria tenir alguna possibilitat de guanyar, em remata ell a mi amb un {{< cardname "Lightning Bolt" "Bolt" >}}.
+Finalment, quan sembla que encara podria tenir alguna possibilitat de guanyar, em remata ell a mi amb un {{< cardname "Lightning Bolt|3ED" "Bolt" >}}.
 
 Ens ho jugarem tot a la tercera partida!
 
@@ -299,19 +299,19 @@ Arribem a l'últim torn.
 
 El rival només té un {{< cardname "Fear of Missing Out" "FOMO" >}} al camp de batalla i jo tinc una {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} 4/4. Ell està a 6 punts de vida.
 
-Al final del seu torn faig _surveil_ i veig que la primera carta de la biblioteca és un {{< cardname "Lightning Bolt" "Bolt" >}}.
+Al final del seu torn faig _surveil_ i veig que la primera carta de la biblioteca és un {{< cardname "Lightning Bolt|3ED" "Bolt" >}}.
 
 Dubto una mica. Però finalment decideixo deixar-lo a sobre.
 
-Robo el {{< cardname "Lightning Bolt" "Bolt" >}}. Ataco amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i, amb la seva habilitat, exilio el {{< cardname "Fear of Missing Out" "FOMO" >}} del rival.
+Robo el {{< cardname "Lightning Bolt|3ED" "Bolt" >}}. Ataco amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i, amb la seva habilitat, exilio el {{< cardname "Fear of Missing Out" "FOMO" >}} del rival.
 
 Sense bloquejadors, la {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} connecta i el deixa a 2 punts de vida.
 
-I llavors li jugo el {{< cardname "Lightning Bolt" "Bolt" >}}.
+I llavors li jugo el {{< cardname "Lightning Bolt|3ED" "Bolt" >}}.
 
 **Victòria!**
 
-És gairebé poètic: a la segona partida ha guanyat ell amb un {{< cardname "Lightning Bolt" "Bolt" >}} directe i ara soc jo qui li torna el favor, en l'últim torn possible de l'última partida del torneig!
+És gairebé poètic: a la segona partida ha guanyat ell amb un {{< cardname "Lightning Bolt|3ED" "Bolt" >}} directe i ara soc jo qui li torna el favor, en l'últim torn possible de l'última partida del torneig!
 
 En Martino em va felicitar per la victòria i, molt esportivament, em va dir que hauria concedit al final perquè clarament jo estava guanyant i un empat no ens beneficiava a cap dels dos.
 
@@ -331,6 +331,6 @@ També he après coses. La derrota contra en Thomas m'ha recordat que encara tin
 
 Però també m'enduc una experiència molt positiva de l'última ronda. Haver identificat correctament la interacció de {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} amb {{< cardname "Consign to Memory" "Consign" >}} i haver defensat la jugada davant dels jutges, que finalment em van donar la raó, em fa pensar que vaig coneixent millor les subtileses de la baralla.
 
-I, sobretot, m'enduc aquell últim {{< cardname "Lightning Bolt" "Bolt" >}}! No se m'acut una manera gaire millor d'acabar el torneig: en l'últim torn disponible vaig trobar exactament la carta que necessitava i vaig aconseguir una victòria que em deixava amb un 6-1 i una quarta posició final.
+I, sobretot, m'enduc aquell últim {{< cardname "Lightning Bolt|3ED" "Bolt" >}}! No se m'acut una manera gaire millor d'acabar el torneig: en l'últim torn disponible vaig trobar exactament la carta que necessitava i vaig aconseguir una victòria que em deixava amb un 6-1 i una quarta posició final.
 
 **De quedar gairebé últim a acabar quart en només un any.**
