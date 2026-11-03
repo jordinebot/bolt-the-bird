@@ -3,6 +3,6 @@ module github.com/jordinebot/bolt-the-bird
 go 1.26.3
 
 require (
-	github.com/jordinebot/hugo-leyline v0.0.0-20260911134106-1f368cc79508 // indirect
-	github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20261103095847-f546d65244c7 // indirect
+	github.com/jordinebot/hugo-leyline v0.0.0-20261103122013-913b0b1800bd // indirect
+	github.com/jordinebot/hugo-mtg-shortcodes v0.0.0-20261103122015-db391543d968 // indirect
 )

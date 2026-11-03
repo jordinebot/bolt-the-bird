@@ -146,7 +146,7 @@ In round four I face Thomas, who is playing Esper Blink, one of Domain Zoo's [wo
 
 I think I mulligan to six. Either way, I keep what looks like an excellent hand: {{< cardname "Leyline of the Guildpact" "Leyline" >}}, three lands, {{< cardname "Quantum Riddler" "Riddler" >}} and {{< cardname "Scion of Draco" "Scion" >}}.
 
-The problem is that he goes first. On turn one he casts {{< cardname "Thoughtseize|LRW" "Thoughtseize" >}} and takes {{< cardname "Scion of Draco" "Scion" >}}. On turn two, another {{< cardname "Thoughtseize" "Thoughtseize" >}} leaves me without {{< cardname "Quantum Riddler" "Riddler" >}} either. Suddenly that promising hand has very little to do.
+The problem is that he goes first. On turn one he casts {{< cardname "Thoughtseize|LRW" >}} and takes {{< cardname "Scion of Draco" >}}. On turn two, another {{< cardname "Thoughtseize|LRW" >}} leaves me without {{< cardname "Quantum Riddler" "Riddler" >}} either. Suddenly that promising hand has very little to do.
 
 To make matters worse, he also plays {{< cardname "Teferi, Time Raveler|WAR" >}}, which severely limits my ability to interact on his turn. I have cards like {{< cardname "Lightning Bolt" "Bolt" >}} and {{< cardname "Consign to Memory" "Consign" >}}, but with {{< cardname "Teferi, Time Raveler" "Teferi" >}} on the battlefield I can't use them the way I'd like. In fact, {{< cardname "Teferi, Time Raveler" "Teferi" >}} leads me to make a costly mistake. My opponent has an {{< cardname "Emperor of Bones" "Emperor" >}} with one of my Quantum Riddlers exiled under it. I try to kill the {{< cardname "Emperor of Bones" "Emperor" >}} with {{< cardname "Lightning Bolt" "Bolt" >}} in my main phase, forgetting that he can respond by activating _adapt 2_.
 
@@ -162,7 +162,7 @@ My first loss of the tournament. My opponent played very well, and I had almost 
 
 Still, at 3-1, I'm very happy with the result!
 
-{{< match round="5" player1="Jordi" deck1="Domain Zoo" deck1Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2359" player2="Aurore" deck2="Monogreen Tron - Eldrazi" deck2Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/3269" result="2-1" >}}
+{{< match round="5" player1="Jordi" deck1="Domain Zoo" deck1Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2359" player2="Aurore" deck2="Monogreen Tron" deck2Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/3269" result="2-1" >}}
 
 In round five I play Aurore, who's on Tron-Eldrazi. I'm not entirely sure which exact version.
 

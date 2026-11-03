@@ -161,7 +161,7 @@ Primera derrota del torneig. El rival ha jugat molt bé i jo no he tingut pràct
 
 De totes maneres, amb un 3-1 encara estic molt content amb els resultats!
 
-{{< match round="5" player1="Jordi" deck1="Domain Zoo" deck1Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2359" player2="Aurore" deck2="Monogreen Tron - Eldrazi" deck2Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/3269" result="2-1" >}}
+{{< match round="5" player1="Jordi" deck1="Domain Zoo" deck1Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/2359" player2="Aurore" deck2="Monogreen Tron" deck2Url="https://getpaird.io/tournaments/modern-main-event-8gvZ3V/lists/3269" result="2-1" >}}
 
 La cinquena ronda la jugo contra l'Aurore, que porta una baralla Tron-Eldrazi. No tinc gaire clar quina versió exactament.
 
