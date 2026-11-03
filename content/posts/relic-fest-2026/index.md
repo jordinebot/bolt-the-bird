@@ -22,7 +22,7 @@ The main reason I got excited about travelling to Toulouse last year to play in 
 
 This time I entered the tournament with [Domain Zoo](https://mtgdecks.net/Modern/domain-aggro). It's an archetype I really like (I also play a version in Pauper), and multicolour decks are generally my favourites. It's obviously much more competitive than last year's deck: it combines very efficient creatures with plenty of interaction and can have explosive starts thanks to the combo of {{< cardname "Leyline of the Guildpact|MKM" >}} and {{< cardname "Scion of Draco|MH2" >}}.
 
-{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer|MH2" "Phelia, Exuberant Shepherd" >}}
+{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer|MH2" "Phelia, Exuberant Shepherd|MH3" >}}
 
 The idea is simple: once we have Domain, we can cast {{< cardname "Scion of Draco" "Scion" >}} for just {{< mana "2" >}}. It gives our creatures several abilities, such as _hexproof_, _lifelink_, _vigilance_, _trample_ or _first strike_ (or all of them if we have {{< cardname "Leyline of the Guildpact|MKM" "Leyline" >}}!). On top of that, {{< cardname "Territorial Kavu|MH2" >}} becomes a 5/5 for only {{< mana "{R}{G}" >}}.
 
@@ -30,7 +30,7 @@ The deck also has a more interactive game plan, with {{< cardname "Lightning Bol
 
 {{< deck id="domain-zoo-relic-fest-2026" >}}
 
-I spent a long time deciding which version of Domain Zoo to play. Lately the more aggressive version seems to be taking over, closer to the deck's original build, with {{< cardname "Wild Nacatl" >}} and {{< cardname "Tribal Flames" >}}. I was also tempted by the version with {{< cardname "Psychic Frog" >}}. But given how things went, I'm very glad I chose the {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} version!
+I spent a long time deciding which version of Domain Zoo to play. Lately the more aggressive version seems to be taking over, closer to the deck's original build, with {{< cardname "Wild Nacatl" >}} and {{< cardname "Tribal Flames" >}}. I was also tempted by the version with {{< cardname "Psychic Frog" >}}. But given how things went, I'm very glad I chose the {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} version!
 
 Let the tournament begin!
 
@@ -52,7 +52,7 @@ It's a long game with plenty of back and forth, but I eventually come out on top
 
 #### Game 2
 
-For sideboarding I take out all three {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} and two {{< cardname "Consign to Memory|MH3" >}}. They have some uses in this matchup, but I wasn't very impressed with them in game one. I bring in two {{< cardname "Containment Priest|M21" >}}, one {{< cardname "Rest in Peace|BIG" >}} and two {{< cardname "Mystical Dispute|ELD" >}}. Honestly, I'm not sure it was the right call, but it worked out...
+For sideboarding I take out all three {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and two {{< cardname "Consign to Memory|MH3" >}}. They have some uses in this matchup, but I wasn't very impressed with them in game one. I bring in two {{< cardname "Containment Priest|M21" >}}, one {{< cardname "Rest in Peace|BIG" >}} and two {{< cardname "Mystical Dispute|ELD" >}}. Honestly, I'm not sure it was the right call, but it worked out...
 
 This time I don't need to mulligan. He opens with {{< cardname "Thoughtseize" >}}, but I already have {{< cardname "Leyline of the Guildpact" "Leyline" >}} on the battlefield.
 
@@ -126,13 +126,13 @@ I adjust my sideboard again for the third game, bringing back some of the cards 
 
 The game is close again. We both play two {{< cardname "Territorial Kavu" "Kavu" >}}, but there's an important difference: my opponent gets stuck on two lands and Domain 4. His {{< cardname "Territorial Kavu" "Kavu" >}} are 4/4s while mine are 5/5s. It may not sound like much, but in a mirror match it's huge.
 
-I get {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} and {{< cardname "Quantum Riddler" "Riddler" >}} onto the battlefield. At a decisive moment I cast {{< cardname "Quantum Riddler" "Riddler" >}} with _warp_ and give it _haste_ with {{< cardname "Arena of Glory|MH3" >}}.
+I get {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and {{< cardname "Quantum Riddler" "Riddler" >}} onto the battlefield. At a decisive moment I cast {{< cardname "Quantum Riddler" "Riddler" >}} with _warp_ and give it _haste_ with {{< cardname "Arena of Glory|MH3" >}}.
 
-I attack with everything and use {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}'s ability to temporarily exile my opponent's {{< cardname "Psychic Frog" "Frog" >}}, removing one of his blockers.
+I attack with everything and use {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}'s ability to temporarily exile my opponent's {{< cardname "Psychic Frog" "Frog" >}}, removing one of his blockers.
 
 The attack is enough to win.
 
-After the match, DreekC asks what I think of my {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} version of Zoo. It feels strange to be asked, since I'm nowhere near an expert in Modern or this deck, but I tell him it's been working well so far and that I've liked {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} more and more for the versatility it brings.
+After the match, DreekC asks what I think of my {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} version of Zoo. It feels strange to be asked, since I'm nowhere near an expert in Modern or this deck, but I tell him it's been working well so far and that I've liked {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} more and more for the versatility it brings.
 
 Three rounds, three wins. Things are getting serious!
 
@@ -190,11 +190,11 @@ And that's exactly what happens!
 
 {{< cardname "Obsidian Charmaw" "Charmaw" >}} enters the battlefield and destroys one of her lands. Surprisingly, she doesn't find {{< cardname "Dismember" "Dismember" >}} or {{< cardname "Ugin, Eye of the Storms" "Ugin" >}} to remove it, so I can keep attacking and applying pressure.
 
-To top it off, I draw both of my {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} during the game. I attack with them whenever I can, using their ability to blink {{< cardname "Obsidian Charmaw" "Charmaw" >}} and destroy another of her lands. A few times I know my {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} will die in combat, but I don't mind: {{< cardname "Obsidian Charmaw" "Charmaw" >}}'s effect is well worth the sacrifice.
+To top it off, I draw both of my {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} during the game. I attack with them whenever I can, using their ability to blink {{< cardname "Obsidian Charmaw" "Charmaw" >}} and destroy another of her lands. A few times I know my {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} will die in combat, but I don't mind: {{< cardname "Obsidian Charmaw" "Charmaw" >}}'s effect is well worth the sacrifice.
 
 I end up destroying three or four lands. With no mana to develop her game plan, Aurore has no way back, and I win.
 
-A very unusual game, where a sideboard card combined with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} proved more decisive than the deck's usual threats.
+A very unusual game, where a sideboard card combined with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} proved more decisive than the deck's usual threats.
 
 4-1!
 
@@ -212,9 +212,9 @@ The game begins with a decent hand, though nothing explosive.
 
 Yannick plays {{< cardname "Harbinger of the Seas" "Harbinger" >}}. Last year that creature was a death sentence for my deck, and this year it could be a serious problem too, given my Domain Zoo mana base has 20 nonbasic lands and only two basics.
 
-Fortunately, I can flash in {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} in response.
+Fortunately, I can flash in {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} in response.
 
-On my next turn I attack with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} and blink the {{< cardname "Harbinger of the Seas" "Harbinger" >}}. While it's exiled, my lands regain their abilities, and I can sacrifice a fetchland to find a basic land. I repeat this on the following turn, finding a basic Mountain and Plains. That secures the colours I need to keep playing and even lets me remove the {{< cardname "Harbinger of the Seas" "Harbinger" >}} with {{< cardname "Prismatic Ending|SOA" "Ending" >}}.
+On my next turn I attack with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and blink the {{< cardname "Harbinger of the Seas" "Harbinger" >}}. While it's exiled, my lands regain their abilities, and I can sacrifice a fetchland to find a basic land. I repeat this on the following turn, finding a basic Mountain and Plains. That secures the colours I need to keep playing and even lets me remove the {{< cardname "Harbinger of the Seas" "Harbinger" >}} with {{< cardname "Prismatic Ending|SOA" "Ending" >}}.
 
 From there I can develop my board, and Yannick concedes.
 
@@ -252,7 +252,7 @@ Before sideboarding, Martino asks if I'm okay with him calling a judge to clarif
 
 The second game is much closer and more painful. He plays a new Reality Fracture card I knew from Arena drafts: {{< cardname "Dark Matter Manipulator|FRA" >}}, a one-mana 1/2 black creature that mills three cards when it enters the battlefield and gets +2/+0 for every seven cards in its controller's graveyard.
 
-The creature slowly chips away at me. Thanks to my {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} on the battlefield, it stays a 1/2 throughout the game, and I hesitate several times over whether to spend a {{< cardname "Lightning Bolt" "Bolt" >}} on such an apparently harmless creature. I try to answer by attacking with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}, even though I don't have any especially useful permanents to blink.
+The creature slowly chips away at me. Thanks to my {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} on the battlefield, it stays a 1/2 throughout the game, and I hesitate several times over whether to spend a {{< cardname "Lightning Bolt" "Bolt" >}} on such an apparently harmless creature. I try to answer by attacking with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, even though I don't have any especially useful permanents to blink.
 
 The game drags on as we both look for a way to break the stalemate. We remove each other's threats, except for the 1/2. Looking back at my notes of my life total, I see the sequence 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 2... and realize I should have fired the {{< cardname "Lightning Bolt|3ED" "Bolt" >}} I had in hand.
 
@@ -266,7 +266,7 @@ We both mulligan to five and joke that starting with five doesn't feel so bad wh
 
 He gets stuck on two lands for a few turns and I don't have Domain yet, but I cast two {{< cardname "Leyline Binding" "Binding" >}} for {{< mana "{1}{W}" >}} to exile a {{< cardname "Fear of Missing Out" "FOMO" >}} and a {{< cardname "Moonshadow" >}}.
 
-At one point I have {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} and {{< cardname "Teferi, Time Raveler|WAR" "Teferi" >}} on the battlefield. My opponent has a {{< cardname "Moonshadow" "Moonshadow" >}} that I want to remove with {{< cardname "Prismatic Ending|SOA" "Ending" >}}. He responds with {{< cardname "Flare of Malice" >}}, sacrificing {{< cardname "Moonshadow" "Moonshadow" >}} to remove my {{< cardname "Teferi, Time Raveler" "Teferi" >}}. We resolve the play, I attack with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}, and pass the turn. He draws a card and finally plays his third land. That's when I see my {{< cardname "Teferi, Time Raveler" "Teferi" >}} in the graveyard and realize my mistake: with {{< cardname "Teferi, Time Raveler|WAR" "Teferi" >}} on the battlefield, my opponent couldn't cast an instant in response to {{< cardname "Prismatic Ending" "Ending" >}}!
+At one point I have {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and {{< cardname "Teferi, Time Raveler|WAR" "Teferi" >}} on the battlefield. My opponent has a {{< cardname "Moonshadow" "Moonshadow" >}} that I want to remove with {{< cardname "Prismatic Ending|SOA" "Ending" >}}. He responds with {{< cardname "Flare of Malice" >}}, sacrificing {{< cardname "Moonshadow" "Moonshadow" >}} to remove my {{< cardname "Teferi, Time Raveler" "Teferi" >}}. We resolve the play, I attack with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, and pass the turn. He draws a card and finally plays his third land. That's when I see my {{< cardname "Teferi, Time Raveler" "Teferi" >}} in the graveyard and realize my mistake: with {{< cardname "Teferi, Time Raveler|WAR" "Teferi" >}} on the battlefield, my opponent couldn't cast an instant in response to {{< cardname "Prismatic Ending" "Ending" >}}!
 
 We call a judge. Since the game has moved on and my opponent has drawn a card, fixing it isn't as simple as undoing the last action.
 
@@ -278,11 +278,11 @@ But the game goes on.
 
 Martino, who had some mana trouble in the early turns, manages to play a {{< cardname "Blood Moon|MMA" >}}.
 
-Fortunately, I have a basic Plains, which lets me keep casting {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}. I use her ability to exile {{< cardname "Blood Moon" "Blood Moon" >}} temporarily several times, restoring access to the colours of mana I need, at least during my second main phase each turn.
+Fortunately, I have a basic Plains, which lets me keep casting {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. I use her ability to exile {{< cardname "Blood Moon" "Blood Moon" >}} temporarily several times, restoring access to the colours of mana I need, at least during my second main phase each turn.
 
 Then comes one of the most interesting plays of the whole tournament.
 
-I attack with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} and blink {{< cardname "Blood Moon" "Blood Moon" >}}. At the beginning of the end step, the delayed trigger that returns {{< cardname "Blood Moon" "Blood Moon" >}} to the battlefield goes on the stack. I respond with {{< cardname "Consign to Memory|MH3" "Consign" >}}, countering that trigger and keeping {{< cardname "Blood Moon" "Blood Moon" >}} exiled for good. Martino isn't sure the play works, so we call a judge.
+I attack with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and blink {{< cardname "Blood Moon" "Blood Moon" >}}. At the beginning of the end step, the delayed trigger that returns {{< cardname "Blood Moon" "Blood Moon" >}} to the battlefield goes on the stack. I respond with {{< cardname "Consign to Memory|MH3" "Consign" >}}, countering that trigger and keeping {{< cardname "Blood Moon" "Blood Moon" >}} exiled for good. Martino isn't sure the play works, so we call a judge.
 
 {{< gallery match="relic26-r7*" cols="2" >}}
 
@@ -294,19 +294,19 @@ Fantastic! I've got rid of one of the cards making the game most difficult. But 
 
 The round's time limit has already passed, and the judge tells us we have only three additional turns to decide the winner. If we can't finish the game, the match will be a draw.
 
-Martino has very few resources. For the last few turns he's had a {{< cardname "Nethergoyf" "Nethergoyf" >}} and a {{< cardname "Fear of Missing Out" "FOMO" >}} on the board, while I've been growing {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} by blinking my own {{< cardname "Rest in Peace" "Rest in Peace" >}}. His creatures have been blocking my attacks, though, and I can't close out the game.
+Martino has very few resources. For the last few turns he's had a {{< cardname "Nethergoyf" "Nethergoyf" >}} and a {{< cardname "Fear of Missing Out" "FOMO" >}} on the board, while I've been growing {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} by blinking my own {{< cardname "Rest in Peace" "Rest in Peace" >}}. His creatures have been blocking my attacks, though, and I can't close out the game.
 
 We reach the final turn.
 
-My opponent has only a {{< cardname "Fear of Missing Out" "FOMO" >}} on the battlefield, and I have a 4/4 {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}. He's at six life.
+My opponent has only a {{< cardname "Fear of Missing Out" "FOMO" >}} on the battlefield, and I have a 4/4 {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. He's at six life.
 
 At the end of his turn I surveil and see a {{< cardname "Lightning Bolt" "Bolt" >}} on top of my library.
 
 I hesitate for a moment, but decide to leave it there.
 
-I draw {{< cardname "Lightning Bolt" "Bolt" >}}. I attack with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} and use her ability to exile my opponent's {{< cardname "Fear of Missing Out" "FOMO" >}}.
+I draw {{< cardname "Lightning Bolt" "Bolt" >}}. I attack with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and use her ability to exile my opponent's {{< cardname "Fear of Missing Out" "FOMO" >}}.
 
-With no blockers, {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} connects and takes him down to two.
+With no blockers, {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} connects and takes him down to two.
 
 Then I cast {{< cardname "Lightning Bolt" "Bolt" >}}.
 
@@ -324,13 +324,13 @@ I finish the tournament with **six wins and one loss**, a **12-6 game record**, 
 
 The deck is obviously a big part of the difference. Last year's Budget Dino Whack was fun and could catch an opponent off guard, but it didn't have the tools to compete consistently against the format's best decks. Domain Zoo is a whole different story: the {{< cardname "Leyline of the Guildpact" "Leyline" >}} and {{< cardname "Scion of Draco" "Scion" >}} combination can practically win games on its own, but I also found that the deck has plenty of other ways to come out on top.
 
-{{< cardname "Territorial Kavu" "Kavu" >}} is a very efficient creature, {{< cardname "Leyline Binding" "Binding" >}} let me answer all kinds of threats, and {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} was probably one of the cards that brought me the most joy during the tournament.
+{{< cardname "Territorial Kavu" "Kavu" >}} is a very efficient creature, {{< cardname "Leyline Binding" "Binding" >}} let me answer all kinds of threats, and {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} was probably one of the cards that brought me the most joy during the tournament.
 
-The {{< cardname "Obsidian Charmaw" "Charmaw" >}} in the sideboard also deserves a special mention: the win against Eldrazi, destroying lands one after another with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}'s help, was one of the most satisfying games of the day.
+The {{< cardname "Obsidian Charmaw" "Charmaw" >}} in the sideboard also deserves a special mention: the win against Eldrazi, destroying lands one after another with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}'s help, was one of the most satisfying games of the day.
 
 I learned a lot, too. The loss to Thomas reminded me that I still have plenty of room to improve, especially against experienced opponents. And my {{< cardname "Teferi, Time Raveler" "Teferi" >}} mistake in the last round shows how easy it is to miss an important interaction, even when you seem to have the game under control.
 
-But I also take away a very positive experience from that final round. Correctly identifying the interaction between {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} and {{< cardname "Consign to Memory" "Consign" >}} and making my case to the judges, who ultimately agreed with me, makes me feel I'm getting to know the deck's subtleties better.
+But I also take away a very positive experience from that final round. Correctly identifying the interaction between {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and {{< cardname "Consign to Memory" "Consign" >}} and making my case to the judges, who ultimately agreed with me, makes me feel I'm getting to know the deck's subtleties better.
 
 And above all, I'll remember that last {{< cardname "Lightning Bolt" "Bolt" >}}! I can't think of a much better way to end the tournament: finding exactly the card I needed on the last available turn and earning a win that left me 6-1 and in fourth place overall.
 

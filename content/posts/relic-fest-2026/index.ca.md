@@ -21,7 +21,7 @@ El motiu principal pel qual l'any passat em vaig engrescar a viatjar fins a Toul
 
 Aquest cop m'he presentat al torneig amb una baralla [Domain Zoo](https://mtgdecks.net/Modern/domain-aggro). És un arquetip que m'agrada molt (també en jugo una versió a Pauper) i, en general, les baralles de molts colors son les meves preferides.Òbviament és una baralla molt més competitiva que la de l'any passat, que combina criatures molt eficients amb una bona quantitat d'interacció i que pot tenir sortides realment explosives gràcies al combo de {{< cardname "Leyline of the Guildpact|MKM" >}} i {{< cardname "Scion of Draco" >}}.
 
-{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer" "Phelia, Exuberant Shepherd" >}}
+{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer" "Phelia, Exuberant Shepherd|MH3" >}}
 
 La idea és força senzilla: un cop tenim Domain podem jugar {{< cardname "Scion of Draco" "Scion" >}} per només {{< mana "2" >}} que dóna a les nostres criatures múltiples habilitats, com _hexproof_, _lifelink_, _vigilance_, _trample_ o _first strike_ (o totes, si tenim {{< cardname "Leyline of the Guildpact|MKM" "Leyline" >}}!). A més, {{< cardname "Territorial Kavu" >}} es converteix en una criatura 5/5 per només {{< mana "{R}{G}" >}}.
 
@@ -29,7 +29,7 @@ Però la baralla també té un pla de joc més interactiu, amb {{< cardname "Lig
 
 {{< deck id="domain-zoo-relic-fest-2026" >}}
 
-He de dir que vaig dubtar molt de quina versió de Domain Zoo havia de jugar... Últimament sembla que s'imposa la versió més aggro (més fidel a la versió original de la baralla) amb {{< cardname "Wild Nacatl" >}} i {{< cardname "Tribal Flames" >}}, i per altra banda em feia gràcia jugar la versió amb {{< cardname "Psychic Frog" >}}, però vist com van anar les coses, estic molt content d'haver triat la versió amb {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}!
+He de dir que vaig dubtar molt de quina versió de Domain Zoo havia de jugar... Últimament sembla que s'imposa la versió més aggro (més fidel a la versió original de la baralla) amb {{< cardname "Wild Nacatl" >}} i {{< cardname "Tribal Flames" >}}, i per altra banda em feia gràcia jugar la versió amb {{< cardname "Psychic Frog" >}}, però vist com van anar les coses, estic molt content d'haver triat la versió amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}!
 
 Comença el torneig!
 
@@ -51,7 +51,7 @@ Utilitzo {{< cardname "Lightning Bolt" "Bolt" >}} per eliminar algun {{< cardnam
 
 #### Partida 2
 
-Per al sideboard trec les 3 {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} i dos {{< cardname "Consign to Memory|MH3" >}}, que tot i tenir utilitat en aquest _matchup_ no m'han convençut gaire a la primera partida. Hi afegeixo dos {{< cardname "Containment Priest|M21" >}}, un {{< cardname "Rest in Peace|BIG" >}} i dos {{< cardname "Mystical Dispute|ELD" >}}. Sincerament, no estic segur que fos una bona decisió, però no va anar malament...
+Per al sideboard trec les 3 {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i dos {{< cardname "Consign to Memory|MH3" >}}, que tot i tenir utilitat en aquest _matchup_ no m'han convençut gaire a la primera partida. Hi afegeixo dos {{< cardname "Containment Priest|M21" >}}, un {{< cardname "Rest in Peace|BIG" >}} i dos {{< cardname "Mystical Dispute|ELD" >}}. Sincerament, no estic segur que fos una bona decisió, però no va anar malament...
 
 Aquest cop no he de fer mulligan. Ell comença amb un {{< cardname "Thoughtseize" >}} al primer torn, però jo ja tinc {{< cardname "Leyline of the Guildpact" "Leyline" >}} al camp de batalla.
 
@@ -125,13 +125,13 @@ Per a la tercera partida torno a modificar el sideboard, recuperant algunes de l
 
 La partida torna a ser molt igualada. Tots dos aconseguim jugar dos {{< cardname "Territorial Kavu" "Kavu" >}}, però hi ha una diferència important: el meu rival es queda encallat amb només dues terres i _domain_ 4. Per tant, mentre que els seus {{< cardname "Territorial Kavu" "Kavu" >}} són 4/4, els meus són 5/5. Sembla poca cosa, però en un _mirror match_ aquesta diferència és enorme.
 
-Aconsegueixo posar en joc {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} i {{< cardname "Quantum Riddler" "Riddler" >}}. En un dels torns decisius jugo el {{< cardname "Quantum Riddler" "Riddler" >}} amb _warp_ i li dono _haste_ gràcies a {{< cardname "Arena of Glory|MH3" >}}.
+Aconsegueixo posar en joc {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i {{< cardname "Quantum Riddler" "Riddler" >}}. En un dels torns decisius jugo el {{< cardname "Quantum Riddler" "Riddler" >}} amb _warp_ i li dono _haste_ gràcies a {{< cardname "Arena of Glory|MH3" >}}.
 
-Ataco amb tot i utilitzo l'habilitat de {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} per exiliar temporalment un {{< cardname "Psychic Frog" "Frog" >}} que té el rival, eliminant així un dels seus bloquejadors.
+Ataco amb tot i utilitzo l'habilitat de {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} per exiliar temporalment un {{< cardname "Psychic Frog" "Frog" >}} que té el rival, eliminant així un dels seus bloquejadors.
 
 L'atac és suficient per acabar guanyant.
 
-Després de l'enfrontament en DreekC em pregunta quina opinió en tinc de la versió de Zoo que jugo jo, amb {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}. Se'm fa estrany, perquè no sóc, ni de lluny, un expert en Modern, ni en la baralla; però li explico que de moment m'està anant bé i que la {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} m'ha anat agradant cada cop més per la versatilitat que aporta a la baralla.
+Després de l'enfrontament en DreekC em pregunta quina opinió en tinc de la versió de Zoo que jugo jo, amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. Se'm fa estrany, perquè no sóc, ni de lluny, un expert en Modern, ni en la baralla; però li explico que de moment m'està anant bé i que la {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} m'ha anat agradant cada cop més per la versatilitat que aporta a la baralla.
 
 En fi... Tres rondes, tres victòries. La cosa es comença a posar seriosa!
 
@@ -189,11 +189,11 @@ I així és!
 
 L'{{< cardname "Obsidian Charmaw" "Charmaw" >}} entra al camp de batalla i li destrueixo una terra. Sorprenentment la rival no troba {{< cardname "Dismember" "Dismember" >}} ni {{< cardname "Ugin, Eye of the Storms" "Ugin" >}} per a eliminar-lo i això em permet continuar atacant i pressionant.
 
-Per arrodonir-ho durant la partida robo dues de les meves {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}. Ataco amb elles sempre que puc, utilitzant la seva habilitat per fer _blink_ a l'{{< cardname "Obsidian Charmaw" "Charmaw" >}} i tornar a destruir una altra terra rival. En diverses ocasions sé perfectament que perdré la {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} en combat, però no m'importa: l'efecte del {{< cardname "Obsidian Charmaw" "Charmaw" >}} compensa de sobres el sacrifici.
+Per arrodonir-ho durant la partida robo dues de les meves {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. Ataco amb elles sempre que puc, utilitzant la seva habilitat per fer _blink_ a l'{{< cardname "Obsidian Charmaw" "Charmaw" >}} i tornar a destruir una altra terra rival. En diverses ocasions sé perfectament que perdré la {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} en combat, però no m'importa: l'efecte del {{< cardname "Obsidian Charmaw" "Charmaw" >}} compensa de sobres el sacrifici.
 
 Al final li acabo destruint tres o quatre terres. Sense manà per desenvolupar el seu pla de joc, l'Aurore no té manera de remuntar i aconsegueixo la victòria.
 
-Una partida molt curiosa, en què una carta del sideboard, combinada amb {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}, ha acabat sent molt més decisiva que les amenaces habituals de la baralla.
+Una partida molt curiosa, en què una carta del sideboard, combinada amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, ha acabat sent molt més decisiva que les amenaces habituals de la baralla.
 
 4-1!
 
@@ -211,9 +211,9 @@ Comença la partida i tinc una mà prou bona, encara que no especialment explosi
 
 En Yannick posa en joc un {{< cardname "Harbinger of the Seas" "Harbinger" >}}. L'any passat aquesta criatura va ser una sentència de mort per a la meva baralla, i aquest any podria tornar a ser un problema important, tenint en compte la base de manà amb 20 terres no-bàsiques (i només dues de bàsiques) que porta la meva Domain Zoo.
 
-Per sort, puc jugar {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} en resposta, aprofitant que té _flash_.
+Per sort, puc jugar {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} en resposta, aprofitant que té _flash_.
 
-Al torn següent ataco amb {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} i faig _blink_ al {{< cardname "Harbinger of the Seas" "Harbinger" >}}. Durant el temps que està exiliat, les meves terres recuperen les seves habilitats i puc sacrificar una _fetchland_ per buscar una terra bàsica. Aconsegueixo repetir l'operació al següent torn, buscant una muntanya i una plana bàsiques. Això em permet assegurar els colors que necessito per continuar jugant i fins i tot eliminar el {{< cardname "Harbinger of the Seas" "Harbinger" >}} amb el meu {{< cardname "Prismatic Ending|SOA" "Ending" >}}.
+Al torn següent ataco amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i faig _blink_ al {{< cardname "Harbinger of the Seas" "Harbinger" >}}. Durant el temps que està exiliat, les meves terres recuperen les seves habilitats i puc sacrificar una _fetchland_ per buscar una terra bàsica. Aconsegueixo repetir l'operació al següent torn, buscant una muntanya i una plana bàsiques. Això em permet assegurar els colors que necessito per continuar jugant i fins i tot eliminar el {{< cardname "Harbinger of the Seas" "Harbinger" >}} amb el meu {{< cardname "Prismatic Ending|SOA" "Ending" >}}.
 
 A partir d'aquí puc desenvolupar el meu joc i en Yannick concedeix.
 
@@ -251,7 +251,7 @@ Abans del sideboarding, en Martino em demana si em sembla bé que cridi un jutge
 
 La segona partida és molt més ajustada i agònica. Ell juga una carta nova de Reality Fracture que jo coneixia pels Drafts a l'Arena: {{< cardname "Dark Matter Manipulator|FRA" >}}, una criatura negra 1/2 d'un sol manà que quan entra al camp de batalla fa _mill_ de tres cartes i guanya +2/+0 per cada set cartes que hi ha al cementiri del seu controlador.
 
-Aquesta criatura em va fent mal de mica en mica, de manera agònica. Gràcies al meu {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} en joc, la criatura es manté 1/2 durant tota la partida i jo dubto en diverses ocasions si val la pena gastar un {{< cardname "Lightning Bolt" "Bolt" >}} en una criatura aparentment tan inofensiva... jo intento respondre atacant amb {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}, tot i que no tinc permanents especialment útils per fer _blink_.
+Aquesta criatura em va fent mal de mica en mica, de manera agònica. Gràcies al meu {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} en joc, la criatura es manté 1/2 durant tota la partida i jo dubto en diverses ocasions si val la pena gastar un {{< cardname "Lightning Bolt" "Bolt" >}} en una criatura aparentment tan inofensiva... jo intento respondre atacant amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, tot i que no tinc permanents especialment útils per fer _blink_.
 
 La partida avança lentament, amb tots dos intentant trobar la manera de trencar l'equilibri. Ens anem eliminant totes les amenaces l'un a l'altre, excepte l'1/2. Mirant ara a posteriori el bloc de notes amb l'evolució de les meves vides veig una seqüència de 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 2... i m'adono que hauria d'haver disparat el {{< cardname "Lightning Bolt|3ED" "Bolt" >}} que tenia a la mà.
 
@@ -265,7 +265,7 @@ Tots dos fem mulligan a 5 i fem broma comentant que, quan tots dos estem en la m
 
 Ell es queda uns quants torns encallat amb dues terres i jo no tinc Domain encara, però jugo dos {{< cardname "Leyline Binding" "Binding" >}} per {{< mana "{1}{W}" >}} per capturar un {{< cardname "Fear of Missing Out" "FOMO" >}} i un {{< cardname "Moonshadow" >}}.
 
-En un moment de la partida tinc {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} i {{< cardname "Teferi, Time Raveler|WAR" "Teferi" >}} al camp de batalla. El rival té un {{< cardname "Moonshadow" "Moonshadow" >}} que vull eliminar amb {{< cardname "Prismatic Ending|SOA" "Ending" >}}. Ell respon amb un {{< cardname "Flare of Malice" >}} sacrificant el {{< cardname "Moonshadow" "Moonshadow" >}} per eliminar el meu {{< cardname "Teferi, Time Raveler" "Teferi" >}}. Resolem la jugada, ataco amb la {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}. Li passo el torn, roba una carta i finalment juga la seva tercera terra. I just llavors veig el meu {{< cardname "Teferi, Time Raveler" "Teferi" >}} al cementiri i m'adono de l'error: Amb {{< cardname "Teferi, Time Raveler|WAR" "Teferi" >}} al camp de batalla, el meu rival no podia jugar un instant en resposta al {{< cardname "Prismatic Ending" "Ending" >}}!
+En un moment de la partida tinc {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i {{< cardname "Teferi, Time Raveler|WAR" "Teferi" >}} al camp de batalla. El rival té un {{< cardname "Moonshadow" "Moonshadow" >}} que vull eliminar amb {{< cardname "Prismatic Ending|SOA" "Ending" >}}. Ell respon amb un {{< cardname "Flare of Malice" >}} sacrificant el {{< cardname "Moonshadow" "Moonshadow" >}} per eliminar el meu {{< cardname "Teferi, Time Raveler" "Teferi" >}}. Resolem la jugada, ataco amb la {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. Li passo el torn, roba una carta i finalment juga la seva tercera terra. I just llavors veig el meu {{< cardname "Teferi, Time Raveler" "Teferi" >}} al cementiri i m'adono de l'error: Amb {{< cardname "Teferi, Time Raveler|WAR" "Teferi" >}} al camp de batalla, el meu rival no podia jugar un instant en resposta al {{< cardname "Prismatic Ending" "Ending" >}}!
 
 Cridem un jutge. Com que la partida ja ha avançat i el rival ha robat una carta, la resolució no és tan senzilla com simplement desfer l'última acció.
 
@@ -277,11 +277,11 @@ Però la partida continua.
 
 En Martino, que havia tingut alguns problemes amb les terres durant els primers torns, aconsegueix posar en joc una {{< cardname "Blood Moon|MMA" >}}.
 
-Per sort, jo tinc una plana bàsica, que em permet continuar jugant {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}. Utilitzo la seva habilitat per exiliar temporalment {{< cardname "Blood Moon" "Blood Moon" >}} en diverses ocasions, recuperant així l'accés als colors de manà que necessito, almenys durant la meva segona fase principal de cada torn.
+Per sort, jo tinc una plana bàsica, que em permet continuar jugant {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}. Utilitzo la seva habilitat per exiliar temporalment {{< cardname "Blood Moon" "Blood Moon" >}} en diverses ocasions, recuperant així l'accés als colors de manà que necessito, almenys durant la meva segona fase principal de cada torn.
 
 I llavors arriba una de les jugades més interessants de tot el torneig.
 
-Ataco amb {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} i faig _blink_ a {{< cardname "Blood Moon" "Blood Moon" >}}. Quan arriba el pas final, es dispara l'habilitat retardada que ha de retornar {{< cardname "Blood Moon" "Blood Moon" >}} al camp de batalla. Jo hi responc amb {{< cardname "Consign to Memory|MH3" "Consign" >}}, contrarestant aquesta habilitat i aconseguint que {{< cardname "Blood Moon" "Blood Moon" >}} es quedi exiliada definitivament. En Martino no està convençut que aquesta jugada sigui possible i cridem un jutge.
+Ataco amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i faig _blink_ a {{< cardname "Blood Moon" "Blood Moon" >}}. Quan arriba el pas final, es dispara l'habilitat retardada que ha de retornar {{< cardname "Blood Moon" "Blood Moon" >}} al camp de batalla. Jo hi responc amb {{< cardname "Consign to Memory|MH3" "Consign" >}}, contrarestant aquesta habilitat i aconseguint que {{< cardname "Blood Moon" "Blood Moon" >}} es quedi exiliada definitivament. En Martino no està convençut que aquesta jugada sigui possible i cridem un jutge.
 
 {{< gallery match="relic26-r7*" cols="2" >}}
 
@@ -293,19 +293,19 @@ Fantàstic! M'he tret de sobre una de les cartes que més em complicava la parti
 
 El temps límit de la ronda ja fa estona que s'ha acabat i el jutge ens diu que només disposem de tres torns addicionals per decidir el guanyador. Si no aconseguim acabar la partida, l'enfrontament acabarà en empat.
 
-En Martino té molt pocs recursos. Durant els últims torns ha tingut un {{< cardname "Nethergoyf" "Nethergoyf" >}} i un {{< cardname "Fear of Missing Out" "FOMO" >}} a la taula, mentre que jo he anat fent créixer {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} aprofitant el _blink_ del meu propi {{< cardname "Rest in Peace" "Rest in Peace" >}}. Les seves criatures, però, han anat bloquejant els atacs i no aconsegueixo tancar la partida.
+En Martino té molt pocs recursos. Durant els últims torns ha tingut un {{< cardname "Nethergoyf" "Nethergoyf" >}} i un {{< cardname "Fear of Missing Out" "FOMO" >}} a la taula, mentre que jo he anat fent créixer {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} aprofitant el _blink_ del meu propi {{< cardname "Rest in Peace" "Rest in Peace" >}}. Les seves criatures, però, han anat bloquejant els atacs i no aconsegueixo tancar la partida.
 
 Arribem a l'últim torn.
 
-El rival només té un {{< cardname "Fear of Missing Out" "FOMO" >}} al camp de batalla i jo tinc una {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} 4/4. Ell està a 6 punts de vida.
+El rival només té un {{< cardname "Fear of Missing Out" "FOMO" >}} al camp de batalla i jo tinc una {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} 4/4. Ell està a 6 punts de vida.
 
 Al final del seu torn faig _surveil_ i veig que la primera carta de la biblioteca és un {{< cardname "Lightning Bolt" "Bolt" >}}.
 
 Dubto una mica. Però finalment decideixo deixar-lo a sobre.
 
-Robo el {{< cardname "Lightning Bolt" "Bolt" >}}. Ataco amb {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} i, amb la seva habilitat, exilio el {{< cardname "Fear of Missing Out" "FOMO" >}} del rival.
+Robo el {{< cardname "Lightning Bolt" "Bolt" >}}. Ataco amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i, amb la seva habilitat, exilio el {{< cardname "Fear of Missing Out" "FOMO" >}} del rival.
 
-Sense bloquejadors, la {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} connecta i el deixa a 2 punts de vida.
+Sense bloquejadors, la {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} connecta i el deixa a 2 punts de vida.
 
 I llavors li jugo el {{< cardname "Lightning Bolt" "Bolt" >}}.
 
@@ -323,13 +323,13 @@ Acabo el torneig amb **6 victòries i una sola derrota**, un balanç de **12-6 e
 
 Evidentment, una part important de la diferència és la baralla. La Budget Dino Whack de l'any passat era divertida i podia sorprendre algun rival, però no tenia les eines per competir consistentment contra les millors baralles del format. Domain Zoo és tota una altra història: la combinació de {{< cardname "Leyline of the Guildpact" "Leyline" >}} i {{< cardname "Scion of Draco" "Scion" >}} pot guanyar partides pràcticament per si sola, però també he pogut comprovar que la baralla té moltes altres maneres d'imposar-se.
 
-Els {{< cardname "Territorial Kavu" "Kavu" >}} són criatures molt eficients, {{< cardname "Leyline Binding" "Binding" >}} m'ha permès respondre a tota mena d'amenaces i {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} ha estat, probablement, una de les cartes que m'han donat més alegries durant el torneig.
+Els {{< cardname "Territorial Kavu" "Kavu" >}} són criatures molt eficients, {{< cardname "Leyline Binding" "Binding" >}} m'ha permès respondre a tota mena d'amenaces i {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} ha estat, probablement, una de les cartes que m'han donat més alegries durant el torneig.
 
-També mereixen una menció especial els {{< cardname "Obsidian Charmaw" "Charmaw" >}} del sideboard: la victòria contra Eldrazi, destruint terres una rere l'altra amb l'ajuda de {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}, ha estat una de les partides més satisfactòries del dia.
+També mereixen una menció especial els {{< cardname "Obsidian Charmaw" "Charmaw" >}} del sideboard: la victòria contra Eldrazi, destruint terres una rere l'altra amb l'ajuda de {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}}, ha estat una de les partides més satisfactòries del dia.
 
 També he après coses. La derrota contra en Thomas m'ha recordat que encara tinc molt marge de millora, especialment quan jugo contra rivals amb molta experiència. I l'error amb {{< cardname "Teferi, Time Raveler" "Teferi" >}} a l'última ronda demostra que fins i tot quan tens la partida relativament controlada és fàcil passar per alt alguna interacció important.
 
-Però també m'enduc una experiència molt positiva de l'última ronda. Haver identificat correctament la interacció de {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} amb {{< cardname "Consign to Memory" "Consign" >}} i haver defensat la jugada davant dels jutges, que finalment em van donar la raó, em fa pensar que vaig coneixent millor les subtileses de la baralla.
+Però també m'enduc una experiència molt positiva de l'última ronda. Haver identificat correctament la interacció de {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} amb {{< cardname "Consign to Memory" "Consign" >}} i haver defensat la jugada davant dels jutges, que finalment em van donar la raó, em fa pensar que vaig coneixent millor les subtileses de la baralla.
 
 I, sobretot, m'enduc aquell últim {{< cardname "Lightning Bolt" "Bolt" >}}! No se m'acut una manera gaire millor d'acabar el torneig: en l'últim torn disponible vaig trobar exactament la carta que necessitava i vaig aconseguir una victòria que em deixava amb un 6-1 i una quarta posició final.
 
