@@ -28,18 +28,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          path: bolt-the-bird
           fetch-depth: 0
+
+      - name: Check out hugo-leyline
+        uses: actions/checkout@v4
+        with:
+          repository: jordinebot/hugo-leyline
+          path: hugo-leyline
+
+      - name: Check out hugo-mtg-shortcodes
+        uses: actions/checkout@v4
+        with:
+          repository: jordinebot/hugo-mtg-shortcodes
+          path: hugo-mtg-shortcodes
 
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
-          go-version-file: go.mod
+          go-version-file: bolt-the-bird/go.mod
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
+          cache-dependency-path: bolt-the-bird/package-lock.json
 
       - name: Install Hugo
         run: |
@@ -48,6 +62,7 @@ jobs:
           sudo dpkg -i /tmp/hugo.deb
 
       - name: Install npm deps (Pagefind)
+        working-directory: bolt-the-bird
         run: npm ci
 
       - name: Setup Pages
@@ -65,18 +80,20 @@ jobs:
         run: echo "HUGO_NUMWORKERMULTIPLIER=1" >> "$GITHUB_ENV"
 
       - name: Build
+        working-directory: bolt-the-bird
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: hugo --minify --gc
 
       - name: Index with Pagefind
+        working-directory: bolt-the-bird
         run: npx pagefind --site public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: bolt-the-bird/public
 
   deploy:
     needs: build

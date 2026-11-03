@@ -4,6 +4,7 @@ defaultContentLanguageInSubdir = false
 title = "Bolt the Bird!"
 
 [module]
+  workspace = "hugo.work"
   [[module.imports]]
     path = "github.com/jordinebot/hugo-leyline"
   [[module.imports]]
