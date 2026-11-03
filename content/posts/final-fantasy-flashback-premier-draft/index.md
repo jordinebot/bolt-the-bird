@@ -40,9 +40,9 @@ So far, it has been my worst result and my least enjoyable Draft experience.
 
 I played the third Draft on the same day as the second one, hoping to reconcile myself with FIN, once again with Draftsmith enabled.
 
-This time I built a {{< mana "{U}{R}" >}} Izzet deck featuring creatures that grew whenever I cast spells with mana value 4 or greater, such as {{< cardname "Blazzing Bomb" >}} and {{< cardname "Sahagin" >}}, alongside a {{< cardname "The Regalia" >}} that proved decisive every time it hit the battlefield.
+This time I built a {{< mana "{U}{R}" >}} Izzet deck featuring creatures that grew whenever I cast spells with mana value 4 or greater, such as {{< cardname "Blazing Bomb" >}} and {{< cardname "Sahagin" >}}, alongside a {{< cardname "The Regalia" >}} that proved decisive every time it hit the battlefield.
 
-{{< combo "Blazzing Bomb" "Sahagin" "The Emperor of Palamecia" "The Regalia" >}}
+{{< combo "Blazing Bomb" "Sahagin" "The Emperor of Palamecia" "The Regalia" >}}
 
 This was by far the closest Draft, and the final 3–3 record reflects that. I think I could have won a couple more games (especially the [fourth one](https://www.17lands.com/history/43bbf62a03ef4514a75282cf07020ea0/3/0)) if I hadn't taken such a big risk on the final turn.
 

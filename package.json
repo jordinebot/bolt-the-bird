@@ -1,11 +1,14 @@
 {
   "name": "bolt-the-bird",
   "private": true,
-  "description": "Bolt the Bird — Magic: The Gathering blog. Pagefind indexes the rendered HTML after Hugo builds.",
+  "description": "Bolt the Bird \u2014 Magic: The Gathering blog. Pagefind indexes the rendered HTML after Hugo builds.",
   "scripts": {
     "build": "hugo --minify --gc && pagefind --site public",
     "serve": "hugo server",
-    "index": "pagefind --site public"
+    "index": "pagefind --site public",
+    "prepare:scryfall": "python3 ../hugo-mtg-shortcodes/scripts/prepare-scryfall.py --output data/scryfall.json",
+    "prebuild": "npm run prepare:scryfall",
+    "preserve": "npm run prepare:scryfall"
   },
   "devDependencies": {
     "pagefind": "^1.4.0"

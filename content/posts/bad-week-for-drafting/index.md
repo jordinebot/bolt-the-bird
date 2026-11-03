@@ -40,6 +40,6 @@ Today I played another SOS Draft, the sixth. The card picks led me toward {{< ma
 
 Looking back I'm not sure it was a good idea, but it was exciting. In the second-to-last game I held on for 15 turns against an opponent playing {{< mana "{W}{U}{R}" >}} Jeskai, despite their {{< cardname "Restoration Seminar" >}}. The last game was also quite close right up to the final moment. I had one life point left, a {{< cardname "Moment of Reckoning" >}} left me with nothing on the board except lands, and my opponent was at 8 life with 4 creatures. I had a glimmer of hope thanks to a {{< cardname "Lorehold, the Historian" >}} to which I was able to give vigilance and lifelink... but it wasn't enough.
 
-{{< combo "Dig Site Inventorian" "Practiced Offence" "Lorehold, the Historian" >}}
+{{< combo "Dig Site Inventory" "Practiced Offense" "Lorehold, the Historian" >}}
 
 Another Draft for {{< gems 250>}} per {{< draft-token 1 >}}. Next week there's a Phantom Draft (_phantom_ means you don't keep the cards you drafted when it ends) for Foundations with free entry, so I'll use it to practice.

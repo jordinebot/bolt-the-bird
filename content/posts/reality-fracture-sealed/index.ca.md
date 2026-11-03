@@ -15,9 +15,9 @@ Sigui com sigui, no és un format que jugui habitualment, però com que el Play 
 
 ### {{< set-name "FRA" "Reality Fracture" >}} Sealed 1
 
-En el primer Sealed vaig construir una [baralla Jund](https://www.17lands.com/deck/6b53648b92e7461b9b88027db2fb2a95/0?view=deck), que no em semblava del tot dolenta: tenia removal amb {{< cardname "Last Grasp|FRA" >}}, {{< cardname "Silence the Echo|FRA" >}}, {{< cardname "Wrath of the Bloodmane|FRA" >}}, i altres... Tenia ramp amb {{< cardname "Carnivorous Cultuvator|FRA" >}}, {{< cardname "Way of the Paradox|FRA" >}}, {{< cardname "Konstrari Improviser|FRA" >}}... i fins i tot bons pay-offs: {{< cardname "Ghalta the Unstoppable|FRA" >}} i 2 {{< cardname "Craftwork Crusher|FRA" >}}.
+En el primer Sealed vaig construir una [baralla Jund](https://www.17lands.com/deck/6b53648b92e7461b9b88027db2fb2a95/0?view=deck), que no em semblava del tot dolenta: tenia removal amb {{< cardname "Last Gasp|FRA" >}}, {{< cardname "Silence the Echo|FRA" >}}, {{< cardname "Wrath of the Bloodmane|FRA" >}}, i altres... Tenia ramp amb {{< cardname "Carnivorous Cultivator|FRA" >}}, {{< cardname "Way of the Paradox|FRA" >}}, {{< cardname "Konstrari Improviser|FRA" >}}... i fins i tot bons pay-offs: {{< cardname "Ghalta the Unstoppable|FRA" >}} i 2 {{< cardname "Craftwork Crusher|FRA" >}}.
 
-{{< combo "Last Grasp|FRA" "Way of the Paradox|FRA" "Konstrari Improviser|FRA" "Ghalta the Unstoppable|FRA" "Craftwork Crusher|FRA" >}}
+{{< combo "Last Gasp|FRA" "Way of the Paradox|FRA" "Konstrari Improviser|FRA" "Ghalta the Unstoppable|FRA" "Craftwork Crusher|FRA" >}}
 
 Però a l'hora de la veritat els resultats no van acompanyar. Suposo que el que va faltar va ser la capacitat de robar més cartes (tot i que també tenia la capacitat de crear uns quants {{< cardname "Jace|TFRA" >}}). A la primera partida vaig estar aguantant força bé, fins i tot portant la iniciativa als primers torns, però em vaig quedar sense gas al 6è torn i vaig robar 4 terres en els meus darrers 5 torns.
 

@@ -23,11 +23,11 @@ El motiu principal pel qual l'any passat em vaig engrescar a viatjar fins a Toul
 
 Aquest cop m'he presentat al torneig amb una baralla [Domain Zoo](https://mtgdecks.net/Modern/domain-aggro). És un arquetip que m'agrada molt (també en jugo una versió a Pauper) i, en general, les baralles de molts colors son les meves preferides.Òbviament és una baralla molt més competitiva que la de l'any passat, que combina criatures molt eficients amb una bona quantitat d'interacció i que pot tenir sortides realment explosives gràcies al combo de {{< cardname "Leyline of the Guildpact|MKM" >}} i {{< cardname "Scion of Draco|MH2" >}}.
 
-{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer|MH2" "Phelia, Exhuberant Shepherd" >}}
+{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer|MH2" "Phelia, Exuberant Shepherd" >}}
 
 La idea és força senzilla: un cop tenim Domain podem jugar {{< cardname "Scion of Draco" "Scion" >}} per només {{< mana "2" >}} que dóna a les nostres criatures múltiples habilitats, com _hexproof_, _lifelink_, _vigilance_, _trample_ o _first strike_ (o totes, si tenim {{< cardname "Leyline of the Guildpact|MKM" "Leyline" >}}!). A més, {{< cardname "Territorial Kavu|MH2" >}} es converteix en una criatura 5/5 per només {{< mana "{R}{G}" >}}.
 
-Però la baralla també té un pla de joc més interactiu, amb {{< cardname "Lightning Bolt|REV" >}}, {{< cardname "Leyline Binding|DMU" >}} i criatures com {{< cardname "Phelia, Exuberant Shepherd|MH3" >}}, que permeten respondre a les amenaces del rival mentre anem construint la nostra pròpia taula.
+Però la baralla també té un pla de joc més interactiu, amb {{< cardname "Lightning Bolt|3ED" >}}, {{< cardname "Leyline Binding|DMU" >}} i criatures com {{< cardname "Phelia, Exuberant Shepherd|MH3" >}}, que permeten respondre a les amenaces del rival mentre anem construint la nostra pròpia taula.
 
 {{< deck id="domain-zoo-relic-fest-2026" >}}
 
@@ -111,7 +111,7 @@ Cap dels dos tenim {{< cardname "Leyline of the Guildpact" "Leyline" >}} al come
 
 #### Partida 2
 
-Per al sideboard faig alguns canvis, traient cartes com {{< cardname "Lightning Bolt" "Bolt" >}}, {{< cardname "Ragavan, Nimble Pilferer" "Ragavan" >}} o {{< cardname "Stubborn Denial" >}} i afegint {{< cardname "Wear/Tear" >}} i {{< cardname "Mystical Dispute" "Dispute" >}}. Un detall curiós: el rival portava una guia de sideboard que consultava al final de cada partida per decidir quines cartes havia de posar i treure. No és mala idea, especialment en un format amb tants arquetips diferents com Modern. Em pregunto si seria la guia que Pleyboy va compartir fa uns dies al Discord de Domain Zoo...
+Per al sideboard faig alguns canvis, traient cartes com {{< cardname "Lightning Bolt" "Bolt" >}}, {{< cardname "Ragavan, Nimble Pilferer" "Ragavan" >}} o {{< cardname "Stubborn Denial" >}} i afegint {{< cardname "Wear // Tear" >}} i {{< cardname "Mystical Dispute" "Dispute" >}}. Un detall curiós: el rival portava una guia de sideboard que consultava al final de cada partida per decidir quines cartes havia de posar i treure. No és mala idea, especialment en un format amb tants arquetips diferents com Modern. Em pregunto si seria la guia que Pleyboy va compartir fa uns dies al Discord de Domain Zoo...
 
 La segona partida és força més interessant. El rival va dominant bona part de l'enfrontament i aconsegueix posar en joc {{< cardname "Leyline of the Guildpact" "Leyline" >}} al quart torn. També té un {{< cardname "Scion of Draco" "Scion" >}} que per tant està _full equipped_.
 
@@ -255,7 +255,7 @@ La segona partida és molt més ajustada i agònica. Ell juga una carta nova de 
 
 Aquesta criatura em va fent mal de mica en mica, de manera agònica. Gràcies al meu {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} en joc, la criatura es manté 1/2 durant tota la partida i jo dubto en diverses ocasions si val la pena gastar un {{< cardname "Lightning Bolt" "Bolt" >}} en una criatura aparentment tan inofensiva... jo intento respondre atacant amb {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}, tot i que no tinc permanents especialment útils per fer _blink_.
 
-La partida avança lentament, amb tots dos intentant trobar la manera de trencar l'equilibri. Ens anem eliminant totes les amenaces l'un a l'altre, excepte l'1/2. Mirant ara a posteriori el bloc de notes amb l'evolució de les meves vides veig una seqüència de 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 2... i m'adono que hauria d'haver disparat el {{< cardname "Lightning Bolt|REV" "Bolt" >}} que tenia a la mà.
+La partida avança lentament, amb tots dos intentant trobar la manera de trencar l'equilibri. Ens anem eliminant totes les amenaces l'un a l'altre, excepte l'1/2. Mirant ara a posteriori el bloc de notes amb l'evolució de les meves vides veig una seqüència de 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 2... i m'adono que hauria d'haver disparat el {{< cardname "Lightning Bolt|3ED" "Bolt" >}} que tenia a la mà.
 
 Finalment, quan sembla que encara podria tenir alguna possibilitat de guanyar, em remata ell a mi amb un {{< cardname "Lightning Bolt" "Bolt" >}}.
 

@@ -23,13 +23,13 @@ In the second match my opponent was playing {{< mana "{U}{R}" >}} Izzet Artifact
 
 {{< combo "Futurist Forge" "The Vision" "HYDRA Assault Robot" >}}
 
-The third match was against {{< mana "{B}" >}} _Villains_, where an unanswered {{< cardname "Arnim Zila, Bio-Fanatic" >}} kept producing {{< cardname "Villain|TMSH" >}} tokens until I was eventually overwhelmed.
+The third match was against {{< mana "{B}" >}} _Villains_, where an unanswered {{< cardname "Arnim Zola, Bio-Fanatic" >}} kept producing {{< cardname "Villain|TMSH" >}} tokens until I was eventually overwhelmed.
 
-{{< card "Arnim Zila, Bio-Fanatic" >}}
+{{< card "Arnim Zola, Bio-Fanatic" >}}
 
 The final match, against a {{< mana "{W}{G}" >}} Selesnya deck, played out a little differently, but I think it actually went even worse. My opponent gained a lot of life while deploying increasingly larger creatures. I managed to keep them under control for a while with removal such as {{< cardname "Spider-Woman, Secret Agent" >}} and {{< cardname "Web Up" >}}, but eventually their board became too much to handle.
 
-{{< combo "Iron Man Armor" "She-Hulk Jade Defender" "The Thing, Ben Grimm" >}}
+{{< combo "Iron Man Armor" "She-Hulk, Jade Defender" "The Thing, Ben Grimm" >}}
 
 Maybe I wasn't aggressive enough in the second and third matches, allowing decks with stronger late games to take over. Maybe I needed more interaction, or perhaps another combat trick or two.
 

@@ -39,6 +39,6 @@ Avui he jugat un altre Draft de SOS, el sisè. La tria de cartes m'ha portat cap
 
 Mirat amb perspectiva no sé si ha sigut una bona idea, però ha sigut emocionant. En la penúltima partida he resistit molt bé durant 15 torns amb un rival que jugava {{< mana "{W}{U}{R}" >}} Jeskai, tot i el seu {{< cardname "Restoration Seminar" >}}. I la última partida també ha sigut força igualada, i fins a l'últim moment en què em quedava un punt de vida, i un {{< cardname "Moment of Reckoning" >}} m'havia deixat sense res a la taula excepte terres i el rival a 8 de vida amb 4 criatures he tingut un bri l'esperança gràcies a un {{< cardname "Lorehold, the Historian" >}} al qual he pogut donar vigilància i lifelink... però no ha sigut suficient.
 
-{{< combo "Dig Site Inventorian" "Practiced Offence" "Lorehold, the Historian" >}}
+{{< combo "Dig Site Inventory" "Practiced Offense" "Lorehold, the Historian" >}}
 
 Un altre Draft de {{< gems 250>}} per {{< draft-token 1 >}}. La setmana que ve hi ha un Phantom Draft (_phantom_ vol dir que no et quedes les cartes que tries quan s'acaba el Draft) de Foundations amb entrada gratuïta, així que l'utilitzaré per a practicar.

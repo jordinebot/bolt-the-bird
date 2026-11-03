@@ -35,9 +35,9 @@ El meu pitjor resultat i experiència, fins ara, en un Draft...
 
 {{< draft index="3" set="FIN" colors="{U}{R}" winrate="50" result="3-3" seventeenlands="43bbf62a03ef4514a75282cf07020ea0" >}}
 
-El tercer Draft el vaig jugar el mateix dia que el segon, en un intent de reconciliar-me amb FIN, un altre cop amb Draftsmith activat. Vaig muntar una baralla {{< mana "{U}{R}" >}} Izzet amb criatures que creixien en jugar _spells_ amb valor de manà 4 o més, com {{< cardname "Blazzing Bomb" >}} i {{< cardname "Sahagin" >}} i un {{< cardname "The Regalia" >}} que va ser determinant cada vegada que va entrar al camp de batalla.
+El tercer Draft el vaig jugar el mateix dia que el segon, en un intent de reconciliar-me amb FIN, un altre cop amb Draftsmith activat. Vaig muntar una baralla {{< mana "{U}{R}" >}} Izzet amb criatures que creixien en jugar _spells_ amb valor de manà 4 o més, com {{< cardname "Blazing Bomb" >}} i {{< cardname "Sahagin" >}} i un {{< cardname "The Regalia" >}} que va ser determinant cada vegada que va entrar al camp de batalla.
 
-{{< combo "Blazzing Bomb" "Sahagin" "The Emperor of Palamecia" "The Regalia" >}}
+{{< combo "Blazing Bomb" "Sahagin" "The Emperor of Palamecia" "The Regalia" >}}
 
 Aquest va ser el Draft més igualat, i el resultat final (3-3) ho reflecteix bé. Crec que hauria pogut guanyar un parell de partides més (especialment la [quarta](https://www.17lands.com/history/43bbf62a03ef4514a75282cf07020ea0/3/0)) si no hagués arriscat tant a l'últim torn. Vaig decidir atacar, estant a 2 de vida, amb un {{< cardname "Sahagin" >}} 4/6 per tenir letal el següent torn, sense veure que l'oponent podia usar la seva {{< cardname "Rydia, Summoner of Mist" >}} per retornar un {{< cardname "Summon: G.F. Ifrit" >}} amb _haste_ i superar el meu únic {{< cardname "Robot Warrior|TFIN" >}} en defensa.
 

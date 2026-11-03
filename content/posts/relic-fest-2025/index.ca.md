@@ -85,7 +85,7 @@ Torno a començar jo i penso que si em torna a sortir una mà com a la primera p
 
 Última ronda abans de dinar. El meu rival, Ioic (nom curiós), juga [Rakdos Burn](https://mtgdecks.net/Modern/rakdos-burn). A aquestes alçades del torneig, el [sistema suís](https://ca.wikipedia.org/wiki/Sistema_su%C3%ADs) va fent la seva tasca i els emparellaments que tinc son amb rivals que porten una ratxa de derrotes similars a la meva.
 
-{{< combo "Bump in the Night" "Boltwave" "Ragavan, Nimble Pilferrer" >}}
+{{< combo "Bump in the Night" "Boltwave" "Ragavan, Nimble Pilferer" >}}
 
 #### Partida 1
 
@@ -117,7 +117,7 @@ Començo jo amb una mà decent. Al tercer torn aconsegueixo baixar un Imperiosau
 
 Jugo contra en Mathieu que duu una [Esper Midrange/Control](https://mtgdecks.net/Modern/esper-control). Inicialment sospito que podria ser amb Goryo's i Atraxa, però no apareixen en cap moment, per sort.
 
-{{< combo "Quantum Ridler" "Orcish Bowmasters" "Tamiyo, Inquisitive Student" >}}
+{{< combo "Quantum Riddler" "Orcish Bowmasters" "Tamiyo, Inquisitive Student" >}}
 
 #### Partida 1
 
@@ -153,7 +153,7 @@ Comença ell i surt fort, baixant diversos [lords](https://scryfall.com/search?q
 
 Última ronda contra un noi jove que juga [Esper Blink](https://mtgdecks.net/Modern/esper-phelia). Un emparellament difícil per tancar el torneig...
 
-{{< combo "Ephemerate" "Overlord of the Balemurk" "Phelia, Exhuberant Shepherd" >}}
+{{< combo "Ephemerate" "Overlord of the Balemurk" "Phelia, Exuberant Shepherd" >}}
 
 #### Partida 1
 

@@ -86,7 +86,7 @@ I am on the play again and I think that if I get a hand like in game one, I have
 
 Last round before lunch. My opponent, Ioic, is playing [Rakdos Burn](https://mtgdecks.net/Modern/rakdos-burn). At this point in the tournament, the [Swiss system](https://en.wikipedia.org/wiki/Swiss-system_tournament) is doing its job, and the pairings I am getting are against opponents on a losing streak similar to mine.
 
-{{< combo "Bump in the Night" "Boltwave" "Ragavan, Nimble Pilferrer" >}}
+{{< combo "Bump in the Night" "Boltwave" "Ragavan, Nimble Pilferer" >}}
 
 #### Game 1
 
@@ -118,7 +118,7 @@ I start with a decent hand. On turn three I manage to land a 14/14 Imperiosaur. 
 
 I play against Mathieu, who is on [Esper Midrange/Control](https://mtgdecks.net/Modern/esper-control). At first I suspect it might be the Goryo's and Atraxa version, but fortunately neither of them shows up at any point.
 
-{{< combo "Quantum Ridler" "Orcish Bowmasters" "Tamiyo, Inquisitive Student">}}
+{{< combo "Quantum Riddler" "Orcish Bowmasters" "Tamiyo, Inquisitive Student">}}
 
 #### Game 1
 
@@ -154,7 +154,7 @@ He starts and comes out strong, playing several [lords](https://scryfall.com/sea
 
 Final round against a young guy playing [Esper Blink](https://mtgdecks.net/Modern/esper-phelia). A tough matchup to end the tournament...
 
-{{< combo "Ephemerate" "Overlord of the Balemurk" "Phelia, Exhuberant Shepherd" >}}
+{{< combo "Ephemerate" "Overlord of the Balemurk" "Phelia, Exuberant Shepherd" >}}
 
 #### Game 1
 

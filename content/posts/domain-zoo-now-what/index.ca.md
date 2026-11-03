@@ -11,7 +11,7 @@ L'any passat m'ho vaig passar molt bé al [torneig de Modern](/ca/posts/relic-fe
 
 En els últims mesos he destinat bona part del meu pressupost per a MTG a preparar una baralla meta, en particular: Domain Zoo. En essència, Domain Zoo és una baralla _aggro_ amb una base de manà que intenta tenir els 5 tipus de terres bàsiques ([domain](https://mtg.fandom.com/wiki/Domain)) tan aviat com sigui possible i juga criatures molt eficients (alt poder i baix cost) que s'aprofiten d'aquesta sinergia amb les terres.
 
-{{< combo "Wild Nacatl" "Ragavan, Nimble Pilferrer" "Nishoba Brawler" "Territorial Kavu" >}}
+{{< combo "Wild Nacatl" "Ragavan, Nimble Pilferer" "Nishoba Brawler" "Territorial Kavu" >}}
 
 Amb l'arribada de {{< cardname "Leyline of the Guildpact" >}} a {{< set-name "MKM" "Murders at Karlov Manor" >}}, amb una bona mà, Domain Zoo disposa dels 5 tipus bàsics des del primer torn i el combo amb {{< cardname "Scion of Draco" >}}, una 4/4 voladora que jugues per {{< mana "2" >}} i que dóna vigilància, _hexproof_, _lifelink_, _first strike_ i _trample_ a totes les teves criatures; havia situat Domain Zoo entre les baralles més poderoses del format.
 
@@ -25,7 +25,7 @@ Com a conseqüència, Domain Zoo ha passat d'ocupar aproximadament un 8% del met
 
 ## Així doncs: ara què?
 
-He vist versions de Domain Zoo jugant {{< cardname "Kroxa, Titan of Death's Hunger" >}} intentant minimitzar els canvis, d'altres que viren cap a opcions més _midrange_ amb {{< cardname "Psychic Frog" >}}, {{< cardname "Quantum Riddle" >}} i/o {{< cardname "Orcish Bowmasters" >}}. Fins i tot hi ha qui ha portat les sobres de Boros Energy (amb diferència la baralla Modern més afectada pel _ban_ de Phlage) cap a Domain Zoo amb força èxit!
+He vist versions de Domain Zoo jugant {{< cardname "Kroxa, Titan of Death's Hunger" >}} intentant minimitzar els canvis, d'altres que viren cap a opcions més _midrange_ amb {{< cardname "Psychic Frog" >}}, {{< cardname "Quantum Riddler" >}} i/o {{< cardname "Orcish Bowmasters" >}}. Fins i tot hi ha qui ha portat les sobres de Boros Energy (amb diferència la baralla Modern més afectada pel _ban_ de Phlage) cap a Domain Zoo amb força èxit!
 
 {{< combo "Guide of Souls" "Ocelot Pride" "Ajani, Nacatl Pariah" >}}
 

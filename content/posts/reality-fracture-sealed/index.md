@@ -15,9 +15,9 @@ In any case, it is not a format I play regularly, but since the Play Bundle incl
 
 ### {{< set-name "FRA" "Reality Fracture" >}} Sealed 1
 
-In my first Sealed I built a [Jund deck](https://www.17lands.com/deck/6b53648b92e7461b9b88027db2fb2a95/0?view=deck), which did not seem all that bad to me: it had removal with {{< cardname "Last Grasp|FRA" >}}, {{< cardname "Silence the Echo|FRA" >}}, {{< cardname "Wrath of the Bloodmane|FRA" >}}, and more... It had ramp with {{< cardname "Carnivorous Cultuvator|FRA" >}}, {{< cardname "Way of the Paradox|FRA" >}}, {{< cardname "Konstrari Improviser|FRA" >}}... and even some good payoffs: {{< cardname "Ghalta the Unstoppable|FRA" >}} and 2 {{< cardname "Craftwork Crusher|FRA" >}}.
+In my first Sealed I built a [Jund deck](https://www.17lands.com/deck/6b53648b92e7461b9b88027db2fb2a95/0?view=deck), which did not seem all that bad to me: it had removal with {{< cardname "Last Gasp|FRA" >}}, {{< cardname "Silence the Echo|FRA" >}}, {{< cardname "Wrath of the Bloodmane|FRA" >}}, and more... It had ramp with {{< cardname "Carnivorous Cultivator|FRA" >}}, {{< cardname "Way of the Paradox|FRA" >}}, {{< cardname "Konstrari Improviser|FRA" >}}... and even some good payoffs: {{< cardname "Ghalta the Unstoppable|FRA" >}} and 2 {{< cardname "Craftwork Crusher|FRA" >}}.
 
-{{< combo "Last Grasp|FRA" "Way of the Paradox|FRA" "Konstrari Improviser|FRA" "Ghalta the Unstoppable|FRA" "Craftwork Crusher|FRA" >}}
+{{< combo "Last Gasp|FRA" "Way of the Paradox|FRA" "Konstrari Improviser|FRA" "Ghalta the Unstoppable|FRA" "Craftwork Crusher|FRA" >}}
 
 But when it came down to it, the results did not follow. I suppose what it was missing was the ability to draw more cards (even though I could also create a few {{< cardname "Jace|TFRA" >}}). In the first game I was holding up quite well, even taking the initiative in the early turns, but I ran out of gas on turn 6 and drew 4 lands in my last 5 turns.
 

@@ -23,3 +23,6 @@ Thumbs.db
 
 # Claude Code local settings
 .claude/settings.local.json
+
+# Generated Scryfall bulk index
+/data/scryfall.json

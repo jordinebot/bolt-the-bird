@@ -24,11 +24,11 @@ The main reason I got excited about travelling to Toulouse last year to play in 
 
 This time I entered the tournament with [Domain Zoo](https://mtgdecks.net/Modern/domain-aggro). It's an archetype I really like (I also play a version in Pauper), and multicolour decks are generally my favourites. It's obviously much more competitive than last year's deck: it combines very efficient creatures with plenty of interaction and can have explosive starts thanks to the combo of {{< cardname "Leyline of the Guildpact|MKM" >}} and {{< cardname "Scion of Draco|MH2" >}}.
 
-{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer|MH2" "Phelia, Exhuberant Shepherd" >}}
+{{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer|MH2" "Phelia, Exuberant Shepherd" >}}
 
 The idea is simple: once we have Domain, we can cast {{< cardname "Scion of Draco" "Scion" >}} for just {{< mana "2" >}}. It gives our creatures several abilities, such as _hexproof_, _lifelink_, _vigilance_, _trample_ or _first strike_ (or all of them if we have {{< cardname "Leyline of the Guildpact|MKM" "Leyline" >}}!). On top of that, {{< cardname "Territorial Kavu|MH2" >}} becomes a 5/5 for only {{< mana "{R}{G}" >}}.
 
-The deck also has a more interactive game plan, with {{< cardname "Lightning Bolt|REV" >}}, {{< cardname "Leyline Binding|DMU" >}} and creatures like {{< cardname "Phelia, Exuberant Shepherd|MH3" >}} letting me answer my opponent's threats while building my own board.
+The deck also has a more interactive game plan, with {{< cardname "Lightning Bolt|3ED" >}}, {{< cardname "Leyline Binding|DMU" >}} and creatures like {{< cardname "Phelia, Exuberant Shepherd|MH3" >}} letting me answer my opponent's threats while building my own board.
 
 {{< deck id="domain-zoo-relic-fest-2026" >}}
 
@@ -112,7 +112,7 @@ Neither of us has {{< cardname "Leyline of the Guildpact" "Leyline" >}} to start
 
 #### Game 2
 
-I make some sideboard changes, taking out cards like {{< cardname "Lightning Bolt" "Bolt" >}}, {{< cardname "Ragavan, Nimble Pilferer" "Ragavan" >}} and {{< cardname "Stubborn Denial" >}} and bringing in {{< cardname "Wear/Tear" >}} and {{< cardname "Mystical Dispute" "Dispute" >}}. One curious detail: my opponent had a sideboard guide that he checked after each game to decide what to bring in and take out. Not a bad idea, especially in a format with as many different archetypes as Modern. I wonder if it was the guide Pleyboy shared a few days ago on the Domain Zoo Discord...
+I make some sideboard changes, taking out cards like {{< cardname "Lightning Bolt" "Bolt" >}}, {{< cardname "Ragavan, Nimble Pilferer" "Ragavan" >}} and {{< cardname "Stubborn Denial" >}} and bringing in {{< cardname "Wear // Tear" >}} and {{< cardname "Mystical Dispute" "Dispute" >}}. One curious detail: my opponent had a sideboard guide that he checked after each game to decide what to bring in and take out. Not a bad idea, especially in a format with as many different archetypes as Modern. I wonder if it was the guide Pleyboy shared a few days ago on the Domain Zoo Discord...
 
 The second game is much more interesting. My opponent is in control for much of it and manages to play {{< cardname "Leyline of the Guildpact" "Leyline" >}} on turn four. He also has a {{< cardname "Scion of Draco" "Scion" >}}, fully equipped as a result.
 
@@ -256,7 +256,7 @@ The second game is much closer and more painful. He plays a new Reality Fracture
 
 The creature slowly chips away at me. Thanks to my {{< cardname "Rest in Peace|BIG" "Rest in Peace" >}} on the battlefield, it stays a 1/2 throughout the game, and I hesitate several times over whether to spend a {{< cardname "Lightning Bolt" "Bolt" >}} on such an apparently harmless creature. I try to answer by attacking with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}, even though I don't have any especially useful permanents to blink.
 
-The game drags on as we both look for a way to break the stalemate. We remove each other's threats, except for the 1/2. Looking back at my notes of my life total, I see the sequence 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 2... and realize I should have fired the {{< cardname "Lightning Bolt|REV" "Bolt" >}} I had in hand.
+The game drags on as we both look for a way to break the stalemate. We remove each other's threats, except for the 1/2. Looking back at my notes of my life total, I see the sequence 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 2... and realize I should have fired the {{< cardname "Lightning Bolt|3ED" "Bolt" >}} I had in hand.
 
 Just when it seems I might still have a chance to win, he finishes me off with a {{< cardname "Lightning Bolt" "Bolt" >}}.
 

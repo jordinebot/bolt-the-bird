@@ -12,7 +12,7 @@ Last year I had a great time at the [Modern tournament](/posts/relic-fest-2025) 
 
 Over the past few months I've put a good chunk of my MTG budget toward building a meta deck, specifically: Domain Zoo. At its core, Domain Zoo is an _aggro_ deck with a mana base that tries to have all 5 basic land types ([domain](https://mtg.fandom.com/wiki/Domain)) in play as early as possible, and plays very efficient creatures (high power, low cost) that take advantage of that synergy.
 
-{{< combo "Wild Nacatl" "Ragavan, Nimble Pilferrer" "Nishoba Brawler" "Territorial Kavu" >}}
+{{< combo "Wild Nacatl" "Ragavan, Nimble Pilferer" "Nishoba Brawler" "Territorial Kavu" >}}
 
 With the arrival of {{< cardname "Leyline of the Guildpact" >}} in {{< set-name "MKM" "Murders at Karlov Manor" >}}, a good opening hand gives Domain Zoo all 5 basic land types on turn one. Pair that with {{< cardname "Scion of Draco" >}}, a 4/4 flyer you cast for {{< mana "2" >}} that grants vigilance, hexproof, lifelink, first strike, and trample to all your creatures, and Domain Zoo had firmly established itself among the most powerful decks in the format.
 
@@ -26,7 +26,7 @@ As a result, Domain Zoo has dropped from roughly 8% of the meta to below 2%, sig
 
 ## So: now what?
 
-I've seen versions of Domain Zoo running {{< cardname "Kroxa, Titan of Death's Hunger" >}} to minimize the changes, and others pivoting toward more _midrange_ builds with {{< cardname "Psychic Frog" >}}, {{< cardname "Quantum Riddle" >}} and/or {{< cardname "Orcish Bowmasters" >}}. Some players have even funneled Boros Energy leftovers (by far the Modern list that was hit the hardest by the Phlage ban) into Domain Zoo with great success!
+I've seen versions of Domain Zoo running {{< cardname "Kroxa, Titan of Death's Hunger" >}} to minimize the changes, and others pivoting toward more _midrange_ builds with {{< cardname "Psychic Frog" >}}, {{< cardname "Quantum Riddler" >}} and/or {{< cardname "Orcish Bowmasters" >}}. Some players have even funneled Boros Energy leftovers (by far the Modern list that was hit the hardest by the Phlage ban) into Domain Zoo with great success!
 
 {{< combo "Guide of Souls" "Ocelot Pride" "Ajani, Nacatl Pariah" >}}
 

@@ -19,12 +19,12 @@ En la segona partida el rival jugava {{< mana "{U}{R}" >}} Izzet Artifacts i, qu
 
 {{< combo "Futurist Forge" "The Vision" "HYDRA Assault Robot" >}}
 
-La tercera partida va ser contra {{< mana "{B}">}} _Villains_ i en aquest cas va ser un {{< cardname "Arnim Zila, Bio-Fanatic" >}} que no vaig poder eliminar que va crear un exèrcit de {{< cardname "Villain|TMSH" >}} Tokens que em va acabar passant pel damunt.
+La tercera partida va ser contra {{< mana "{B}">}} _Villains_ i en aquest cas va ser un {{< cardname "Arnim Zola, Bio-Fanatic" >}} que no vaig poder eliminar que va crear un exèrcit de {{< cardname "Villain|TMSH" >}} Tokens que em va acabar passant pel damunt.
 
-{{< card "Arnim Zila, Bio-Fanatic" >}}
+{{< card "Arnim Zola, Bio-Fanatic" >}}
 
 La última partida, contra una baralla {{< mana "{W}{G}" >}} Selesnya, fou la única una mica diferent, però crec que encara em va anar pitjor. El rival va guanyar força vides i va anar jugant algunes criatures grosses que, tot i que vaig poder mantenir a ratlla una estona amb el meu removal com {{< cardname "Spider-Woman, Secret Agent" >}} i {{< cardname "Web Up" >}} al final es van acabar imposant.
 
-{{< combo "Iron Man Armor" "She-Hulk Jade Defender" "The Thing, Ben Grimm" >}}
+{{< combo "Iron Man Armor" "She-Hulk, Jade Defender" "The Thing, Ben Grimm" >}}
 
 Potser en la segona i tercera partida no vaig ser prou agressiu i les baralles dels rivals, amb millor _late-game_ que la meva es van acabar imposant. Potser em va faltar encara més interacció o algun truc de combat. {{< cardname "King T'Challa" >}} va ser la única carta de la meva baralla que va marcar una mica la diferència. En fi, de tot se n'aprèn... però em sembla que abans de tornar-hi m'esperaré que comenci la [temporada de juliol]({{< relref "/arena/seasons/2026-07/" >}}) i es resetegin els rànkings...

@@ -20,12 +20,12 @@ Guanyo la primera partida contra Simic/Quandrix amb relativa facilitat. La segon
 
 Aquest cop el draft em porta cap a Whiterbloom, on l'estratègia recomanada s'anomena _Lifegain Swarm_: és a dir, guanyar vides creant moltes criatures petites. De totes maneres, crec que algunes de les cartes verdes que trio, com {{< cardname "Emil, Vastlands Roamer" >}} o {{< cardname "Additive Evolution" >}} son més pròpies de la baralla Quandrix... De totes maneres, sense entrar en detalls, aconsegueixo 3 còpies de {{< cardname "Bogwater Lumaret" >}} que és una peça clau de l'estratègia i unes quantes peces de _removal_ de manera que la baralla acaba resultant ser força funcional i aconsegueixo un 50% de victòries, que no està malament!
 
-{{< combo "Graple with Death" "Lluwen, Exchange Student" "Bogwater Lumaret" >}}
+{{< combo "Grapple with Death" "Lluwen, Exchange Student" "Bogwater Lumaret" >}}
 
 {{< draft index="3" set="SOS" colors="{W}{B}" winrate="57" result="4-3" seventeenlands="cf6f42ac51e84353aceefba2ab892a0b" >}}
 
-En aquest draft se'm presenten bones opcions en blanc, negre i vermell... i això em genera inquietud. En Limited sempre tinc por que si divergeixo a més de dos colors no tindré prou cartes per fer una baralla decent si l'opció de 3 colors no acaba resultant i m'he de quedar amb dos. Finalment però, amb l'ajuda de _Draftsmith_ acabo construint una altra baralla Orzhov/Silverquill millor que la que vaig fer en el primer draft, amb 4 còpies de {{< cardname "Digsite Inventory" >}}.
+En aquest draft se'm presenten bones opcions en blanc, negre i vermell... i això em genera inquietud. En Limited sempre tinc por que si divergeixo a més de dos colors no tindré prou cartes per fer una baralla decent si l'opció de 3 colors no acaba resultant i m'he de quedar amb dos. Finalment però, amb l'ajuda de _Draftsmith_ acabo construint una altra baralla Orzhov/Silverquill millor que la que vaig fer en el primer draft, amb 4 còpies de {{< cardname "Dig Site Inventory" >}}.
 
-{{< combo "Informed Inkwright" "Snooping Page" "Digsite Inventory" "Practiced Offense" >}}
+{{< combo "Informed Inkwright" "Snooping Page" "Dig Site Inventory" "Practiced Offense" >}}
 
 En una partida d'un draft anterior em vaig adonar de com de potent és {{< cardname "Snooping Page" >}} en aquest baralla. Quan el fas créixer es fa imbloquejable i a sobre roba cartes! Aquest draft, ja amb una mica més d'experiència, el vaig gaudir molt més i començo a entendre perquè diuen que _Limited_ és el format més divertit. Al final vaig aconseguir superar el 50% de victòries amb un 4-3, que potser hauria pogut ser fins i tot un 5-3 si no hagués comès l'error de fer un [atac suïcida](https://www.17lands.com/history/cf6f42ac51e84353aceefba2ab892a0b/4/0/141) que em deixava venut a la última partida, tenint un {{< cardname "Restoration Seminar" >}} a la mà que hauria pogut jugar al següent torn i potser conduir-me a la victòria...
