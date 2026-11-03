@@ -7,9 +7,7 @@ credit: [Donato Giancola]
 creditLink: [https://donatoarts.com/]
 ---
 
-L'any passat vaig anar al [Relic Fest](https://getpaird.io/relicfest?lang=en) de Toulouse i vaig jugar el meu primer torneig de Modern després de molts anys sense competir a Magic. Hi vaig anar amb una baralla [Budget Dino Whack](https://www.mtggoldfish.com/articles/budget-magic-100-dino-whack-modern), amb unes expectatives força modestes: aprendre, passar-m'ho bé i, amb una mica de sort, guanyar alguna partida.
-
-El resultat va ser un 1-7, que em van deixar en la posició 134 de 144 participants. Però l'experiència va ser molt positiva i em vaig quedar amb ganes de repetir.
+L'any passat vaig anar al [Relic Fest](https://getpaird.io/relicfest?lang=en) de Toulouse i vaig jugar el meu primer torneig de Modern després de molts anys sense competir a Magic. Hi vaig anar amb una baralla [Budget Dino Whack](https://www.mtggoldfish.com/articles/budget-magic-100-dino-whack-modern), amb unes expectatives força modestes: aprendre, passar-m'ho bé i, amb una mica de sort, guanyar alguna partida. El resultat va ser un 1-7, que em va deixar en la posició 134 de 144 participants, però l'experiència va ser molt positiva i em vaig quedar amb ganes de repetir.
 
 Aquest any, doncs, he tornat al Relic Fest per participar al Modern Main Event, que se celebrava ahir diumenge 1 de novembre. I les coses han anat força diferent!
 
@@ -321,26 +319,18 @@ Un altre xicot que hi havia assegut al meu costat com a espectador em va fer ado
 
 ## Conclusions
 
-Acabo el torneig amb **6 victòries i una sola derrota**, un balanç de **12-6 en partides** i una [quarta posició](https://getpaird.io/tournaments/modern-main-event-8gvZ3V/live) a la classificació final!
+Acabo el torneig amb **6 victòries i una sola derrota**, un balanç de **12-6 en partides** i una [quarta posició](https://getpaird.io/tournaments/modern-main-event-8gvZ3V/live) a la classificació final! Sincerament, no m'ho esperava: l'any passat vaig acabar en la posició 134 de 144 participants, amb una victòria i set derrotes, mentre que aquest any he guanyat sis dels set enfrontaments.
 
-Sincerament, no m'ho esperava.
+Evidentment, una part important de la diferència és la baralla. La Budget Dino Whack de l'any passat era divertida i podia sorprendre algun rival, però no tenia les eines per competir consistentment contra les millors baralles del format. Domain Zoo és tota una altra història: la combinació de {{< cardname "Leyline of the Guildpact" "Leyline" >}} i {{< cardname "Scion of Draco" "Scion" >}} pot guanyar partides pràcticament per si sola, però també he pogut comprovar que la baralla té moltes altres maneres d'imposar-se.
 
-L'any passat vaig acabar en la posició 134 de 144 participants, amb una victòria i set derrotes. Aquest any he guanyat sis dels set enfrontaments.
+Els {{< cardname "Territorial Kavu" "Kavu" >}} són criatures molt eficients, {{< cardname "Leyline Binding" "Binding" >}} m'ha permès respondre a tota mena d'amenaces i {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} ha estat, probablement, una de les cartes que m'han donat més alegries durant el torneig.
 
-Evidentment, una part important de la diferència és la baralla. La Budget Dino Whack de l'any passat era divertida i podia sorprendre algun rival, però no tenia les eines per competir consistentment contra les millors baralles del format.
-
-Domain Zoo és tota una altra història.
-
-La combinació de {{< cardname "Leyline of the Guildpact" "Leyline" >}} i {{< cardname "Scion of Draco" "Scion" >}} pot guanyar partides pràcticament per si sola, però també he pogut comprovar que la baralla té moltes altres maneres d'imposar-se. Els {{< cardname "Territorial Kavu" "Kavu" >}} són criatures molt eficients, {{< cardname "Leyline Binding" "Binding" >}} m'ha permès respondre a tota mena d'amenaces i {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} ha estat, probablement, una de les cartes que m'han donat més alegries durant el torneig.
-
-Menció especial per als {{< cardname "Obsidian Charmaw" "Charmaw" >}} del sideboard. La victòria contra Eldrazi, destruint terres una rere l'altra amb l'ajuda de {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}, ha estat una de les partides més satisfactòries del dia.
+També mereixen una menció especial els {{< cardname "Obsidian Charmaw" "Charmaw" >}} del sideboard: la victòria contra Eldrazi, destruint terres una rere l'altra amb l'ajuda de {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}, ha estat una de les partides més satisfactòries del dia.
 
 També he après coses. La derrota contra en Thomas m'ha recordat que encara tinc molt marge de millora, especialment quan jugo contra rivals amb molta experiència. I l'error amb {{< cardname "Teferi, Time Raveler" "Teferi" >}} a l'última ronda demostra que fins i tot quan tens la partida relativament controlada és fàcil passar per alt alguna interacció important.
 
 Però també m'enduc una experiència molt positiva de l'última ronda. Haver identificat correctament la interacció de {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} amb {{< cardname "Consign to Memory" "Consign" >}} i haver defensat la jugada davant dels jutges, que finalment em van donar la raó, em fa pensar que vaig coneixent millor les subtileses de la baralla.
 
-I, sobretot, m'enduc aquell últim {{< cardname "Lightning Bolt" "Bolt" >}}!
-
-La veritat és que no se m'acut una manera gaire millor d'acabar el torneig: en l'últim torn disponible, trobant exactament la carta que necessitava i aconseguint una victòria que em deixava amb un 6-1 i una quarta posició final.
+I, sobretot, m'enduc aquell últim {{< cardname "Lightning Bolt" "Bolt" >}}! No se m'acut una manera gaire millor d'acabar el torneig: en l'últim torn disponible vaig trobar exactament la carta que necessitava i vaig aconseguir una victòria que em deixava amb un 6-1 i una quarta posició final.
 
 **De quedar gairebé últim a acabar quart en només un any.**

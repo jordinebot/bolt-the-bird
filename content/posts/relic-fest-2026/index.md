@@ -8,9 +8,7 @@ creditLink: [https://donatoarts.com/]
 aiTranslated: true
 ---
 
-Last year I went to [Relic Fest](https://getpaird.io/relicfest?lang=en) in Toulouse and played my first Modern tournament after many years away from competitive Magic. I brought a [Budget Dino Whack](https://www.mtggoldfish.com/articles/budget-magic-100-dino-whack-modern) deck and had pretty modest expectations: learn, have fun and, with a bit of luck, win a game or two.
-
-I went 1-7 and finished 134th out of 144 players. But I had a great time and was eager to come back.
+Last year I went to [Relic Fest](https://getpaird.io/relicfest?lang=en) in Toulouse and played my first Modern tournament after many years away from competitive Magic. I brought a [Budget Dino Whack](https://www.mtggoldfish.com/articles/budget-magic-100-dino-whack-modern) deck and had pretty modest expectations: learn, have fun and, with a bit of luck, win a game or two. I went 1-7 and finished 134th out of 144 players, but I had a great time and was eager to come back.
 
 So this year I returned to Relic Fest to play the Modern Main Event, which took place yesterday, Sunday, November 1. And things went rather differently!
 
@@ -322,26 +320,18 @@ Another guy watching beside us also points out that I could have blinked my {{< 
 
 ## Conclusion
 
-I finish the tournament with **six wins and one loss**, a **12-6 game record**, and [fourth place](https://getpaird.io/tournaments/modern-main-event-8gvZ3V/live) in the final standings!
+I finish the tournament with **six wins and one loss**, a **12-6 game record**, and [fourth place](https://getpaird.io/tournaments/modern-main-event-8gvZ3V/live) in the final standings! Honestly, I never expected this: last year I finished 134th out of 144 players, with one win and seven losses, while this year I won six of my seven matches.
 
-Honestly, I never expected this.
+The deck is obviously a big part of the difference. Last year's Budget Dino Whack was fun and could catch an opponent off guard, but it didn't have the tools to compete consistently against the format's best decks. Domain Zoo is a whole different story: the {{< cardname "Leyline of the Guildpact" "Leyline" >}} and {{< cardname "Scion of Draco" "Scion" >}} combination can practically win games on its own, but I also found that the deck has plenty of other ways to come out on top.
 
-Last year I finished 134th out of 144 players, with one win and seven losses. This year I won six of my seven matches.
+{{< cardname "Territorial Kavu" "Kavu" >}} is a very efficient creature, {{< cardname "Leyline Binding" "Binding" >}} let me answer all kinds of threats, and {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} was probably one of the cards that brought me the most joy during the tournament.
 
-The deck is obviously a big part of the difference. Last year's Budget Dino Whack was fun and could catch an opponent off guard, but it didn't have the tools to compete consistently against the format's best decks.
-
-Domain Zoo is a whole different story.
-
-The {{< cardname "Leyline of the Guildpact" "Leyline" >}} and {{< cardname "Scion of Draco" "Scion" >}} combination can practically win games on its own, but I also found that the deck has plenty of other ways to come out on top. {{< cardname "Territorial Kavu" "Kavu" >}} is a very efficient creature, {{< cardname "Leyline Binding" "Binding" >}} let me answer all kinds of threats, and {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} was probably one of the cards that brought me the most joy during the tournament.
-
-Special mention goes to the {{< cardname "Obsidian Charmaw" "Charmaw" >}} in the sideboard. The win against Eldrazi, destroying lands one after another with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}'s help, was one of the most satisfying games of the day.
+The {{< cardname "Obsidian Charmaw" "Charmaw" >}} in the sideboard also deserves a special mention: the win against Eldrazi, destroying lands one after another with {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}}'s help, was one of the most satisfying games of the day.
 
 I learned a lot, too. The loss to Thomas reminded me that I still have plenty of room to improve, especially against experienced opponents. And my {{< cardname "Teferi, Time Raveler" "Teferi" >}} mistake in the last round shows how easy it is to miss an important interaction, even when you seem to have the game under control.
 
 But I also take away a very positive experience from that final round. Correctly identifying the interaction between {{< cardname "Phelia, Exuberant Shepherd" "Phelia" >}} and {{< cardname "Consign to Memory" "Consign" >}} and making my case to the judges, who ultimately agreed with me, makes me feel I'm getting to know the deck's subtleties better.
 
-And above all, I'll remember that last {{< cardname "Lightning Bolt" "Bolt" >}}!
-
-I can't think of a much better way to end the tournament: finding exactly the card I needed on the last available turn and earning a win that left me 6-1 and in fourth place overall.
+And above all, I'll remember that last {{< cardname "Lightning Bolt" "Bolt" >}}! I can't think of a much better way to end the tournament: finding exactly the card I needed on the last available turn and earning a win that left me 6-1 and in fourth place overall.
 
 **From almost last to fourth place in just one year.**
