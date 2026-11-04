@@ -5,7 +5,7 @@ subtitle: "Temporada"
 arenaType: "season"
 ---
 
-{{< season month="Octubre 2026" limited-start="Silver 1" limited-end="Gold 4" drafts="3" wins="7" losses="9" gems-start="1965" gems-earned="4100" gems-spent="0" tokens-bought="4" tokens-spent="3" >}}
+{{< season month="Octubre 2026" spending="51,99€" limited-start="Silver 1" limited-end="Gold 4" drafts="3" wins="7" losses="9" gems-start="1965" gems-earned="4100" gems-spent="0" tokens-bought="4" tokens-spent="3" >}}
 
 A l’octubre només he pogut jugar cinc esdeveniments de {{< set-name "FRA" "Reality Fracture" >}} perquè he estat de vacances: tres Premier Drafts i dos Sealed.
 

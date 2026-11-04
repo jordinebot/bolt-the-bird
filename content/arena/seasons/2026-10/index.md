@@ -5,7 +5,7 @@ subtitle: "Season"
 arenaType: "season"
 ---
 
-{{< season month="October 2026" limited-start="Silver 1" limited-end="Gold 4" drafts="3" wins="7" losses="9" gems-start="1965" gems-earned="4100" gems-spent="0" tokens-bought="4" tokens-spent="3" >}}
+{{< season month="October 2026" spending="51,99€" limited-start="Silver 1" limited-end="Gold 4" drafts="3" wins="7" losses="9" gems-start="1965" gems-earned="4100" gems-spent="0" tokens-bought="4" tokens-spent="3" >}}
 
 I only managed to play five {{< set-name "FRA" "Reality Fracture" >}} events in October because I was on holiday: three Premier Drafts and two Sealed events.
 
