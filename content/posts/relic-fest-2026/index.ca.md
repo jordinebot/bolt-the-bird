@@ -63,7 +63,7 @@ Finalment, aconsegueixo la segona victòria. Començar el torneig amb un 2-0 és
 
 El segon rival juga una baralla Jund Goblins, amb el combo de {{< cardname "Conspicuous Snoop" >}}, {{< cardname "Kiki-Jiki, Mirror Breaker|CHK" >}} i {{< cardname "Sling-Gang Lieutenant" >}}. És una baralla que em va sorprendre força trobar-me al torneig però que coneixia perquè [LVD](https://youtu.be/iKTOE1s7AOg?si=bjYlOEsIfz2evI0H) la va jugar la setmana passada a Arena.
 
-{{< combo "Munitions Expert" "Conspicuous Snoop" "Kiki-Jiki, Mirror Breaker" "Sling-Gang Lieutenant" >}}
+{{< combo "Skirk Prospector" "Munitions Expert" "Conspicuous Snoop" "Kiki-Jiki, Mirror Breaker" "Sling-Gang Lieutenant" >}}
 
 #### Partida 1
 
@@ -99,7 +99,7 @@ Tercera ronda i em toca jugar el _mirror match_ contra una altra Domain Zoo.
 
 La seva versió té algunes diferències interessants. Juga {{< cardname "Spara's Headquarters|SNC" >}} com a _triome_, una única muntanya com a terra bàsica i incorpora {{< cardname "Psychic Frog" "Frog" >}} i una còpia de {{< cardname "Emperor of Bones" "Emperor" >}} (el número de cartes l'he sabut posteriorment, és clar).
 
-{{< combo "Scion of Draco" "Emperor of Bones" "Psychic Frog" >}}
+{{< combo "Fatal Push" "Spell Snare" "Scion of Draco" "Emperor of Bones" "Psychic Frog" >}}
 
 #### Partida 1
 
@@ -139,7 +139,7 @@ En fi... Tres rondes, tres victòries. La cosa es comença a posar seriosa!
 
 A la quarta ronda m'enfronto a en Thomas, que juga Esper Blink (un dels [pitjors _matchups_](https://mtgdecks.net/Modern/winrates) de Domain Zoo). En Thomas és una d'aquelles persones que només de veure com remena la baralla i manipula les cartes ja t'adones que té molta experiència. Naturalment, ell també arriba a la quarta ronda amb tres victòries, de manera que, per tot plegat, guanyar serà complicat.
 
-{{< combo "Thoughtseize" "Teferi, Time Raveler" "Emperor of Bones" >}}
+{{< combo "Witch Enchanter // Witch-Blessed Meadow" "Thoughtseize" "Flickerwisp" "Teferi, Time Raveler" "Emperor of Bones" >}}
 
 #### Partida 1
 
@@ -165,7 +165,7 @@ De totes maneres, amb un 3-1 encara estic molt content amb els resultats!
 
 La cinquena ronda la jugo contra l'Aurore, que porta una baralla Tron-Eldrazi. No tinc gaire clar quina versió exactament.
 
-{{< combo "Thought-Knot Seer" "Devourer of Destiny" "Ugin, Eye of the Storms" >}}
+{{< combo "Urza's Tower" "Trinisphere" "Thought-Knot Seer" "Devourer of Destiny" "Ugin, Eye of the Storms" >}}
 
 #### Partida 1
 
@@ -203,7 +203,7 @@ A la sisena ronda jugo contra en Yannick. Porta Simic Ritual, una baralla contra
 
 De fet, en aquella ocasió vaig perdre 1-2 i una de les cartes que més em va complicar la vida va ser {{< cardname "Harbinger of the Seas|MH3" >}}, que converteix totes les terres no bàsiques en illes.
 
-{{< combo "Harbinger of the Seas" "Theorist's Proxy" "Birthing Ritual" >}}
+{{< combo "Ice-Fang Coatl" "Force of Negation" "Harbinger of the Seas" "Theorist's Proxy" "Birthing Ritual" >}}
 
 #### Partida 1
 
@@ -233,7 +233,7 @@ Aquesta sí que ha estat una victòria ràpida!
 
 L'última ronda la jugo contra un xicot italià molt simpàtic anomenat Martino. Porta una versió de Rakdos Midrange amb cartes com {{< cardname "Nethergoyf|MH3" >}}, {{< cardname "Fear of Missing Out|DSK" >}} i algunes de les novetats de Reality Fracture.
 
-{{< combo "Nethergoyf" "Fear of Missing Out" "Dark Matter Manipulator" >}}
+{{< combo "Nethergoyf" "Fear of Missing Out" "Moonshadow" "Flare of Malice" "Dark Matter Manipulator" >}}
 
 #### Partida 1
 

@@ -64,7 +64,7 @@ I take the second game, too. Starting the tournament 2-0 feels fantastic, especi
 
 My second opponent is on Jund Goblins, with the combo of {{< cardname "Conspicuous Snoop" >}}, {{< cardname "Kiki-Jiki, Mirror Breaker|CHK" >}} and {{< cardname "Sling-Gang Lieutenant" >}}. I was surprised to see the deck at the tournament, but I knew it because [LVD](https://youtu.be/iKTOE1s7AOg?si=bjYlOEsIfz2evI0H) played it on Arena last week.
 
-{{< combo "Munitions Expert" "Conspicuous Snoop" "Kiki-Jiki, Mirror Breaker" "Sling-Gang Lieutenant" >}}
+{{< combo "Skirk Prospector" "Munitions Expert" "Conspicuous Snoop" "Kiki-Jiki, Mirror Breaker" "Sling-Gang Lieutenant" >}}
 
 #### Game 1
 
@@ -100,7 +100,7 @@ Round three is the mirror match against another Domain Zoo deck.
 
 His version has some interesting differences. He plays {{< cardname "Spara's Headquarters|SNC" >}} as his triome, runs just one basic Mountain, and includes {{< cardname "Psychic Frog" "Frog" >}} and one {{< cardname "Emperor of Bones" "Emperor" >}} (I found out the exact card count later, of course).
 
-{{< combo "Scion of Draco" "Emperor of Bones" "Psychic Frog" >}}
+{{< combo "Fatal Push" "Spell Snare" "Scion of Draco" "Emperor of Bones" "Psychic Frog" >}}
 
 #### Game 1
 
@@ -140,7 +140,7 @@ Three rounds, three wins. Things are getting serious!
 
 In round four I face Thomas, who is playing Esper Blink, one of Domain Zoo's [worst matchups](https://mtgdecks.net/Modern/winrates). He's one of those people whose experience is obvious just from the way he shuffles and handles his cards. Naturally, he has also made it to round four with three wins, so this will be a tough one.
 
-{{< combo "Thoughtseize" "Teferi, Time Raveler" "Emperor of Bones" >}}
+{{< combo "Witch Enchanter // Witch-Blessed Meadow" "Thoughtseize" "Flickerwisp" "Teferi, Time Raveler" "Emperor of Bones" >}}
 
 #### Game 1
 
@@ -166,7 +166,7 @@ Still, at 3-1, I'm very happy with the result!
 
 In round five I play Aurore, who's on Tron-Eldrazi. I'm not entirely sure which exact version.
 
-{{< combo "Thought-Knot Seer" "Devourer of Destiny" "Ugin, Eye of the Storms" >}}
+{{< combo "Urza's Tower" "Trinisphere" "Thought-Knot Seer" "Devourer of Destiny" "Ugin, Eye of the Storms" >}}
 
 #### Game 1
 
@@ -204,7 +204,7 @@ In round six I play Yannick, who's on Simic Ritual, a deck I faced last year too
 
 Back then I lost 1-2, and one of the cards that caused me the most trouble was {{< cardname "Harbinger of the Seas|MH3" >}}, which turns all nonbasic lands into Islands.
 
-{{< combo "Harbinger of the Seas" "Theorist's Proxy" "Birthing Ritual" >}}
+{{< combo "Ice-Fang Coatl" "Force of Negation" "Harbinger of the Seas" "Theorist's Proxy" "Birthing Ritual" >}}
 
 #### Game 1
 
@@ -234,7 +234,7 @@ That was a quick win!
 
 I play the final round against a very nice Italian guy named Martino. He's on a Rakdos Midrange list with cards like {{< cardname "Nethergoyf|MH3" >}}, {{< cardname "Fear of Missing Out|DSK" >}} and some of the new cards from Reality Fracture.
 
-{{< combo "Nethergoyf" "Fear of Missing Out" "Dark Matter Manipulator" >}}
+{{< combo "Nethergoyf" "Fear of Missing Out" "Moonshadow" "Flare of Malice" "Dark Matter Manipulator" >}}
 
 #### Game 1
 
