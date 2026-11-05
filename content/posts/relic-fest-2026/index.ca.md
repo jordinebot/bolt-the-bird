@@ -15,7 +15,7 @@ Aquest any, doncs, he tornat al Relic Fest per participar al Modern Main Event, 
 
 El motiu principal pel qual l'any passat em vaig engrescar a viatjar fins a Toulouse per participar a un torneig d'un format que no havia jugat mai abans seriosament fou la _playmat_ oficial il·lustrada per Rebecca Guay. Aquest any no coneixia l'artista ([Donato Giancola](https://donatoarts.com/)) i, per ser sincer, no m'apassiona la il·lustració (és la portada d'aquest post); però ja que érem allà em va semblar que comprar la playmat i demanar-li a l'autor que me la signés seria un bon record! Així que això és el que vam fer el primer dia i s'ha de dir que el senyor Giancola va ser súper amable!
 
-{{< gallery match="relic26-sat*" cols="2" >}}
+{{< gallery match="relic26-sat*" cols="2" captions="Donato Giancola signant la Playmat oficial del Relic Fest|Dissabte, esperant el sopar al Tommy's Dinner|Buscant cartrons pel comprar amb els vals de compra que vaig guanyar!|Després de la última ronda: cansat però molt content!">}}
 
 ## Diumenge
 
@@ -47,7 +47,7 @@ Utilitzo {{< cardname "Lightning Bolt|3ED" "Bolt" >}} per eliminar algun {{< car
 
 És una partida llarga, amb estira-i-arronses constants, però al final aconsegueixo imposar-me. Primera partida guanyada!
 
-{{< gallery match="relic26-r1*" cols="1" >}}
+{{< gallery match="relic26-r1*" cols="1" captions="Concentrat durant la primera ronda">}}
 
 #### Partida 2
 
@@ -283,7 +283,7 @@ I llavors arriba una de les jugades més interessants de tot el torneig.
 
 Ataco amb {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} i faig _blink_ a {{< cardname "Blood Moon|MMA" "Blood Moon" >}}. Quan arriba el pas final, es dispara l'habilitat retardada que ha de retornar {{< cardname "Blood Moon|MMA" "Blood Moon" >}} al camp de batalla. Jo hi responc amb {{< cardname "Consign to Memory|MH3" "Consign" >}}, contrarestant aquesta habilitat i aconseguint que {{< cardname "Blood Moon|MMA" "Blood Moon" >}} es quedi exiliada definitivament. En Martino no està convençut que aquesta jugada sigui possible i cridem un jutge.
 
-{{< gallery match="relic26-r7*" cols="2" >}}
+{{< gallery match="relic26-r7*" cols="2" captions="Estat de la taula mentre els jutges confirmaven la jugada|Última partida del torneig">}}
 
 El jutge que ve inicialment li dona la raó a ell. Però jo estic convençut que la jugada funciona: el retorn de {{< cardname "Blood Moon|MMA" "Blood Moon" >}} és una habilitat disparada que va a la pila i a la qual es pot respondre amb {{< cardname "Consign to Memory|MH3" "Consign" >}}. Insisteixo i demanem que ho consultin amb el jutge principal.
 

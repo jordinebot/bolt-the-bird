@@ -16,7 +16,7 @@ So this year I returned to Relic Fest to play the Modern Main Event, which took 
 
 The main reason I got excited about travelling to Toulouse last year to play in a tournament for a format I had never seriously played was the official playmat illustrated by Rebecca Guay. This year I didn't know the artist ([Donato Giancola](https://donatoarts.com/)) and, to be honest, I wasn't that keen on the illustration (it's the cover of this post). But since we were there, I thought buying the playmat and asking the artist to sign it would make a nice souvenir. That's what we did on the first day, and I have to say Mr. Giancola was incredibly kind!
 
-{{< gallery match="relic26-sat*" cols="2" >}}
+{{< gallery match="relic26-sat*" cols="2" captions="Donato Giancola signing the official Relic Fest playmat|Saturday, waiting for food at Tommy's Dinner|Looking for cards to buy with the store credit vouchers I won!|After the last round: tired but very happy!">}}
 
 ## Sunday
 
@@ -48,7 +48,7 @@ I use {{< cardname "Lightning Bolt|3ED" "Bolt" >}} to kill an {{< cardname "Empe
 
 It's a long game with plenty of back and forth, but I eventually come out on top. That's the first game!
 
-{{< gallery match="relic26-r1*" cols="1" >}}
+{{< gallery match="relic26-r1*" cols="1" captions="Focused during the first round">}}
 
 #### Game 2
 
@@ -284,7 +284,7 @@ Then comes one of the most interesting plays of the whole tournament.
 
 I attack with {{< cardname "Phelia, Exuberant Shepherd|MH3" "Phelia" >}} and blink {{< cardname "Blood Moon|MMA" "Blood Moon" >}}. At the beginning of the end step, the delayed trigger that returns {{< cardname "Blood Moon|MMA" "Blood Moon" >}} to the battlefield goes on the stack. I respond with {{< cardname "Consign to Memory|MH3" "Consign" >}}, countering that trigger and keeping {{< cardname "Blood Moon|MMA" "Blood Moon" >}} exiled for good. Martino isn't sure the play works, so we call a judge.
 
-{{< gallery match="relic26-r7*" cols="2" >}}
+{{< gallery match="relic26-r7*" cols="2" captions="The board state while the judges were confirming the play|The last game of the tournament">}}
 
 The first judge to arrive initially agrees with him. But I'm convinced it works: {{< cardname "Blood Moon|MMA" "Blood Moon" >}}'s return is a delayed triggered ability that goes on the stack, and {{< cardname "Consign to Memory|MH3" "Consign" >}} can respond to it. I insist, and we ask the head judge to confirm.
 
