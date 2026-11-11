@@ -16,7 +16,6 @@ title = "Bolt the Bird!"
   pageTitle = "Bolt the Bird! | A personal blog about Magic: The Gathering"
   accentColor = "#4f46e5"
   googleTagID = "G-Q2VCWFH77S"
-  authorImage = "/images/simple-avatar.webp"
 
   [params.home]
     sidebarLogo = "/images/cover.webp"
