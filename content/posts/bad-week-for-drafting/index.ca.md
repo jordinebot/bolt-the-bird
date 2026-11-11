@@ -1,6 +1,7 @@
 ---
 title: "Una mala setmana pel Draft"
 date: 2026-06-05T18:56:57+02:00
+author: "Jordi Nebot"
 tags: [arena, limited, draft]
 credit: [Fahmi Fauzi]
 creditLink: [https://www.artstation.com/artwork/qJV1zz]

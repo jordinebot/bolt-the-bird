@@ -5,4 +5,4 @@ subtitle: "Set Mastery"
 arenaType: "mastery"
 ---
 
-{{< mastery set="FRA" title="Reality Fracture" level="0" pass="false" ongoing="true" >}}
+{{< mastery set="FRA" title="Reality Fracture" level="16" pass="false" >}}

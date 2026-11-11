@@ -1,6 +1,7 @@
 ---
 title: "My first Draft victory!"
 date: 2026-05-28T20:30:02+02:00
+author: "Jordi Nebot"
 tags: [arena, limited, draft, STX]
 aiTranslated: true
 ---

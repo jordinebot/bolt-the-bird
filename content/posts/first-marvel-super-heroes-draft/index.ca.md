@@ -1,6 +1,7 @@
 ---
 title: "Un inici complicat a Marvel Limited"
 date: 2026-06-27T13:53:07+02:00
+author: "Jordi Nebot"
 featured: true
 tags: [arena, limited, draft, MSH]
 ---

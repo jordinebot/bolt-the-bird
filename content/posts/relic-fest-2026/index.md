@@ -1,6 +1,7 @@
 ---
 title: "Relic Fest 2026: I still can't believe it!"
 date: 2026-11-02
+author: "Jordi Nebot"
 featured: true
 tags: [relicfest, tournament, modern]
 credit: [Donato Giancola]

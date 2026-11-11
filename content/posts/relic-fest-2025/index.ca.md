@@ -1,6 +1,7 @@
 ---
 title: "Relic Fest 2025: El meu primer torneig de Modern"
 date: 2025-11-23T12:57:41+01:00
+author: "Jordi Nebot"
 tags: [relicfest, torneig, modern]
 credit: [Rebecca Guay]
 ---

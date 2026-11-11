@@ -1,6 +1,7 @@
 ---
 title: "First steps drafting Secrets of Strixhaven"
 date: 2026-05-25T15:22:17+02:00
+author: "Jordi Nebot"
 tags: [arena, limited, draft, SOS]
 ---
 

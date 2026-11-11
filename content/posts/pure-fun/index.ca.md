@@ -1,6 +1,7 @@
 ---
 title: "Diversió en estat pur (6-3 amb Jeskai a SOS)"
 date: 2026-06-12T18:01:56+02:00
+author: "Jordi Nebot"
 tags: [arena, limited, draft, SOS]
 credit: [Néstor Ossandón Leal, Justin Gerard]
 creditLink:

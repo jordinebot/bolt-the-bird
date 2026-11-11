@@ -1,6 +1,7 @@
 ---
 title: "Un 7-0 inesperat en un draft fantasma"
 date: 2026-06-11T20:14:15+02:00
+author: "Jordi Nebot"
 tags: [arena, limited, phantom, draft, FDN]
 credit: [Pindurski]
 creditLink: [https://www.artstation.com/pindurski]

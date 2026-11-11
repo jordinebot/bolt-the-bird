@@ -1,6 +1,7 @@
 ---
 title: "Disfrutant com un nan!"
 date: 2026-08-15T16:36:48+02:00
+author: "Jordi Nebot"
 featured: true
 tags: [arena, limited, draft, HOB]
 credit: [Dmitry Burmak]

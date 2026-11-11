@@ -1,6 +1,7 @@
 ---
 title: "Relic Fest 2026: Encara no m'ho crec!"
 date: 2026-11-02
+author: "Jordi Nebot"
 featured: true
 tags: [relicfest, torneig, modern]
 credit: [Donato Giancola]

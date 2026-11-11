@@ -1,6 +1,7 @@
 ---
 title: "The Platinum Wall: When Playing On Gets Expensive"
 date: 2026-09-11T12:49:00+02:00
+author: "Jordi Nebot"
 featured: true
 tags:
   - arena

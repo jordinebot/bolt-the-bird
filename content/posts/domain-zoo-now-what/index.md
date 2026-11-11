@@ -1,6 +1,7 @@
 ---
 title: "Domain Zoo: Now what?"
 date: 2026-06-01T17:19:34+02:00
+author: "Jordi Nebot"
 tags: [modern]
 credit: [Lucas Graciano]
 creditLink: [https://www.instagram.com/p/DXwi4KCig4N/]

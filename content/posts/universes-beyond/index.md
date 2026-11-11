@@ -1,6 +1,7 @@
 ---
 title: "Universes Beyond: We Say Thee Yay!"
 date: 2026-06-22T08:34:06+02:00
+author: "Jordi Nebot"
 tags: [universes beyond, opinion]
 credit: [Mateus Manhanini]
 aiTranslated: true

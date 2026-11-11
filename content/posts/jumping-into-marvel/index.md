@@ -1,6 +1,7 @@
 ---
 title: "Jumping into the World of Marvel"
 date: 2026-06-24T11:38:14+02:00
+author: "Jordi Nebot"
 featured: true
 tags: [arena, jump in, MSH, MSC, marvel]
 aiTranslated: true

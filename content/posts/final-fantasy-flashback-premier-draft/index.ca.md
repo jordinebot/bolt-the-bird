@@ -1,6 +1,7 @@
 ---
 title: "Tres Drafts de Final Fantasy: llums i ombres"
 date: 2026-06-19T18:16:36+02:00
+author: "Jordi Nebot"
 tags: [arena, limited, draft, FIN]
 credit: [Magali Villeneuve]
 creditLink: [https://www.instagram.com/p/DJpdVJRtm5O/?hl=en]
