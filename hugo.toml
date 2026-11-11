@@ -19,6 +19,7 @@ title = "Bolt the Bird!"
 
   [params.home]
     sidebarLogo = "/images/cover.webp"
+    sidebarLogoDark = "/images/cover-dark.png"
 
 [taxonomies]
   tag = "tags"
