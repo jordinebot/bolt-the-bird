@@ -95,6 +95,8 @@ title = "Bolt the Bird!"
 
     [languages.ca.params]
       description = "Drafts de Magic: The Gathering, partides a Arena, notes de baralles i cròniques de tornejos."
+      blogTitle = "Bolt the Bird!"
+      pageTitle = "Bolt the Bird! | Un blog personal sobre Magic: The Gathering"
       [languages.ca.params.footer]
         # Còpia legal opcional renderitzada per Leyline al footer global.
         [languages.ca.params.footer.fanContentDisclaimer]
