@@ -1,7 +1,6 @@
 ---
 title: "Star Trek Sealed: First Impressions"
 date: 2026-11-13T21:18:34+01:00
-draft: true
 description: ""
 tags: [TRK, arena, limited, sealed]
 credit: [David Robert Hovey, Ron Lemen, Nicky Barkla]
