@@ -2,7 +2,6 @@
 title: "Alts i baixos als Drafts de Marvel"
 date: 2026-08-07T20:23:40+02:00
 author: "Jordi Nebot"
-featured: true
 tags: [arena, limited, draft, MSH, EOE]
 credit: [Alexander Gering]
 coverAiModified: true

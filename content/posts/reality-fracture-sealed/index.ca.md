@@ -2,7 +2,6 @@
 title: "Reality Fracture Sealed: Primeres impressions"
 date: 2026-10-03T13:36:22+02:00
 author: "Jordi Nebot"
-featured: true
 tags: [FRA, arena, limited, sealed]
 ---
 
