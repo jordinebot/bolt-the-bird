@@ -30,7 +30,7 @@ Hi havia algunes petites sinergies interessants, com la possibilitat d'utilitzar
 
 Vaig guanyar la primera partida, però en vaig perdre les dues següents. Arribats a aquest punt, vaig revisar el meu _pool_ i vaig provar una combinació de colors completament diferent: una baralla Temur {{< mana "{G}{U}{R}" >}}. Vaig mantenir bona part de les cartes verdes i hi vaig incorporar sinergies amb artefactes i naus espacials, així com més maneres de generar avantatge de cartes.
 
-Entre aquestes sinergies hi havia la possibilitat d'utilitzar {{< cardname name="D'Vana Tendi, Optimistic Ensign" >}} per activar dues vegades en un mateix torn el Warp Core i accelerar així la càrrega de les naus espacials. El canvi tampoc no va donar els resultats esperats: vaig perdre la quarta partida i vaig acabar el Sealed amb una victòria i tres derrotes. En totes quatre partides em va tocar començar _on the draw_.
+Entre aquestes sinergies hi havia la possibilitat d'utilitzar {{< cardname name="D'Vana Tendi, Optimistic Ensign" >}} per activar dues vegades en un mateix torn el {{< cardname "Warp Core" >}} i accelerar així la càrrega de les naus espacials. El canvi tampoc no va donar els resultats esperats: vaig perdre la quarta partida i vaig acabar el Sealed amb una victòria i tres derrotes. En totes quatre partides em va tocar començar _on the draw_.
 
 ## Segon Sealed: de Golgari a Bant
 
@@ -48,7 +48,7 @@ Tenia fins a sis terres amb noms diferents, cosa que em permetia aprofitar molt 
 
 La carta més espectacular de la baralla era, sens dubte, {{< cardname name="Excalbian Gamemaster" >}}, una criatura 6/6 que podia posar fins a sis fitxes de criatura 1/1 al camp de batalla de cop amb les terres de la meva baralla i, a més, distribuir comptadors +1/+1 entre les nostres criatures cada vegada que una d'elles moria.
 
-La baralla també disposava de tres naus espacials —dues còpies de {{< cardname name="Enterprise NX-01" >}} i una de {{< cardname name="U.S.S. Cerritos, Following Up" >}}— i d'algunes cartes amb sinergia, com {{< cardname name="Zefram Cochrane, Warp Pioneer" >}}.
+La baralla també disposava de tres naus espacials (dues còpies de {{< cardname name="Enterprise NX-01" >}} i una de {{< cardname name="U.S.S. Cerritos, Following Up" >}}) i d'algunes cartes amb sinergia, com {{< cardname name="Zefram Cochrane, Warp Pioneer" >}}.
 
 Amb aquesta segona baralla vaig tenir força millors sensacions. Vaig guanyar quatre de les set partides del Sealed, abans de perdre'n les dues darreres. En general, però, les partides van ser lentes i molt igualades, autèntiques guerres de desgast que en diversos casos es van decantar cap a una banda o l'altra amb un component de sort.
 
@@ -106,8 +106,8 @@ Però, fins a quin punt és representativa aquesta experiència? Si consultem le
 | {{< set-name "MSH" "Marvel Super Heroes" >}}   |          9,00 |      8,86 |
 | {{< set-name "HOB" "The Hobbit" >}}            |          8,61 |      8,60 |
 | {{< set-name "ECL" "Reality Fracture" >}}      |          9,81 |      9,80 |
-| {{< set-name "TRK" "Star Trek" >}}             |             — |      9,10 |
-| **La meva experiència amb Star Trek**          |             — | **10,27** |
+| {{< set-name "TRK" "Star Trek" >}}             | (no aplica) |      9,10 |
+| **La meva experiència amb Star Trek**          | (no aplica) | **10,27** |
 
 Les dades de les quatre col·leccions anteriors provenen de 17Lands, mentre que les d'Star Trek provenen d'Untapped.gg, que, en el moment de consultar-ho, disposava d'una mostra d'unes 54.000 partides de Sealed. Cal tenir present, doncs, que estem comparant dues fonts diferents i que la col·lecció tot just fa uns dies que està disponible.
 

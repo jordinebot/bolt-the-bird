@@ -31,7 +31,7 @@ There were a few interesting small synergies, such as using {{< cardname name="T
 
 I won the first game but lost the next two. At that point, I took another look at my _pool_ and tried a completely different color combination: a Temur deck {{< mana "{G}{U}{R}" >}}. I kept many of the green cards and added artifact and starship synergies, along with more ways to generate card advantage.
 
-One of those synergies let me use {{< cardname name="D'Vana Tendi, Optimistic Ensign" >}} to activate the Warp Core twice in a single turn, speeding up my starships. The change did not produce the results I hoped for: I lost the fourth game and finished the Sealed with one win and three losses. I was on the draw in all four games.
+One of those synergies let me use {{< cardname name="D'Vana Tendi, Optimistic Ensign" >}} to activate the {{< cardname "Warp Core" >}} twice in a single turn, speeding up my starships. The change did not produce the results I hoped for: I lost the fourth game and finished the Sealed with one win and three losses. I was on the draw in all four games.
 
 ## Second Sealed: from Golgari to Bant
 
@@ -49,9 +49,9 @@ I had as many as six lands with different names, which let me make much better u
 
 The deck’s most spectacular card was undoubtedly {{< cardname name="Excalbian Gamemaster" >}}, a 6/6 that could create up to six 1/1 creature tokens at once using lands from my library and, on top of that, distribute +1/+1 counters among our creatures whenever one of them died.
 
-The deck also had three starships—two copies of {{< cardname name="Enterprise NX-01" >}} and one {{< cardname name="U.S.S. Cerritos, Following Up" >}}—along with cards that synergized with them, such as {{< cardname name="Zefram Cochrane, Warp Pioneer" >}}.
+The deck also had three starships (two copies of {{< cardname name="Enterprise NX-01" >}} and one {{< cardname name="U.S.S. Cerritos, Following Up" >}}), along with cards that synergized with them, such as {{< cardname name="Zefram Cochrane, Warp Pioneer" >}}.
 
-I felt much better about this second build. I won four of the seven games in the Sealed before losing the last two. Overall, though, the games were slow and close—real battles of attrition, with several outcomes tipping one way or the other partly due to luck.
+I felt much better about this second build. I won four of the seven games in the Sealed before losing the last two. Overall, though, the games were slow and close (real battles of attrition, with several outcomes tipping one way or the other partly due to luck).
 
 ## Real battles of attrition
 
@@ -107,8 +107,8 @@ But how representative is this experience? We can compare it with recent sets us
 | {{< set-name "MSH" "Marvel Super Heroes" >}}   |          9.00 |      8.86 |
 | {{< set-name "HOB" "The Hobbit" >}}            |          8.61 |      8.60 |
 | {{< set-name "ECL" "Reality Fracture" >}}      |          9.81 |      9.80 |
-| {{< set-name "TRK" "Star Trek" >}}             |             — |      9.10 |
-| **My Star Trek experience**                    |             — | **10.27** |
+| {{< set-name "TRK" "Star Trek" >}}             | (n/a) |      9.10 |
+| **My Star Trek experience**                    | (n/a) | **10.27** |
 
 The data for the previous four sets comes from 17Lands, while the Star Trek data comes from Untapped.gg, which had a sample of around 54,000 Sealed games when I checked. So we are comparing two different sources, and the set had only been available for a few days.
 
