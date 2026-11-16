@@ -1,6 +1,7 @@
 ---
 title: "Star Trek Sealed: First Impressions"
 date: 2026-11-13T21:18:34+01:00
+author: "Jordi Nebot"
 description: ""
 tags: [TRK, arena, limited, sealed]
 credit: [David Robert Hovey, Ron Lemen, Nicky Barkla]
@@ -107,8 +108,8 @@ But how representative is this experience? We can compare it with recent sets us
 | {{< set-name "MSH" "Marvel Super Heroes" >}}   |          9.00 |      8.86 |
 | {{< set-name "HOB" "The Hobbit" >}}            |          8.61 |      8.60 |
 | {{< set-name "ECL" "Reality Fracture" >}}      |          9.81 |      9.80 |
-| {{< set-name "TRK" "Star Trek" >}}             | (n/a) |      9.10 |
-| **My Star Trek experience**                    | (n/a) | **10.27** |
+| {{< set-name "TRK" "Star Trek" >}}             |         (n/a) |      9.10 |
+| **My Star Trek experience**                    |         (n/a) | **10.27** |
 
 The data for the previous four sets comes from 17Lands, while the Star Trek data comes from Untapped.gg, which had a sample of around 54,000 Sealed games when I checked. So we are comparing two different sources, and the set had only been available for a few days.
 

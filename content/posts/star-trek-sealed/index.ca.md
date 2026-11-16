@@ -1,6 +1,7 @@
 ---
 title: "Star Trek Sealed: Primeres impressions"
 date: 2026-11-13T21:18:34+01:00
+author: "Jordi Nebot"
 description: ""
 tags: [TRK, arena, limited, sealed]
 credit: [David Robert Hovey, Ron Lemen, Nicky Barkla]
@@ -106,8 +107,8 @@ Però, fins a quin punt és representativa aquesta experiència? Si consultem le
 | {{< set-name "MSH" "Marvel Super Heroes" >}}   |          9,00 |      8,86 |
 | {{< set-name "HOB" "The Hobbit" >}}            |          8,61 |      8,60 |
 | {{< set-name "ECL" "Reality Fracture" >}}      |          9,81 |      9,80 |
-| {{< set-name "TRK" "Star Trek" >}}             | (no aplica) |      9,10 |
-| **La meva experiència amb Star Trek**          | (no aplica) | **10,27** |
+| {{< set-name "TRK" "Star Trek" >}}             |   (no aplica) |      9,10 |
+| **La meva experiència amb Star Trek**          |   (no aplica) | **10,27** |
 
 Les dades de les quatre col·leccions anteriors provenen de 17Lands, mentre que les d'Star Trek provenen d'Untapped.gg, que, en el moment de consultar-ho, disposava d'una mostra d'unes 54.000 partides de Sealed. Cal tenir present, doncs, que estem comparant dues fonts diferents i que la col·lecció tot just fa uns dies que està disponible.
 
