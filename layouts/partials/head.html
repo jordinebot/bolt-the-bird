@@ -1,0 +1,108 @@
+{{- $siteTitle := site.Params.pageTitle | default site.Title -}}
+{{- $blogTitle := site.Params.blogTitle | default site.Title -}}
+{{- $title := cond .IsHome $siteTitle (printf "%s · %s" .Title $siteTitle) -}}
+{{- $description := .Description | default .Summary | default site.Params.description -}}
+{{- $description = $description | plainify | htmlUnescape | replaceRE "\\s+" " " | truncate 180 -}}
+{{- $languageCode := .Language.Locale | default .Language.Lang -}}
+{{- $localeParts := split $languageCode "-" -}}
+{{- $ogLocale := replace $languageCode "-" "_" -}}
+{{- if ge (len $localeParts) 2 -}}
+  {{- $ogLocale = printf "%s_%s" (index $localeParts 0 | lower) (index $localeParts 1 | upper) -}}
+{{- else -}}
+  {{- $ogLocale = $languageCode | lower -}}
+{{- end -}}
+{{- $cover := .Resources.GetMatch "{cover,featured,hero}.{jpg,jpeg,png,webp,avif}" -}}
+{{- $image := "" -}}
+{{- with $cover -}}
+  {{- $image = .Permalink -}}
+{{- else -}}
+  {{- with .Params.image -}}
+    {{- $image = . | absURL -}}
+  {{- end -}}
+{{- end -}}
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Hugo {{ hugo.Version }}">
+
+{{ partial "google-tag.html" . }}
+
+<title>{{ $title }}</title>
+
+{{ with $description }}
+  <meta name="description" content="{{ . }}">
+{{ end }}
+
+{{ with site.Params.accentColor }}
+  <meta name="theme-color" content="{{ . }}">
+{{ end }}
+
+{{/* Favicons. Sites that want a favicon should drop the files into
+     static/favicon/ matching these names. Sites without will receive
+     a few harmless 404s for these specific resources only. */}}
+<link rel="icon" type="image/svg+xml" href="{{ "favicon/favicon.svg" | relURL }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ "favicon/favicon-96x96.png" | relURL }}">
+<link rel="shortcut icon" href="{{ "favicon/favicon.ico" | relURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "favicon/apple-touch-icon.png" | relURL }}">
+<link rel="manifest" href="{{ "favicon/site.webmanifest" | relURL }}">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"></noscript>
+
+{{ if .IsPage }}{{ partial "mtg-styles.html" . }}{{ end }}
+
+{{ $opts := dict "outputStyle" "compressed" "targetPath" "css/main.css" }}
+{{ with resources.Get "scss/main.scss" }}
+  {{ $css := . | toCSS $opts | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ end }}
+
+{{ with site.Params.accentColor }}
+  <style>:root { --accent: {{ . | safeCSS }}; }</style>
+{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}">
+{{ range .AllTranslations }}
+  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}
+{{ range first 1 .AllTranslations }}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ end }}
+
+<meta property="og:title" content="{{ $title }}">
+{{ with $description }}
+  <meta property="og:description" content="{{ . }}">
+{{ end }}
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ $blogTitle }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:locale" content="{{ $ogLocale }}">
+{{ range .Translations }}
+  {{- $alternateLanguageCode := .Language.Locale | default .Language.Lang -}}
+  {{- $alternateLocaleParts := split $alternateLanguageCode "-" -}}
+  {{- $alternateLocale := replace $alternateLanguageCode "-" "_" -}}
+  {{- if ge (len $alternateLocaleParts) 2 -}}
+    {{- $alternateLocale = printf "%s_%s" (index $alternateLocaleParts 0 | lower) (index $alternateLocaleParts 1 | upper) -}}
+  {{- else -}}
+    {{- $alternateLocale = $alternateLanguageCode | lower -}}
+  {{- end -}}
+  <meta property="og:locale:alternate" content="{{ $alternateLocale }}">
+{{ end }}
+{{ with $image }}
+  <meta property="og:image" content="{{ . }}">
+{{ end }}
+
+<meta name="twitter:card" content="{{ if $image }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:title" content="{{ $title }}">
+{{ with $description }}
+  <meta name="twitter:description" content="{{ . }}">
+{{ end }}
+{{ with $image }}
+  <meta name="twitter:image" content="{{ . }}">
+{{ end }}
+
+{{ with .OutputFormats.Get "RSS" }}
+  <link rel="alternate" type="application/rss+xml" title="{{ $blogTitle }}" href="{{ .RelPermalink }}">
+{{ end }}
