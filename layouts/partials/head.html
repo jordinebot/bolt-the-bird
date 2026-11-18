@@ -46,11 +46,6 @@
 <meta name="apple-mobile-web-app-title" content="{{ $blogTitle }}">
 <link rel="manifest" href="{{ "favicon/site.webmanifest" | relURL }}">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"></noscript>
-
 {{ if .IsPage }}{{ partial "mtg-styles.html" . }}{{ end }}
 
 {{ $opts := dict "outputStyle" "compressed" "targetPath" "css/main.css" }}
@@ -58,6 +53,20 @@
   {{ $css := . | toCSS $opts | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ end }}
+
+<style>
+  :root {
+    --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --font-serif: ui-serif, Georgia, "Times New Roman", serif;
+  }
+  h1, h2, h3, h4, h5, h6,
+  .site-logo,
+  .post-header__subtitle,
+  .post-content thead th,
+  .not-found__code {
+    font-weight: 800;
+  }
+</style>
 
 {{ with site.Params.accentColor }}
   <style>:root { --accent: {{ . | safeCSS }}; }</style>
