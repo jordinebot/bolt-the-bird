@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <div class="archive-layout container-wide">
+    {{ partial "archive-sidebar.html" . }}
+    <div class="archive-main">
+      <header class="archive-heading">
+        {{ if not .IsHome }}<h1>{{ .Title | default (site.Params.blogTitle | default site.Title) }}</h1>{{ end }}
+        {{ with .Description | default site.Params.description }}<p>{{ . }}</p>{{ end }}
+      </header>
+
+      {{ $posts := where site.RegularPages "Section" "posts" }}
+      {{ $max := site.Params.home.postCount | default 6 }}
+      {{ $recent := first $max (sort $posts "Date" "desc") }}
+      {{ if gt (len $recent) 0 }}
+        <section class="editorial-section">
+          <div class="editorial-grid">
+            {{ range $index, $page := $recent }}
+              {{ if eq $index 0 }}
+                {{ partial "post-card.html" (dict "page" $page "loading" "eager" "priority" "high") }}
+              {{ else }}
+                {{ partial "post-card.html" $page }}
+              {{ end }}
+            {{ end }}
+          </div>
+        </section>
+        <div class="home-all-posts"><a href="{{ "posts/" | relLangURL }}">{{ i18n "all_posts" }} <span aria-hidden="true">→</span></a></div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

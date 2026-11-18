@@ -1,0 +1,41 @@
+{{- /* Render responsive WebP covers and prioritize the first home-page cover. */ -}}
+{{- $page := .page -}}
+{{- $variant := .variant | default "card" -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $priority := .priority | default "" -}}
+{{- $alt := $page.Params.imageAlt | default $page.Title -}}
+{{- $cover := $page.Resources.GetMatch "{cover,featured,hero}.{jpg,jpeg,png,webp,avif}" -}}
+
+{{- if $cover -}}
+  {{- $widths := slice 320 480 640 -}}
+  {{- $sizes := "(max-width: 640px) 100vw, 360px" -}}
+  {{- if eq $variant "hero" -}}
+    {{- $widths = slice 640 960 1280 1600 -}}
+    {{- $sizes = "(max-width: 720px) 100vw, 1280px" -}}
+  {{- end -}}
+  {{- $srcset := slice -}}
+  {{- $largest := false -}}
+  {{- range $widths -}}
+    {{- if le . $cover.Width -}}
+      {{- $img := $cover.Resize (printf "%dx q82 webp" .) -}}
+      {{- $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink .) -}}
+      {{- $largest = $img -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $largest -}}
+    {{- $largest = $cover.Process "webp q82" -}}
+    {{- $srcset = $srcset | append (printf "%s %dw" $largest.RelPermalink $largest.Width) -}}
+  {{- end -}}
+  <img
+    src="{{ $largest.RelPermalink }}"
+    srcset="{{ delimit $srcset ", " }}"
+    sizes="{{ $sizes }}"
+    width="{{ $cover.Width }}"
+    height="{{ $cover.Height }}"
+    alt="{{ $alt }}"
+    loading="{{ $loading }}"
+    decoding="async"{{ with $priority }}
+    fetchpriority="{{ . }}"{{ end }}>
+{{- else if $page.Params.image -}}
+  <img src="{{ $page.Params.image | safeURL }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $priority }} fetchpriority="{{ . }}"{{ end }}>
+{{- end -}}
