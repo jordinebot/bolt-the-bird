@@ -13,17 +13,19 @@
     {{- $widths = slice 640 960 1280 1600 -}}
     {{- $sizes = "(max-width: 720px) 100vw, 1280px" -}}
   {{- end -}}
+  {{- $quality := 68 -}}
+  {{- if eq $variant "hero" -}}{{- $quality = 82 -}}{{- end -}}
   {{- $srcset := slice -}}
   {{- $largest := false -}}
   {{- range $widths -}}
     {{- if le . $cover.Width -}}
-      {{- $img := $cover.Resize (printf "%dx q82 webp" .) -}}
+      {{- $img := $cover.Resize (printf "%dx q%d webp" . $quality) -}}
       {{- $srcset = $srcset | append (printf "%s %dw" $img.RelPermalink .) -}}
       {{- $largest = $img -}}
     {{- end -}}
   {{- end -}}
   {{- if not $largest -}}
-    {{- $largest = $cover.Process "webp q82" -}}
+    {{- $largest = $cover.Process (printf "webp q%d" $quality) -}}
     {{- $srcset = $srcset | append (printf "%s %dw" $largest.RelPermalink $largest.Width) -}}
   {{- end -}}
   <img
