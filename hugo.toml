@@ -18,8 +18,7 @@ title = "Bolt the Bird!"
   googleTagID = "G-Q2VCWFH77S"
 
   [params.home]
-    sidebarLogo = "/images/cover.webp"
-    sidebarLogoDark = "/images/cover-dark.png"
+    sidebarLogo = "/images/cover-dark-sidebar.webp"
 
 [taxonomies]
   tag = "tags"
