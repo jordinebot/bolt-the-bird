@@ -40,10 +40,10 @@
 {{/* Favicons. Sites that want a favicon should drop the files into
      static/favicon/ matching these names. Sites without will receive
      a few harmless 404s for these specific resources only. */}}
-<link rel="icon" type="image/svg+xml" href="{{ "favicon/favicon.svg" | relURL }}">
 <link rel="icon" type="image/png" sizes="96x96" href="{{ "favicon/favicon-96x96.png" | relURL }}">
 <link rel="shortcut icon" href="{{ "favicon/favicon.ico" | relURL }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "favicon/apple-touch-icon.png" | relURL }}">
+<meta name="apple-mobile-web-app-title" content="{{ $blogTitle }}">
 <link rel="manifest" href="{{ "favicon/site.webmanifest" | relURL }}">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
