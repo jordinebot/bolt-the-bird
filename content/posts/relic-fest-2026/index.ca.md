@@ -19,7 +19,7 @@ El motiu principal pel qual l'any passat em vaig engrescar a viatjar fins a Toul
 
 ## Diumenge
 
-Aquest cop m'he presentat al torneig amb una baralla [Domain Zoo](https://mtgdecks.net/Modern/domain-aggro). És un arquetip que m'agrada molt (també en jugo una versió a Pauper) i, en general, les baralles de molts colors son les meves preferides.Òbviament és una baralla molt més competitiva que la de l'any passat, que combina criatures molt eficients amb una bona quantitat d'interacció i que pot tenir sortides realment explosives gràcies al combo de {{< cardname "Leyline of the Guildpact|MKM" >}} i {{< cardname "Scion of Draco" >}}.
+Aquest cop m'he presentat al torneig amb una baralla [Domain Zoo](https://mtgdecks.net/Modern/domain-aggro). És un arquetip que m'agrada molt (també en jugo una versió a Pauper) i, en general, les baralles de molts colors son les meves preferides. Òbviament és una baralla molt més competitiva que la de l'any passat, que combina criatures molt eficients amb una bona quantitat d'interacció i que pot tenir sortides realment explosives gràcies al combo de {{< cardname "Leyline of the Guildpact|MKM" >}} i {{< cardname "Scion of Draco" >}}.
 
 {{< combo "Leyline of the Guildpact" "Scion of Draco" "Territorial Kavu" "Ragavan, Nimble Pilferer" "Phelia, Exuberant Shepherd|MH3" >}}
 
