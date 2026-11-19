@@ -19,6 +19,10 @@ title = "Bolt the Bird!"
 
   [params.home]
     sidebarLogo = "/images/cover-dark-sidebar.webp"
+    postCount = 6
+
+  [params.list]
+    postCount = 8 # Posts per archive page.
 
 [taxonomies]
   tag = "tags"
